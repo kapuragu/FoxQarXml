@@ -1,0 +1,990 @@
+<?xml version="1.0"?>
+<ArchiveFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="QarFile" Name="00.dat" Flags="1053152" Version="2">
+  <Entries>
+    <Entry Key="2785280071" Encryption="3824742374" FilePath="/Fox/Scripts/Gr/gr_init_dx11.lua" Compressed="false" MetaFlag="true" Version="2" DataHash="iGZJBkprzS06VrZffhpK0g==" />
+    <Entry Key="2394102799" Encryption="3824742374" FilePath="/Tpp/Scripts/Equip/ChimeraPartsPackageTable.lua" Compressed="false" MetaFlag="true" Version="2" DataHash="dg3zRDzYxWabS3JFDU+HKQ==" />
+    <Entry Key="251928336" Encryption="3824742374" FilePath="/Tpp/Scripts/Equip/EquipIdTable.lua" Compressed="false" MetaFlag="true" Version="2" DataHash="D0AY55jhDGBjCNg2hh0DEw==" />
+    <Entry Key="2942893648" Encryption="3824742374" FilePath="/Tpp/Scripts/Equip/EquipMotionData.lua" Compressed="false" MetaFlag="true" Version="2" DataHash="9eATZzU79yvIuh7Nyg0s1Q==" />
+    <Entry Key="272698129" Encryption="3824742374" FilePath="/Tpp/Scripts/Ui/TppUiBootInit.lua" Compressed="false" MetaFlag="true" Version="2" DataHash="iLg4yXdV6l6Kyl0sTjTM8Q==" />
+    <Entry Key="746856525" Encryption="3824742374" FilePath="/Tpp/start.lua" Compressed="false" MetaFlag="true" Version="2" DataHash="DiR3oKGH8lDdDuRQx6G2Dw==" />
+    <Entry Key="1803623884" Encryption="3824742374" FilePath="/Assets/ssd/fova/common_source/chara/cm_head/face_id/SsdNpcFaceAndBodyData.lua" Compressed="false" Version="2" DataHash="yXpDXstvuF29JwdaK8/SOw==" />
+    <Entry Key="140493577" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/chara/player/game_object/PlayerBaseFacilityCamera.lua" Compressed="false" Version="2" DataHash="tpkF+8jfp+BGmUTf5Kc51g==" />
+    <Entry Hash="8126761628828871110" Key="4263730284" Encryption="3824742374" FilePath="ea4dc9ea9c6.json" Compressed="false" Version="2" DataHash="zMdZCinV+jJq6doG5cFdQw==" />
+    <Entry Hash="8127536521141610146" Key="3498314590" Encryption="3824742374" FilePath="2cf6789a8e6a2.json" Compressed="false" Version="2" DataHash="Ce7cQMjqJwCe0pxE84UecA==" />
+    <Entry Hash="8126859425754923345" Key="3287947345" Encryption="3824742374" FilePath="6796fba84151.json" Compressed="false" Version="2" DataHash="Ra9bX2S8IoA5rsoFVac0yw==" />
+    <Entry Key="241106012" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/c20120_c_test.json" Compressed="false" Version="2" DataHash="2wvu44ZTGOhhOFy5NkzVUA==" />
+    <Entry Key="2887737370" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/c20120_q1_test.json" Compressed="false" Version="2" DataHash="qOFA47tX9ilMuM1u94JnsQ==" />
+    <Entry Key="2887737370" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/c20120_q2_test.json" Compressed="false" Version="2" DataHash="cUS94QHhRSkbseN+iswysQ==" />
+    <Entry Key="3693043818" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/c20120_q3_test.json" Compressed="false" Version="2" DataHash="zl2b0BDu+GVjl/tIlVJ0zQ==" />
+    <Entry Key="2887739418" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/c20120_w1_test.json" Compressed="false" Version="2" DataHash="3aChlAq6Ay653MEE7u8Mfg==" />
+    <Entry Key="2887739418" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/c20120_w2_test.json" Compressed="false" Version="2" DataHash="kHZmt04U4+2dWB3Gp2QBXA==" />
+    <Entry Key="3693045866" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/c20120_w3_test.json" Compressed="false" Version="2" DataHash="XHjJqKDIon6dIdG1EVLtqA==" />
+    <Entry Key="1571918" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/pfCamp/c24603_common.json" Compressed="false" Version="2" DataHash="kUDsHcrwM0b4LcOjaVzIjA==" />
+    <Entry Key="3959675994" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/pfCamp/c24603_quest_01.json" Compressed="false" Version="2" DataHash="gWIHhmGZsTV+YDFPjh80SQ==" />
+    <Entry Key="3959675994" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/pfCamp/c24603_quest_02.json" Compressed="false" Version="2" DataHash="xXvTl0nYf9xveQ/cLXfqog==" />
+    <Entry Key="4026784862" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/pfCamp/c24603_quest_03.json" Compressed="false" Version="2" DataHash="ZA4TQSsV2sOHAHs9jotijA==" />
+    <Entry Key="3766444110" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/pfCamp/c24603_variation.json" Compressed="false" Version="2" DataHash="Fn/czM7B4jMaZSyu4UYMsA==" />
+    <Entry Key="2943311645" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/pfCamp/c24603_wave_01.json" Compressed="false" Version="2" DataHash="TpZB+e6U1Y3R1IRqC3AtpQ==" />
+    <Entry Key="4294442093" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/pfCamp/c24623_common.json" Compressed="false" Version="2" DataHash="DMUpFi2ifwQjk+ckn8kTYA==" />
+    <Entry Key="2885918490" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/pfCamp/c24623_quest_01.json" Compressed="false" Version="2" DataHash="fIvXpGeitH4d8d3wNQpq2Q==" />
+    <Entry Key="2885918490" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/pfCamp/c24623_quest_02.json" Compressed="false" Version="2" DataHash="qJDCA2ckHdB9OSc14h7beQ==" />
+    <Entry Key="2953027358" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/pfCamp/c24623_quest_03.json" Compressed="false" Version="2" DataHash="JOz0hnIvWVKAtReU75sBYw==" />
+    <Entry Key="1989198" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/pfCamp/c24623_variation.json" Compressed="false" Version="2" DataHash="BSzN6xOY68v+PUHIgFKZuQ==" />
+    <Entry Key="4218379369" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/pfCamp/c24623_wave_01.json" Compressed="false" Version="2" DataHash="jwg4EGxV6hsrwb1VAq0JIw==" />
+    <Entry Key="3287935057" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/savannah/c20715.json" Compressed="false" Version="2" DataHash="zroUCoD+ZyY+bXk4+zGtCA==" />
+    <Entry Key="7986254" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/savannah/c20725_common.json" Compressed="false" Version="2" DataHash="ptl/ZsNSaRY/F+X3U/okfw==" />
+    <Entry Key="2921603100" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/savannah/c20725_quest_01.json" Compressed="false" Version="2" DataHash="h4lzszVpTp2TpMrZMPvvRg==" />
+    <Entry Key="2955157534" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/savannah/c20725_quest_02.json" Compressed="false" Version="2" DataHash="AMwQ017NutCGHZhFra63GQ==" />
+    <Entry Key="3055820836" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/savannah/c20725_quest_03.json" Compressed="false" Version="2" DataHash="Nky36487HclA0bmtwibFeQ==" />
+    <Entry Key="2054734" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/savannah/c20725_variation.json" Compressed="false" Version="2" DataHash="sNEY7iFGxX7qqQOfuNDvwA==" />
+    <Entry Key="193158233" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/savannah/c20725_wave_01.json" Compressed="false" Version="2" DataHash="vx31XJz+91HxXf58vGHf9Q==" />
+    <Entry Key="5889102" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/village/c20105_common.json" Compressed="false" Version="2" DataHash="527Q9FZihqsUDIQxBtyf6g==" />
+    <Entry Key="3995003996" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/village/c20105_quest_01.json" Compressed="false" Version="2" DataHash="4i+7r21FYYTwJoHFTxZgbw==" />
+    <Entry Key="2316878" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/village/c20105_variation.json" Compressed="false" Version="2" DataHash="AtoWxZhm7QBoJOoRV35/IQ==" />
+    <Entry Key="3481492573" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/village/c20105_wave_01.json" Compressed="false" Version="2" DataHash="U6anA05snsc8w8oVIqdvuw==" />
+    <Entry Key="3287947345" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/village/c20115.json" Compressed="false" Version="2" DataHash="DUaxkHxDcYiSbq7B9jA7EQ==" />
+    <Entry Key="6544462" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/village/c20115_common.json" Compressed="false" Version="2" DataHash="DUxLzyFj0J+6OUS6Ao5ifw==" />
+    <Entry Key="2384392028" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/village/c20115_quest_01.json" Compressed="false" Version="2" DataHash="LJ5omttfCiY7l8KZ9DFEfw==" />
+    <Entry Key="2686381838" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/village/c20115_quest_02.json" Compressed="false" Version="2" DataHash="eSJlm7cYZTjfX9B1GFjoLg==" />
+    <Entry Key="2921262876" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/village/c20115_quest_03.json" Compressed="false" Version="2" DataHash="r+fAATSVfI1wikAXxnj69w==" />
+    <Entry Key="2329678" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/village/c20115_variation.json" Compressed="false" Version="2" DataHash="LtL2fW1Z6IuRYlXjfNDciA==" />
+    <Entry Key="3867368532" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/village/c20115_wave_01.json" Compressed="false" Version="2" DataHash="XvINtXoqpWn2qWNeLMy9MQ==" />
+    <Entry Key="7986254" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/village/c20125_common.json" Compressed="false" Version="2" DataHash="l4U8a49m/ML7wsDile+usg==" />
+    <Entry Key="2921261084" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/village/c20125_quest_01.json" Compressed="false" Version="2" DataHash="dxNasmjREvLl7EZVY2EZNA==" />
+    <Entry Key="2954815518" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/village/c20125_quest_02.json" Compressed="false" Version="2" DataHash="fNt1KdLWM4yIUGTDw0Q/1A==" />
+    <Entry Key="3055478820" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/village/c20125_quest_03.json" Compressed="false" Version="2" DataHash="F/W2ipcSA0LLJkefodgGiw==" />
+    <Entry Key="2316878" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/village/c20125_variation.json" Compressed="false" Version="2" DataHash="Y59faZjaykikHcMVzOYhSQ==" />
+    <Entry Key="3414383705" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/village/c20125_wave_01.json" Compressed="false" Version="2" DataHash="/1fLQhizpBegeUfVAGqGYw==" />
+    <Entry FilePath="/Assets/ssd/pack/collectible/common/col_common_ssd.fpkd" Compressed="true" Version="2" DataHash="8ItCXXsbM6vEa4C+L64pIw==" />
+    <Entry FilePath="/Assets/ssd/pack/collectible/common/col_common_ssd_patch.fpk" Compressed="true" Version="2" DataHash="ZukNQW10xccLES1+5Eegiw==" />
+    <Entry FilePath="/Assets/ssd/pack/collectible/common/col_common_ssd_patch.fpkd" Compressed="true" Version="2" DataHash="yRq8gTiRANNowNB5PondTQ==" />
+    <Entry FilePath="/Assets/ssd/pack/collectible/common/col_common_ssd_patch.pftxs" Compressed="false" Version="2" DataHash="mBYWsdc1aGFWk8u/jhoqIg==" />
+    <Entry FilePath="/Assets/ssd/pack/equip/weapon/bl03_main0_def_v00.fpkd" Compressed="true" Version="2" DataHash="WZ6KrIH5od7o8VwaSvRkhg==" />
+    <Entry FilePath="/Assets/ssd/pack/equip/weapon/bl03_main0_def_v01.fpkd" Compressed="true" Version="2" DataHash="G3/cipuWZEsyCf6OWIF+4w==" />
+    <Entry FilePath="/Assets/ssd/pack/equip/weapon/bl03_main0_def_v01.pftxs" Compressed="false" Version="2" DataHash="e7GtPRETLNOkNmqI7BVCNQ==" />
+    <Entry FilePath="/Assets/ssd/pack/equip/weapon/sp03_main0_def_v00.fpk" Compressed="true" Version="2" DataHash="O2m+iLOpjoppDerqqoMbUg==" />
+    <Entry Hash="5920950931205770234" FilePath="371805b09cbfa.fpk" Compressed="true" Version="2" DataHash="HwNYCX0cw2WPIwvD86qhYg==" />
+    <Entry Hash="17101137006153026554" FilePath="371805b09cbfa.fpkd" Compressed="true" Version="2" DataHash="IPp2YVDpEWmgW245SeCpbw==" />
+    <Entry Hash="12897026754002668538" FilePath="371805b09cbfa.pftxs" Compressed="false" Version="2" DataHash="2r7cVa/Wj6l3YdXPqtHhfg==" />
+    <Entry Hash="5920849101752702015" FilePath="314e356a9143f.fpk" Compressed="true" Version="2" DataHash="3COpHmrUxNvz+OqAyMXmmw==" />
+    <Entry Hash="17101035176699958335" FilePath="314e356a9143f.fpkd" Compressed="true" Version="2" DataHash="Ib1n7uKOtWkp1pB30MYJ8g==" />
+    <Entry Hash="12896924924549600319" FilePath="314e356a9143f.pftxs" Compressed="false" Version="2" DataHash="mybKw2EJmkCR4ch4fRRXFg==" />
+    <Entry Hash="5920152742736125288" FilePath="9b8d9ed75d68.fpk" Compressed="true" Version="2" DataHash="QqzHDHPf95jiL+paYtdWAg==" />
+    <Entry Hash="17100338817683381608" FilePath="9b8d9ed75d68.fpkd" Compressed="true" Version="2" DataHash="PMFUFEbMvZrruXmC7uD/Ng==" />
+    <Entry Hash="12896228565533023592" FilePath="9b8d9ed75d68.pftxs" Compressed="false" Version="2" DataHash="yqxaelJQiLgyP1bBTDmn+w==" />
+    <Entry Hash="5920801996906174615" FilePath="2ea0be3041897.fpk" Compressed="true" Version="2" DataHash="HydXoSNnIEQinlWAgIAkdQ==" />
+    <Entry Hash="17100988071853430935" FilePath="2ea0be3041897.fpkd" Compressed="true" Version="2" DataHash="1Ovr9+fJcu7d2T06ElK+Xg==" />
+    <Entry Hash="12896877819703072919" FilePath="2ea0be3041897.pftxs" Compressed="false" Version="2" DataHash="kwHuWpW97nN1V9J2OA80jg==" />
+    <Entry Hash="5920592705984709188" FilePath="22bb28bfcc244.fpk" Compressed="true" Version="2" DataHash="yF+rpSXiBzlk2am+2Ig88A==" />
+    <Entry Hash="17100778780931965508" FilePath="22bb28bfcc244.fpkd" Compressed="true" Version="2" DataHash="VTZMhEqhgTg+qLCKRBXuDA==" />
+    <Entry Hash="12896668528781607492" FilePath="22bb28bfcc244.pftxs" Compressed="false" Version="2" DataHash="43nJ+EPF26fg3NjxhF0b7A==" />
+    <Entry Hash="5920760357608229061" FilePath="2c42cfb7408c5.fpk" Compressed="true" Version="2" DataHash="DcEXQdV/I5kbIsMR61jQRw==" />
+    <Entry Hash="17100946432555485381" FilePath="2c42cfb7408c5.fpkd" Compressed="true" Version="2" DataHash="EPkGwtTdMj/ax4FWISscbQ==" />
+    <Entry Hash="12896836180405127365" FilePath="2c42cfb7408c5.pftxs" Compressed="false" Version="2" DataHash="LQus//2boil8yWCqjaPAjQ==" />
+    <Entry Hash="5920504029010157222" FilePath="1db0bd46b5ea6.fpk" Compressed="true" Version="2" DataHash="6InMlFWQzEu19PDolwD9YA==" />
+    <Entry Hash="17100690103957413542" FilePath="1db0bd46b5ea6.fpkd" Compressed="true" Version="2" DataHash="EvkEflUTt8zgLuU4+8d8rg==" />
+    <Entry Hash="12896579851807055526" FilePath="1db0bd46b5ea6.pftxs" Compressed="false" Version="2" DataHash="9z9nK9oMlITuaw7Z5PQ/Wg==" />
+    <Entry Hash="5919995205328834339" FilePath="c4615a40f23.fpk" Compressed="true" Version="2" DataHash="zTf/V199qNAIzidEzqLojg==" />
+    <Entry Hash="17100181280276090659" FilePath="c4615a40f23.fpkd" Compressed="true" Version="2" DataHash="Vr+6l3uWA+YAQ94bZn9sTw==" />
+    <Entry Hash="12896071028125732643" FilePath="c4615a40f23.pftxs" Compressed="false" Version="2" DataHash="1abnwOcBPURHvjSp6TcW0w==" />
+    <Entry Hash="5920887043603710572" FilePath="337655d36426c.fpk" Compressed="true" Version="2" DataHash="sxELvoPqImliVhTeokfG7Q==" />
+    <Entry Hash="17101073118550966892" FilePath="337655d36426c.fpkd" Compressed="true" Version="2" DataHash="Q1o04D5kEL1oCM2KqYshXA==" />
+    <Entry Hash="12896962866400608876" FilePath="337655d36426c.pftxs" Compressed="false" Version="2" DataHash="Kaxuj8VZuyt9sIX3WQX45Q==" />
+    <Entry Hash="5920385227268243435" FilePath="16eff24cb3feb.fpk" Compressed="true" Version="2" DataHash="knWb5EAPTcxUXGVayhfATg==" />
+    <Entry Hash="17100571302215499755" FilePath="16eff24cb3feb.fpkd" Compressed="true" Version="2" DataHash="PCxZ0cn6jcYHw1KJhxDq3A==" />
+    <Entry Hash="12896461050065141739" FilePath="16eff24cb3feb.pftxs" Compressed="false" Version="2" DataHash="Y9teXj1CK19+HTE07gsPAQ==" />
+    <Entry FilePath="/Assets/ssd/pack/fova/common_source/chara/cm_head/face/cm_m0_h0_v000_eye0.pftxs" Compressed="false" Version="2" DataHash="RHtnjuJE2pkF19NL9Ck+NQ==" />
+    <Entry FilePath="/Assets/ssd/pack/fova/common_source/chara/cm_head/face/cm_m0_h0_v001_eye0.pftxs" Compressed="false" Version="2" DataHash="RHtnjuJE2pkF19NL9Ck+NQ==" />
+    <Entry FilePath="/Assets/ssd/pack/fova/common_source/chara/cm_head/face/cm_m0_h0_v002_eye0.pftxs" Compressed="false" Version="2" DataHash="RHtnjuJE2pkF19NL9Ck+NQ==" />
+    <Entry FilePath="/Assets/ssd/pack/fova/common_source/chara/cm_head/face/cm_m0_h0_v003_eye0.pftxs" Compressed="false" Version="2" DataHash="RHtnjuJE2pkF19NL9Ck+NQ==" />
+    <Entry FilePath="/Assets/ssd/pack/fova/common_source/chara/cm_head/face/cm_m0_h0_v004_eye0.pftxs" Compressed="false" Version="2" DataHash="RHtnjuJE2pkF19NL9Ck+NQ==" />
+    <Entry FilePath="/Assets/ssd/pack/fova/common_source/chara/cm_head/face/cm_m0_h0_v005_eye1.pftxs" Compressed="false" Version="2" DataHash="RHtnjuJE2pkF19NL9Ck+NQ==" />
+    <Entry FilePath="/Assets/ssd/pack/fova/common_source/chara/cm_head/face/cm_m0_h0_v006_eye1.pftxs" Compressed="false" Version="2" DataHash="RHtnjuJE2pkF19NL9Ck+NQ==" />
+    <Entry FilePath="/Assets/ssd/pack/fova/common_source/chara/cm_head/face/cm_m0_h0_v007_eye0.pftxs" Compressed="false" Version="2" DataHash="RHtnjuJE2pkF19NL9Ck+NQ==" />
+    <Entry FilePath="/Assets/ssd/pack/fova/common_source/chara/cm_head/face/cm_m0_h0_v008_eye0.pftxs" Compressed="false" Version="2" DataHash="RHtnjuJE2pkF19NL9Ck+NQ==" />
+    <Entry FilePath="/Assets/ssd/pack/fova/common_source/chara/cm_head/face/cm_m0_h0_v009_eye1.pftxs" Compressed="false" Version="2" DataHash="RHtnjuJE2pkF19NL9Ck+NQ==" />
+    <Entry FilePath="/Assets/ssd/pack/fova/common_source/chara/cm_head/face/cm_m0_h0_v010_eye0.pftxs" Compressed="false" Version="2" DataHash="RHtnjuJE2pkF19NL9Ck+NQ==" />
+    <Entry FilePath="/Assets/ssd/pack/fova/common_source/chara/cm_head/face/cm_m0_h0_v011_eye0.pftxs" Compressed="false" Version="2" DataHash="RHtnjuJE2pkF19NL9Ck+NQ==" />
+    <Entry FilePath="/Assets/ssd/pack/fova/common_source/chara/cm_head/face/cm_m0_h0_v012_eye1.pftxs" Compressed="false" Version="2" DataHash="RHtnjuJE2pkF19NL9Ck+NQ==" />
+    <Entry FilePath="/Assets/ssd/pack/fova/common_source/chara/cm_head/face/cm_m0_h0_v013_eye0.pftxs" Compressed="false" Version="2" DataHash="RHtnjuJE2pkF19NL9Ck+NQ==" />
+    <Entry FilePath="/Assets/ssd/pack/fova/common_source/chara/cm_head/face/cm_m0_h0_v014_eye1.pftxs" Compressed="false" Version="2" DataHash="RHtnjuJE2pkF19NL9Ck+NQ==" />
+    <Entry FilePath="/Assets/ssd/pack/fova/common_source/chara/cm_head/face/cm_m0_h0_v015_eye1.pftxs" Compressed="false" Version="2" DataHash="RHtnjuJE2pkF19NL9Ck+NQ==" />
+    <Entry FilePath="/Assets/ssd/pack/fova/common_source/chara/cm_head/face/cm_m0_h0_v016_eye1.pftxs" Compressed="false" Version="2" DataHash="RHtnjuJE2pkF19NL9Ck+NQ==" />
+    <Entry FilePath="/Assets/ssd/pack/fova/common_source/chara/cm_head/face/cm_m0_h0_v017_eye1.pftxs" Compressed="false" Version="2" DataHash="RHtnjuJE2pkF19NL9Ck+NQ==" />
+    <Entry FilePath="/Assets/ssd/pack/fova/common_source/chara/cm_head/face/cm_m0_h0_v018_eye0.pftxs" Compressed="false" Version="2" DataHash="RHtnjuJE2pkF19NL9Ck+NQ==" />
+    <Entry FilePath="/Assets/ssd/pack/fova/common_source/chara/cm_head/face/cm_m0_h0_v019_eye0.fpk" Compressed="true" Version="2" DataHash="735NfH/lGM0ldWb+YdtyYg==" />
+    <Entry FilePath="/Assets/ssd/pack/fova/common_source/chara/cm_head/face/cm_m0_h0_v019_eye0.fpkd" Compressed="true" Version="2" DataHash="JnZ6GNyP8MSAqT3OjWdeCw==" />
+    <Entry FilePath="/Assets/ssd/pack/fova/common_source/chara/cm_head/face/cm_m0_h0_v019_eye0.pftxs" Compressed="false" Version="2" DataHash="xoXyX6fMIKmLVJ04cGxxMQ==" />
+    <Entry FilePath="/Assets/ssd/pack/fova/common_source/chara/cm_head/face/cm_m0_h1_v000_eye0.pftxs" Compressed="false" Version="2" DataHash="RHtnjuJE2pkF19NL9Ck+NQ==" />
+    <Entry FilePath="/Assets/ssd/pack/fova/common_source/chara/cm_head/face/cm_m0_h1_v001_eye0.pftxs" Compressed="false" Version="2" DataHash="RHtnjuJE2pkF19NL9Ck+NQ==" />
+    <Entry FilePath="/Assets/ssd/pack/fova/common_source/chara/cm_head/face/cm_m0_h1_v002_eye0.pftxs" Compressed="false" Version="2" DataHash="RHtnjuJE2pkF19NL9Ck+NQ==" />
+    <Entry FilePath="/Assets/ssd/pack/fova/common_source/chara/cm_head/face/cm_m0_h1_v003_eye0.pftxs" Compressed="false" Version="2" DataHash="RHtnjuJE2pkF19NL9Ck+NQ==" />
+    <Entry FilePath="/Assets/ssd/pack/fova/common_source/chara/cm_head/face/cm_m0_h1_v004_eye0.pftxs" Compressed="false" Version="2" DataHash="RHtnjuJE2pkF19NL9Ck+NQ==" />
+    <Entry FilePath="/Assets/ssd/pack/fova/common_source/chara/cm_head/face/cm_m0_h2_v000_eye0.pftxs" Compressed="false" Version="2" DataHash="RHtnjuJE2pkF19NL9Ck+NQ==" />
+    <Entry FilePath="/Assets/ssd/pack/fova/common_source/chara/cm_head/face/cm_m0_h2_v001_eye0.pftxs" Compressed="false" Version="2" DataHash="RHtnjuJE2pkF19NL9Ck+NQ==" />
+    <Entry FilePath="/Assets/ssd/pack/fova/common_source/chara/cm_head/face/cm_m0_h2_v002_eye0.pftxs" Compressed="false" Version="2" DataHash="RHtnjuJE2pkF19NL9Ck+NQ==" />
+    <Entry FilePath="/Assets/ssd/pack/fova/common_source/chara/cm_head/face_deco/cm_w006_m.pftxs" Compressed="false" Version="2" DataHash="7ve2lbNepTY9ClXHieND8w==" />
+    <Entry Hash="5920536048710903591" FilePath="1f82aff4ee727.fpk" Compressed="true" Version="2" DataHash="+242AwfE3W3ujNDs3A6TTw==" />
+    <Entry Hash="5920673059601817054" FilePath="274c754ca9dde.fpk" Compressed="true" Version="2" DataHash="e3nX6IqZb2cSMDZpJY9GqQ==" />
+    <Entry Hash="5921027064894984716" FilePath="3b6be9c8a120c.fpk" Compressed="true" Version="2" DataHash="Umy3VpiZJH4qGIQxmIn8mg==" />
+    <Entry Hash="5921086759586247252" FilePath="3ed095d683254.fpk" Compressed="true" Version="2" DataHash="RgRUYIoW4wau8WcG3GrZPQ==" />
+    <Entry Hash="5920816168816395792" FilePath="2f6ef8ab0c610.fpk" Compressed="true" Version="2" DataHash="mdmDWx459czG/BJcEAfDjA==" />
+    <Entry Hash="5920863918271780075" FilePath="3225d140454eb.fpk" Compressed="true" Version="2" DataHash="668KfFtarczvhQ+f/GuGTw==" />
+    <Entry Hash="5920316184802493777" FilePath="13033f1260551.fpk" Compressed="true" Version="2" DataHash="UJS+gRYJtnMWxxn9KLsfzg==" />
+    <Entry Hash="5921075376159501972" FilePath="3e2aef44cae94.fpk" Compressed="true" Version="2" DataHash="5WzjIcN3cJPujlB7ybJLHw==" />
+    <Entry Hash="5920383659318661212" FilePath="16d9213b7505c.fpk" Compressed="true" Version="2" DataHash="AiAC5/XnfoUmBN74E6CCoA==" />
+    <Entry Hash="5920453459530492581" FilePath="1ad0db48c2aa5.fpk" Compressed="true" Version="2" DataHash="+Tmlu6AlMpWIqxJFqPo0Xg==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_common/afgh_common.fpk" Compressed="true" Version="2" DataHash="DlgGngS/tr+2aNMZsmnrnQ==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_common/afgh_common.pftxs" Compressed="false" Version="2" DataHash="GCElpitHHqH8s5h3QyQMjw==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_common/afgh_script.fpkd" Compressed="true" Version="2" DataHash="eBkgKEkY18EuFXbWjZvWKA==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_extraSmall/129/afgh_path_129_150.fpk" Compressed="true" Version="2" DataHash="GUvsijD7kAPi6QqIFwmQzw==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_extraSmall/129/afgh_path_129_150.fpkd" Compressed="true" Version="2" DataHash="2MrbjfqYg5xpG2VtTTGJWw==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_extraSmall/135/afgh_path_135_149.fpk" Compressed="true" Version="2" DataHash="d0rcVNA8k7kXfdwCjfS3Kg==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_extraSmall/135/afgh_path_135_149.fpkd" Compressed="true" Version="2" DataHash="D4jKHuok2t8PPb8p8uqqhw==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_extraSmall/136/afgh_path_136_141.fpk" Compressed="true" Version="2" DataHash="uWTqEBQzvswsuks15kymjw==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_extraSmall/136/afgh_path_136_141.fpkd" Compressed="true" Version="2" DataHash="tNzhU65wzGRUpMUI38AS/Q==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_extraSmall/136/afgh_path_136_142.fpk" Compressed="true" Version="2" DataHash="AsK89jmgKCu8T13CIy4M6A==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_extraSmall/136/afgh_path_136_142.fpkd" Compressed="true" Version="2" DataHash="UiE/qsADOmqWebkFQZQZ9w==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_extraSmall/136/afgh_path_136_149.fpk" Compressed="true" Version="2" DataHash="263VvkzbIqq4PmwxZvhCuA==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_extraSmall/136/afgh_path_136_149.fpkd" Compressed="true" Version="2" DataHash="z3sJq00gUX6MxTv7Goze5Q==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_extraSmall/136/afgh_path_136_150.fpk" Compressed="true" Version="2" DataHash="6jezbg1Z/j+/M2gJakMHzA==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_extraSmall/136/afgh_path_136_150.fpkd" Compressed="true" Version="2" DataHash="ZZvszaDVN2v54Veexq6GSw==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_extraSmall/137/afgh_path_137_141.fpk" Compressed="true" Version="2" DataHash="NY7zHdGNBLGMZdssEBwx2Q==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_extraSmall/137/afgh_path_137_141.fpkd" Compressed="true" Version="2" DataHash="AEa+ND9OwGtpYLzC03j3pg==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_extraSmall/137/afgh_path_137_142.fpk" Compressed="true" Version="2" DataHash="Mdu4DWFxxH6Cj8PgFivF3A==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_extraSmall/137/afgh_path_137_142.fpkd" Compressed="true" Version="2" DataHash="asAFq5TDVgxp8WTMMdGc+w==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_extraSmall/137/afgh_path_137_149.fpk" Compressed="true" Version="2" DataHash="bsXxzJdPwtA+hSWyas8foQ==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_extraSmall/137/afgh_path_137_149.fpkd" Compressed="true" Version="2" DataHash="1CPARMeIGWhLjlcIe1JK1A==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_large/afgh_field.fpk" Compressed="true" Version="2" DataHash="iLRs34hRdFgX3sKNVYtefQ==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_mission/large/field/afgh_field_digger_c01.pftxs" Compressed="false" Version="2" DataHash="ljQATKwCKxH08Yqj5M6gSA==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_mission/large/field/afgh_field_digger_c02.pftxs" Compressed="false" Version="2" DataHash="oOhCSlAv6pPyOsifPucGVg==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_mission/large/field/afgh_field_script_c01.fpkd" Compressed="true" Version="2" DataHash="k0JV9P2kZjRRvn1S3m36Lg==" />
+    <Entry Hash="5921107022513972020" FilePath="3ff7732042334.fpk" Compressed="true" Version="2" DataHash="oyd6T8I2hsKFHdQRxl2wzg==" />
+    <Entry Hash="17101293097461228340" FilePath="3ff7732042334.fpkd" Compressed="true" Version="2" DataHash="YmUuH9VGviwor5Eg9iULqg==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_mission/large/field/afgh_field_spawn_c01.fpk" Compressed="true" Version="2" DataHash="7UPcwwi68dAa7kbjToHSWA==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_mission/large/field/afgh_field_spawn_c01.fpkd" Compressed="true" Version="2" DataHash="JqbkMMNObW222tV3sV+q0w==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_mission/large/village/afgh_village_digger_c01.pftxs" Compressed="false" Version="2" DataHash="ljQATKwCKxH08Yqj5M6gSA==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_mission/large/village/afgh_village_digger_c02.pftxs" Compressed="false" Version="2" DataHash="oOhCSlAv6pPyOsifPucGVg==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_mission/large/village/afgh_village_digger_r01.fpk" Compressed="true" Version="2" DataHash="9new30cz8BIGCXTtU7/LwQ==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_mission/large/village/afgh_village_digger_r01.fpkd" Compressed="true" Version="2" DataHash="FqN19SkngtAr4bV77RNbjw==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_mission/large/village/afgh_village_digger_r01.pftxs" Compressed="false" Version="2" DataHash="ljQATKwCKxH08Yqj5M6gSA==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_mission/large/village/afgh_village_digger_r02.fpk" Compressed="true" Version="2" DataHash="qxtv/EViNW3XoAZGNoNRqg==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_mission/large/village/afgh_village_digger_r02.fpkd" Compressed="true" Version="2" DataHash="Z/Ga/CqrksIftoqjd/rEBg==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_mission/large/village/afgh_village_digger_r02.pftxs" Compressed="false" Version="2" DataHash="IsGoPhf2I6fBP+oDOcQdQQ==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_mission/large/village/afgh_village_digger_r03.fpk" Compressed="true" Version="2" DataHash="AtMlRwGNTs3QxRbsddI77w==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_mission/large/village/afgh_village_digger_r03.fpkd" Compressed="true" Version="2" DataHash="3VwPpxgFJ/VVc4q+tdu0PQ==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_mission/large/village/afgh_village_digger_r03.pftxs" Compressed="false" Version="2" DataHash="IsGoPhf2I6fBP+oDOcQdQQ==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_mission/large/village/afgh_village_gimmick_r01.fpk" Compressed="true" Version="2" DataHash="FukH/3imxtTroJO0LV0nRw==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_mission/large/village/afgh_village_gimmick_r01.fpkd" Compressed="true" Version="2" DataHash="tmo8wc/gGpKEZ59vS/5xwQ==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_mission/large/village/afgh_village_gimmick_r01.pftxs" Compressed="false" Version="2" DataHash="QQf8yb43g1WR8wXHGjnuGA==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_mission/large/village/afgh_village_gimmick_r02.fpk" Compressed="true" Version="2" DataHash="ZbokDhuute/PgODGZ08TUA==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_mission/large/village/afgh_village_gimmick_r02.fpkd" Compressed="true" Version="2" DataHash="yPqmxMThO4+JdFjeeF9b2g==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_mission/large/village/afgh_village_gimmick_r02.pftxs" Compressed="false" Version="2" DataHash="5EF6AzbFVKA7UqZ72TbxMw==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_mission/large/village/afgh_village_gimmick_r03.fpk" Compressed="true" Version="2" DataHash="oyd6T8I2hsKFHdQRxl2wzg==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_mission/large/village/afgh_village_gimmick_r03.fpkd" Compressed="true" Version="2" DataHash="vLrEvZs3jr1IqRJ5LmkMeA==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_mission/large/village/afgh_village_plant_c01.fpk" Compressed="true" Version="2" DataHash="oTQNt/tNHeeJnZDa6ZGA0g==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_mission/large/village/afgh_village_plant_c01.fpkd" Compressed="true" Version="2" DataHash="7ROi22tyFuQh9y7RyoL0Qg==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_mission/large/village/afgh_village_script_c01.fpkd" Compressed="true" Version="2" DataHash="jnQI7XgrSSQWoM8on8kcJg==" />
+    <Entry Hash="5920815146425083217" FilePath="2f6017f6b6551.fpk" Compressed="true" Version="2" DataHash="oyd6T8I2hsKFHdQRxl2wzg==" />
+    <Entry Hash="17101001221372339537" FilePath="2f6017f6b6551.fpkd" Compressed="true" Version="2" DataHash="4Ks+6k0i8gg43N4Knu7qOA==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_mission/large/village/afgh_village_spawn_c01.fpk" Compressed="true" Version="2" DataHash="QQfBMWsSbcKnxfG+FNiciA==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_mission/large/village/afgh_village_spawn_c01.fpkd" Compressed="true" Version="2" DataHash="vE6wfRCMrFiMbEjTXrOZRQ==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_mission/large/village/afgh_village_spawn_r01.fpk" Compressed="true" Version="2" DataHash="6y6wpcE4ez4cq96UDquM6A==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_mission/large/village/afgh_village_spawn_r01.fpkd" Compressed="true" Version="2" DataHash="qOQWOHj2vyHc7ePf80ndlw==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_mission/large/village/afgh_village_walkerGear_r01.fpk" Compressed="true" Version="2" DataHash="oyd6T8I2hsKFHdQRxl2wzg==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_mission/large/village/afgh_village_walkerGear_r01.fpkd" Compressed="true" Version="2" DataHash="/P4fcHj0ni1JyxyrBp7gyw==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_small/128/afgh_128_149.fpk" Compressed="true" Version="2" DataHash="uCwN/trJoVpKNHfSj/Fz1Q==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_small/128/afgh_128_149.fpkd" Compressed="true" Version="2" DataHash="Wo7fWTJunYtk/42UEH/t+A==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_small/128/afgh_128_150.fpk" Compressed="true" Version="2" DataHash="3FUENu7ceSpuvBKN8UCP0Q==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_small/128/afgh_128_150.fpkd" Compressed="true" Version="2" DataHash="whjABepmCnMLLw+Ub/H9TA==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_small/128/afgh_128_151.fpk" Compressed="true" Version="2" DataHash="paHGcq6hWxOcXVR7yxERvg==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_small/128/afgh_128_151.fpkd" Compressed="true" Version="2" DataHash="22P40FzPZYph/Lin/op9jg==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_small/129/afgh_129_149.fpk" Compressed="true" Version="2" DataHash="8Ck0gtA0huJwbcdvmBVfkQ==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_small/129/afgh_129_149.fpkd" Compressed="true" Version="2" DataHash="TOmOKD1U90nuE6pc/SloRA==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_small/129/afgh_129_150.fpk" Compressed="true" Version="2" DataHash="yb/Dh7kntkjy7H8cVOzbXw==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_small/129/afgh_129_150.fpkd" Compressed="true" Version="2" DataHash="OHS0zIpnnCmtNihEAQE6EA==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_small/129/afgh_129_151.fpk" Compressed="true" Version="2" DataHash="ksLo9D5EfgyzvnvGV5rFQg==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_small/129/afgh_129_151.fpkd" Compressed="true" Version="2" DataHash="KEJz2IgBGGEJg2e6AzNUxQ==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_small/130/afgh_130_149.fpk" Compressed="true" Version="2" DataHash="M3HD05IWOui5vuKQ6QDgSQ==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_small/130/afgh_130_149.fpkd" Compressed="true" Version="2" DataHash="uIY6GqFkEpupH2Nlmsg1TA==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_small/130/afgh_130_150.fpk" Compressed="true" Version="2" DataHash="lLJGgoFwajW3+vCYeuIG3g==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_small/130/afgh_130_150.fpkd" Compressed="true" Version="2" DataHash="J4PYJs52QfCOnOBhXePt6g==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_small/130/afgh_130_151.fpk" Compressed="true" Version="2" DataHash="07Gf//fMGak2jIs62SNubQ==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_small/130/afgh_130_151.fpkd" Compressed="true" Version="2" DataHash="62SriZ/aD45Z1Vc2vftDHA==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_small/135/afgh_135_142.fpk" Compressed="true" Version="2" DataHash="3OtOzuVGS+PQw2pqA503Iw==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_small/135/afgh_135_142.fpkd" Compressed="true" Version="2" DataHash="l6uMzTr2WBeFxp5QLom3Hg==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_small/136/afgh_136_140.fpk" Compressed="true" Version="2" DataHash="m52igbV9bVin6mNDsba5bw==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_small/136/afgh_136_140.fpkd" Compressed="true" Version="2" DataHash="YFvU7Y1BZouyMs9HgEN0pw==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_small/136/afgh_136_141.fpk" Compressed="true" Version="2" DataHash="bjIBiEFSxDWLKwnR1FHOqA==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_small/136/afgh_136_141.fpkd" Compressed="true" Version="2" DataHash="jQKyaKRufn/lFfqQtUrJHw==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_small/136/afgh_136_150.fpk" Compressed="true" Version="2" DataHash="qPAVmu7d/3bS6y8/uXoyWA==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_small/136/afgh_136_150.fpkd" Compressed="true" Version="2" DataHash="czNFEWuqs3B/zSR+vXpD+Q==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_small/137/afgh_137_140.fpk" Compressed="true" Version="2" DataHash="SePKTINfxiVTzSTUJ9tt6g==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_small/137/afgh_137_140.fpkd" Compressed="true" Version="2" DataHash="G0i7X3aYuq6M6+BR15z2Nw==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_small/138/afgh_138_140.fpk" Compressed="true" Version="2" DataHash="N4TSGJanHzCcDyBWydCWrA==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_small/138/afgh_138_140.fpkd" Compressed="true" Version="2" DataHash="xpXlyCqIUovaCnr3ZoH6DA==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_small/138/afgh_138_141.fpk" Compressed="true" Version="2" DataHash="+UUAdCi50t8f7/1LpZVNOg==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_small/138/afgh_138_141.fpkd" Compressed="true" Version="2" DataHash="kaAa3EJEB9j2PRO9tETPFw==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_small/138/afgh_138_142.fpk" Compressed="true" Version="2" DataHash="NYNZBBUJdBheUihFPkGXug==" />
+    <Entry FilePath="/Assets/ssd/pack/location/afgh/pack_small/138/afgh_138_142.fpkd" Compressed="true" Version="2" DataHash="Q/tP2tBKm7wntjQaOtl9wA==" />
+    <Entry FilePath="/Assets/ssd/pack/location/init/init.fpk" Compressed="true" Version="2" DataHash="qndaI4VET5mJs4tajhAqZg==" />
+    <Entry FilePath="/Assets/ssd/pack/location/mafr/pack_common/mafr_common.fpk" Compressed="true" Version="2" DataHash="8PEeMJ1zmDUe0PzdDdWPnw==" />
+    <Entry FilePath="/Assets/ssd/pack/location/mafr/pack_common/mafr_script.fpkd" Compressed="true" Version="2" DataHash="3a73iTPUoT/6imIBlmsi3Q==" />
+    <Entry FilePath="/Assets/ssd/pack/location/mafr/pack_extraSmall/142/mafr_path_142_119.fpk" Compressed="true" Version="2" DataHash="7H+tnChgU8UIerlgI4bo9w==" />
+    <Entry FilePath="/Assets/ssd/pack/location/mafr/pack_extraSmall/142/mafr_path_142_119.fpkd" Compressed="true" Version="2" DataHash="ieoWpwzqlNkrpWkzlZebFw==" />
+    <Entry FilePath="/Assets/ssd/pack/location/mafr/pack_extraSmall/142/mafr_path_142_120.fpk" Compressed="true" Version="2" DataHash="1AA43exNpJLKFGVIIjVSSw==" />
+    <Entry FilePath="/Assets/ssd/pack/location/mafr/pack_extraSmall/142/mafr_path_142_120.fpkd" Compressed="true" Version="2" DataHash="mzmPUz9RbZAsOXCr+b1y6A==" />
+    <Entry FilePath="/Assets/ssd/pack/location/mafr/pack_extraSmall/142/mafr_path_142_121.fpk" Compressed="true" Version="2" DataHash="qLOaSdFWwsBHQnOANCAyLA==" />
+    <Entry FilePath="/Assets/ssd/pack/location/mafr/pack_extraSmall/142/mafr_path_142_121.fpkd" Compressed="true" Version="2" DataHash="uutWZ2e/cwTGlvHLkT7yaA==" />
+    <Entry FilePath="/Assets/ssd/pack/location/mafr/pack_extraSmall/143/mafr_path_143_119.fpk" Compressed="true" Version="2" DataHash="dV0+ivcUVWM+LKXFV4zVuQ==" />
+    <Entry FilePath="/Assets/ssd/pack/location/mafr/pack_extraSmall/143/mafr_path_143_119.fpkd" Compressed="true" Version="2" DataHash="zvHi5nQJz/xngp1mH0bryQ==" />
+    <Entry FilePath="/Assets/ssd/pack/location/mafr/pack_extraSmall/143/mafr_path_143_120.fpk" Compressed="true" Version="2" DataHash="skdcTdLm27W+rp8aW4YDtA==" />
+    <Entry FilePath="/Assets/ssd/pack/location/mafr/pack_extraSmall/143/mafr_path_143_120.fpkd" Compressed="true" Version="2" DataHash="ylUeEEiaXXxhVHtiTkmVVw==" />
+    <Entry FilePath="/Assets/ssd/pack/location/mafr/pack_extraSmall/143/mafr_path_143_121.fpk" Compressed="true" Version="2" DataHash="rcUnIPIy/hUOxUUhsHyHqA==" />
+    <Entry FilePath="/Assets/ssd/pack/location/mafr/pack_extraSmall/143/mafr_path_143_121.fpkd" Compressed="true" Version="2" DataHash="s931h3Pdo3hm3j7ZYs0fWA==" />
+    <Entry FilePath="/Assets/ssd/pack/location/mafr/pack_extraSmall/153/mafr_path_153_126.fpk" Compressed="true" Version="2" DataHash="ikGPmujMP/joZWto51fEWQ==" />
+    <Entry FilePath="/Assets/ssd/pack/location/mafr/pack_extraSmall/153/mafr_path_153_126.fpkd" Compressed="true" Version="2" DataHash="OcfbvbYu39MGMIjYn4biUQ==" />
+    <Entry FilePath="/Assets/ssd/pack/location/mafr/pack_extraSmall/154/mafr_path_154_126.fpk" Compressed="true" Version="2" DataHash="XoP/USYObWGtrgZNgb50Xg==" />
+    <Entry FilePath="/Assets/ssd/pack/location/mafr/pack_extraSmall/154/mafr_path_154_126.fpkd" Compressed="true" Version="2" DataHash="X/TYkwCJOwL1mcnLNwUAyg==" />
+    <Entry FilePath="/Assets/ssd/pack/location/mafr/pack_large/mafr_diamond.fpk" Compressed="true" Version="2" DataHash="sT3tz58c0nfp73ueHVnYvA==" />
+    <Entry FilePath="/Assets/ssd/pack/location/mafr/pack_mission/large/diamond/mafr_diamond_digger_c01.pftxs" Compressed="false" Version="2" DataHash="ljQATKwCKxH08Yqj5M6gSA==" />
+    <Entry FilePath="/Assets/ssd/pack/location/mafr/pack_mission/large/diamond/mafr_diamond_digger_c02.pftxs" Compressed="false" Version="2" DataHash="oOhCSlAv6pPyOsifPucGVg==" />
+    <Entry FilePath="/Assets/ssd/pack/location/mafr/pack_mission/large/diamond/mafr_diamond_script_c01.fpkd" Compressed="true" Version="2" DataHash="1otoUKO54mnMe7UWp5smOw==" />
+    <Entry Hash="5920335672921144623" FilePath="141ed5f89bd2f.fpk" Compressed="true" Version="2" DataHash="oyd6T8I2hsKFHdQRxl2wzg==" />
+    <Entry Hash="17100521747868400943" FilePath="141ed5f89bd2f.fpkd" Compressed="true" Version="2" DataHash="HZ/U6XUk10JEGEwjVG+H/w==" />
+    <Entry FilePath="/Assets/ssd/pack/location/mafr/pack_mission/large/diamond/mafr_diamond_spawn_c01.fpk" Compressed="true" Version="2" DataHash="gFMx8T4Vh6mBnOZtct8YtA==" />
+    <Entry FilePath="/Assets/ssd/pack/location/mafr/pack_mission/large/diamond/mafr_diamond_spawn_c01.fpkd" Compressed="true" Version="2" DataHash="Q/OrUtOWm7e98TY2dk1AOA==" />
+    <Entry FilePath="/Assets/ssd/pack/location/mafr/pack_small/143/mafr_143_120.fpk" Compressed="true" Version="2" DataHash="9ZdHVIT2BMqOGCPcqhX0ZA==" />
+    <Entry FilePath="/Assets/ssd/pack/location/mafr/pack_small/143/mafr_143_120.fpkd" Compressed="true" Version="2" DataHash="i6OVQLAHQCmWlQqI3/RchA==" />
+    <Entry FilePath="/Assets/ssd/pack/location/mafr/pack_small/143/mafr_143_121.fpk" Compressed="true" Version="2" DataHash="8hnxIuokBFysHat+7BSCiw==" />
+    <Entry FilePath="/Assets/ssd/pack/location/mafr/pack_small/143/mafr_143_121.fpkd" Compressed="true" Version="2" DataHash="bLMKxqwzenawg0mlaxLVyw==" />
+    <Entry FilePath="/Assets/ssd/pack/location/spfc/pack_common/spfc_common.fpk" Compressed="true" Version="2" DataHash="42PFBIfjLOBtoLzC8BAFXQ==" />
+    <Entry FilePath="/Assets/ssd/pack/location/spfc/pack_extraSmall/138/spfc_path_138_140.fpk" Compressed="true" Version="2" DataHash="c29CZBmxJ1IxBMR//ICuGA==" />
+    <Entry FilePath="/Assets/ssd/pack/location/spfc/pack_extraSmall/138/spfc_path_138_140.fpkd" Compressed="true" Version="2" DataHash="Ek2te30/4JN8SIj6B0x9xw==" />
+    <Entry FilePath="/Assets/ssd/pack/location/spfc/pack_extraSmall/138/spfc_path_138_141.fpk" Compressed="true" Version="2" DataHash="XBJa97Xgqe1x1ankxqdchg==" />
+    <Entry FilePath="/Assets/ssd/pack/location/spfc/pack_extraSmall/138/spfc_path_138_141.fpkd" Compressed="true" Version="2" DataHash="8ZLcS/hAB+JM7lzgFt8J1w==" />
+    <Entry FilePath="/Assets/ssd/pack/location/spfc/pack_extraSmall/138/spfc_path_138_142.fpk" Compressed="true" Version="2" DataHash="v52xdCpx4p/dhVXq8JlYOw==" />
+    <Entry FilePath="/Assets/ssd/pack/location/spfc/pack_extraSmall/138/spfc_path_138_142.fpkd" Compressed="true" Version="2" DataHash="7qx6H+LbHS9tiekjysShTg==" />
+    <Entry FilePath="/Assets/ssd/pack/location/spfc/pack_extraSmall/138/spfc_path_138_143.fpk" Compressed="true" Version="2" DataHash="DD73NbBsRHhhtoReHabnCA==" />
+    <Entry FilePath="/Assets/ssd/pack/location/spfc/pack_extraSmall/138/spfc_path_138_143.fpkd" Compressed="true" Version="2" DataHash="KHlmOZNbCVtA/nvg/0xucQ==" />
+    <Entry FilePath="/Assets/ssd/pack/location/spfc/pack_extraSmall/139/spfc_path_139_140.fpk" Compressed="true" Version="2" DataHash="A8mCOeQHAtO+JT9r62KN8g==" />
+    <Entry FilePath="/Assets/ssd/pack/location/spfc/pack_extraSmall/139/spfc_path_139_140.fpkd" Compressed="true" Version="2" DataHash="9i6psNAYC8HLBUILWjR+gQ==" />
+    <Entry FilePath="/Assets/ssd/pack/location/spfc/pack_extraSmall/139/spfc_path_139_141.fpk" Compressed="true" Version="2" DataHash="1jPveyi55NpGG4raa4GnGQ==" />
+    <Entry FilePath="/Assets/ssd/pack/location/spfc/pack_extraSmall/139/spfc_path_139_141.fpkd" Compressed="true" Version="2" DataHash="4zYoh5MCcQsfazPf9xLdqw==" />
+    <Entry FilePath="/Assets/ssd/pack/location/spfc/pack_extraSmall/139/spfc_path_139_142.fpk" Compressed="true" Version="2" DataHash="/XmV8hOIkK+tx9uMg2RLeA==" />
+    <Entry FilePath="/Assets/ssd/pack/location/spfc/pack_extraSmall/139/spfc_path_139_142.fpkd" Compressed="true" Version="2" DataHash="9qcoaBEhzZs5xrsiBDw6NQ==" />
+    <Entry FilePath="/Assets/ssd/pack/location/spfc/pack_extraSmall/139/spfc_path_139_143.fpk" Compressed="true" Version="2" DataHash="WgxXYjGVDn9kC3vpbTV5Fg==" />
+    <Entry FilePath="/Assets/ssd/pack/location/spfc/pack_extraSmall/139/spfc_path_139_143.fpkd" Compressed="true" Version="2" DataHash="GvEBfZdeXxOA8OOC9DsX4Q==" />
+    <Entry FilePath="/Assets/ssd/pack/location/spfc/pack_extraSmall/140/spfc_path_140_140.fpk" Compressed="true" Version="2" DataHash="wPT90Zz7XiLNuEP8sRPprA==" />
+    <Entry FilePath="/Assets/ssd/pack/location/spfc/pack_extraSmall/140/spfc_path_140_140.fpkd" Compressed="true" Version="2" DataHash="5Nai40zOTrtYvJFM1i/clg==" />
+    <Entry FilePath="/Assets/ssd/pack/location/spfc/pack_extraSmall/140/spfc_path_140_141.fpk" Compressed="true" Version="2" DataHash="kWZq5JAjBbmL1q7nIL+pQQ==" />
+    <Entry FilePath="/Assets/ssd/pack/location/spfc/pack_extraSmall/140/spfc_path_140_141.fpkd" Compressed="true" Version="2" DataHash="Bitrf6zzOztOFdKIgz2/fQ==" />
+    <Entry FilePath="/Assets/ssd/pack/location/spfc/pack_extraSmall/140/spfc_path_140_142.fpk" Compressed="true" Version="2" DataHash="iR5VNyWd4EggQE0BuvOpug==" />
+    <Entry FilePath="/Assets/ssd/pack/location/spfc/pack_extraSmall/140/spfc_path_140_142.fpkd" Compressed="true" Version="2" DataHash="JHxFnCdATW+6G8ADjjfy5Q==" />
+    <Entry FilePath="/Assets/ssd/pack/location/spfc/pack_extraSmall/140/spfc_path_140_143.fpk" Compressed="true" Version="2" DataHash="YGwjAs7lp46hHyXsHwpwng==" />
+    <Entry FilePath="/Assets/ssd/pack/location/spfc/pack_extraSmall/140/spfc_path_140_143.fpkd" Compressed="true" Version="2" DataHash="eKdjHvnYC0zXPe03JS6a1A==" />
+    <Entry FilePath="/Assets/ssd/pack/location/spfc/pack_extraSmall/141/spfc_path_141_140.fpk" Compressed="true" Version="2" DataHash="Dy0V2kWBBZ15PrFW2kt49w==" />
+    <Entry FilePath="/Assets/ssd/pack/location/spfc/pack_extraSmall/141/spfc_path_141_140.fpkd" Compressed="true" Version="2" DataHash="hQRgq8UAvfFv6CjDjCc++w==" />
+    <Entry FilePath="/Assets/ssd/pack/location/spfc/pack_extraSmall/141/spfc_path_141_141.fpk" Compressed="true" Version="2" DataHash="/r3cSnECNku5ac21yayoqg==" />
+    <Entry FilePath="/Assets/ssd/pack/location/spfc/pack_extraSmall/141/spfc_path_141_141.fpkd" Compressed="true" Version="2" DataHash="H3cs/pzWsJkArIXRgrHlkg==" />
+    <Entry FilePath="/Assets/ssd/pack/location/spfc/pack_extraSmall/141/spfc_path_141_142.fpk" Compressed="true" Version="2" DataHash="PeEgCjfiH3LnyqwEQguq3w==" />
+    <Entry FilePath="/Assets/ssd/pack/location/spfc/pack_extraSmall/141/spfc_path_141_142.fpkd" Compressed="true" Version="2" DataHash="kcQKsX35BfdM5haVQwnl9g==" />
+    <Entry FilePath="/Assets/ssd/pack/location/spfc/pack_extraSmall/141/spfc_path_141_143.fpk" Compressed="true" Version="2" DataHash="JN8XNRT41dD3c1MOUeaCqQ==" />
+    <Entry FilePath="/Assets/ssd/pack/location/spfc/pack_extraSmall/141/spfc_path_141_143.fpkd" Compressed="true" Version="2" DataHash="xlWHSp64D0+teR4xzhFx8Q==" />
+    <Entry FilePath="/Assets/ssd/pack/location/spfc/pack_large/spfc_pfCamp.fpk" Compressed="true" Version="2" DataHash="Hu4L5FLGgQqMdyJctoYxoQ==" />
+    <Entry Hash="5920193732364795356" FilePath="c0d54318fddc.fpk" Compressed="true" Version="2" DataHash="gJv163BzQKm3Oj2mYDYiGg==" />
+    <Entry Hash="17100379807312051676" FilePath="c0d54318fddc.fpkd" Compressed="true" Version="2" DataHash="WblfL3aRMfkpHipw4eOd9w==" />
+    <Entry FilePath="/Assets/ssd/pack/location/spfc/pack_mission/large/pfCamp/spfc_pfCamp_digger_c01.pftxs" Compressed="false" Version="2" DataHash="ljQATKwCKxH08Yqj5M6gSA==" />
+    <Entry FilePath="/Assets/ssd/pack/location/spfc/pack_mission/large/pfCamp/spfc_pfCamp_digger_c02.fpk" Compressed="true" Version="2" DataHash="tmFCfJsE7Qr7qdBWTFLJEg==" />
+    <Entry FilePath="/Assets/ssd/pack/location/spfc/pack_mission/large/pfCamp/spfc_pfCamp_digger_c02.fpkd" Compressed="true" Version="2" DataHash="iFhv6Fty0QFsmqW8vsQW/Q==" />
+    <Entry FilePath="/Assets/ssd/pack/location/spfc/pack_mission/large/pfCamp/spfc_pfCamp_digger_c02.pftxs" Compressed="false" Version="2" DataHash="oOhCSlAv6pPyOsifPucGVg==" />
+    <Entry FilePath="/Assets/ssd/pack/location/spfc/pack_mission/large/pfCamp/spfc_pfCamp_digger_c03.fpk" Compressed="true" Version="2" DataHash="psQkyBUis5mjYrFu6DonqQ==" />
+    <Entry FilePath="/Assets/ssd/pack/location/spfc/pack_mission/large/pfCamp/spfc_pfCamp_digger_c03.fpkd" Compressed="true" Version="2" DataHash="IxNX5VmjHpOsoTXPjNYyRA==" />
+    <Entry FilePath="/Assets/ssd/pack/location/spfc/pack_mission/large/pfCamp/spfc_pfCamp_digger_c03.pftxs" Compressed="false" Version="2" DataHash="xwyz2n6Zl1UsrGiVhlG5/g==" />
+    <Entry FilePath="/Assets/ssd/pack/location/spfc/pack_mission/large/pfCamp/spfc_pfCamp_path.fpk" Compressed="true" Version="2" DataHash="GTWrjHYCjJ8A6bBJnXNEVQ==" />
+    <Entry FilePath="/Assets/ssd/pack/location/spfc/pack_mission/large/pfCamp/spfc_pfCamp_path.fpkd" Compressed="true" Version="2" DataHash="Dom3711a1Ugmd7PFzp2pvA==" />
+    <Entry FilePath="/Assets/ssd/pack/location/spfc/pack_mission/large/pfCamp/spfc_pfCamp_script_c01.fpkd" Compressed="true" Version="2" DataHash="1libPqQrPUCPely2D4HRhg==" />
+    <Entry Hash="5920870879251621472" FilePath="328b1cebf6660.fpk" Compressed="true" Version="2" DataHash="oyd6T8I2hsKFHdQRxl2wzg==" />
+    <Entry Hash="17101056954198877792" FilePath="328b1cebf6660.fpkd" Compressed="true" Version="2" DataHash="PQqaDNLXG64SEl/6RC+OdQ==" />
+    <Entry FilePath="/Assets/ssd/pack/location/spfc/pack_mission/large/pfCamp/spfc_pfCamp_spawn_c01.fpk" Compressed="true" Version="2" DataHash="ax54iiIDfXxeHYp8celqYA==" />
+    <Entry FilePath="/Assets/ssd/pack/location/spfc/pack_mission/large/pfCamp/spfc_pfCamp_spawn_c01.fpkd" Compressed="true" Version="2" DataHash="QbClUjxvud2znjWvZ+xhbg==" />
+    <Entry FilePath="/Assets/ssd/pack/location/spfc/pack_mission/large/pfCamp/spfc_pfCamp_stealthArea_c02.fpk" Compressed="true" Version="2" DataHash="FG1ikliV2e4A185PKxL8Cg==" />
+    <Entry FilePath="/Assets/ssd/pack/location/spfc/pack_mission/large/pfCamp/spfc_pfCamp_stealthArea_c02.fpkd" Compressed="true" Version="2" DataHash="/TbufiILaYEVmk8Xcpic1Q==" />
+    <Entry FilePath="/Assets/ssd/pack/location/spfc/pack_mission/large/pfCamp/spfc_pfCamp_wormhole_c01.fpk" Compressed="true" Version="2" DataHash="1Zm61NYHe9yfOPtcs68Bvw==" />
+    <Entry FilePath="/Assets/ssd/pack/location/spfc/pack_mission/large/pfCamp/spfc_pfCamp_wormhole_c01.fpkd" Compressed="true" Version="2" DataHash="Tp6liXfSFffRakNAdsQvXQ==" />
+    <Entry FilePath="/Assets/ssd/pack/location/spfc/pack_small/138/spfc_138_141.fpk" Compressed="true" Version="2" DataHash="PA0p6yas370Vh3pycueRJA==" />
+    <Entry FilePath="/Assets/ssd/pack/location/spfc/pack_small/138/spfc_138_141.fpkd" Compressed="true" Version="2" DataHash="NXkjafCk3uNC9lfqpSF2NQ==" />
+    <Entry FilePath="/Assets/ssd/pack/location/spfc/pack_small/138/spfc_138_142.fpk" Compressed="true" Version="2" DataHash="E6TYH6ccKAqTGOp8m+3WGw==" />
+    <Entry FilePath="/Assets/ssd/pack/location/spfc/pack_small/138/spfc_138_142.fpkd" Compressed="true" Version="2" DataHash="f7bV1wefpLE1XNNmZQplfA==" />
+    <Entry FilePath="/Assets/ssd/pack/location/spfc/pack_small/139/spfc_139_142.fpkd" Compressed="true" Version="2" DataHash="hzA9hjBqtbwk5sXloBY4zw==" />
+    <Entry FilePath="/Assets/ssd/pack/location/ssav/pack_common/ssav_common.fpk" Compressed="true" Version="2" DataHash="jHTeaV4UPgfjrOtXDGLDSA==" />
+    <Entry FilePath="/Assets/ssd/pack/location/ssav/pack_mission/large/savannah/ssav_savannah_digger_c01.pftxs" Compressed="false" Version="2" DataHash="ljQATKwCKxH08Yqj5M6gSA==" />
+    <Entry FilePath="/Assets/ssd/pack/location/ssav/pack_mission/large/savannah/ssav_savannah_digger_c02.pftxs" Compressed="false" Version="2" DataHash="oOhCSlAv6pPyOsifPucGVg==" />
+    <Entry FilePath="/Assets/ssd/pack/location/ssav/pack_mission/large/savannah/ssav_savannah_digger_r01.fpk" Compressed="true" Version="2" DataHash="7PluPMBCOq7vLHckTYNjGw==" />
+    <Entry FilePath="/Assets/ssd/pack/location/ssav/pack_mission/large/savannah/ssav_savannah_digger_r01.fpkd" Compressed="true" Version="2" DataHash="9UzJxltGT6gcdG2SKH2o/A==" />
+    <Entry FilePath="/Assets/ssd/pack/location/ssav/pack_mission/large/savannah/ssav_savannah_digger_r01.pftxs" Compressed="false" Version="2" DataHash="ljQATKwCKxH08Yqj5M6gSA==" />
+    <Entry FilePath="/Assets/ssd/pack/location/ssav/pack_mission/large/savannah/ssav_savannah_digger_r02.fpk" Compressed="true" Version="2" DataHash="HtWxHbXuOccTM+mfYyGYAg==" />
+    <Entry FilePath="/Assets/ssd/pack/location/ssav/pack_mission/large/savannah/ssav_savannah_digger_r02.fpkd" Compressed="true" Version="2" DataHash="fKK/lILg0dx/bFcieEvSUQ==" />
+    <Entry FilePath="/Assets/ssd/pack/location/ssav/pack_mission/large/savannah/ssav_savannah_digger_r02.pftxs" Compressed="false" Version="2" DataHash="IsGoPhf2I6fBP+oDOcQdQQ==" />
+    <Entry FilePath="/Assets/ssd/pack/location/ssav/pack_mission/large/savannah/ssav_savannah_gimmick_r01.fpk" Compressed="true" Version="2" DataHash="EGbJDYzlutopy/Q52uDq/g==" />
+    <Entry FilePath="/Assets/ssd/pack/location/ssav/pack_mission/large/savannah/ssav_savannah_gimmick_r01.fpkd" Compressed="true" Version="2" DataHash="xLsqhfldT1tFE/77a2u9+g==" />
+    <Entry FilePath="/Assets/ssd/pack/location/ssav/pack_mission/large/savannah/ssav_savannah_gimmick_r01.pftxs" Compressed="false" Version="2" DataHash="j5cSSidWOBhHxyCJcRiY2g==" />
+    <Entry FilePath="/Assets/ssd/pack/location/ssav/pack_mission/large/savannah/ssav_savannah_gimmick_r02.fpk" Compressed="true" Version="2" DataHash="SJ+R7RXYA3oX5EyvLCpQBw==" />
+    <Entry FilePath="/Assets/ssd/pack/location/ssav/pack_mission/large/savannah/ssav_savannah_gimmick_r02.fpkd" Compressed="true" Version="2" DataHash="Obr9/y2x/iPCEQmf821dCw==" />
+    <Entry FilePath="/Assets/ssd/pack/location/ssav/pack_mission/large/savannah/ssav_savannah_gimmick_r02.pftxs" Compressed="false" Version="2" DataHash="AVyIDt3lHia+btB+LCsfYA==" />
+    <Entry FilePath="/Assets/ssd/pack/location/ssav/pack_mission/large/savannah/ssav_savannah_script_c01.fpkd" Compressed="true" Version="2" DataHash="QVE2gjpBbPOgci0mqk4cEA==" />
+    <Entry Hash="5920440162944705689" FilePath="1a0f5da466499.fpk" Compressed="true" Version="2" DataHash="oyd6T8I2hsKFHdQRxl2wzg==" />
+    <Entry Hash="17100626237891962009" FilePath="1a0f5da466499.fpkd" Compressed="true" Version="2" DataHash="omvW409Kf4nHCTw19VKCsg==" />
+    <Entry FilePath="/Assets/ssd/pack/location/ssav/pack_mission/large/savannah/ssav_savannah_spawn_c01.fpk" Compressed="true" Version="2" DataHash="HYOkC3wpLEwmX0VyTDLt9g==" />
+    <Entry FilePath="/Assets/ssd/pack/location/ssav/pack_mission/large/savannah/ssav_savannah_spawn_c01.fpkd" Compressed="true" Version="2" DataHash="uQKqmOYaKa7u4xHnFZUKJQ==" />
+    <Entry FilePath="/Assets/ssd/pack/location/ssav/pack_mission/large/savannah/ssav_savannah_spawn_r01.fpk" Compressed="true" Version="2" DataHash="NnOV7Itw6ec0mzMPC55aug==" />
+    <Entry FilePath="/Assets/ssd/pack/location/ssav/pack_mission/large/savannah/ssav_savannah_spawn_r01.fpkd" Compressed="true" Version="2" DataHash="LGfXvv+k3tNwzhAI+T0RwA==" />
+    <Entry FilePath="/Assets/ssd/pack/location/ssav/pack_mission/large/savannah/ssav_savannah_walkerGear_r01.fpk" Compressed="true" Version="2" DataHash="oyd6T8I2hsKFHdQRxl2wzg==" />
+    <Entry FilePath="/Assets/ssd/pack/location/ssav/pack_mission/large/savannah/ssav_savannah_walkerGear_r01.fpkd" Compressed="true" Version="2" DataHash="YHE/CcyNhhwVCxJF7GilRg==" />
+    <Entry Hash="5920537910024910806" FilePath="1f9dc5e44b7d6.fpk" Compressed="true" Version="2" DataHash="ud1QQZNiam2xL+6xOQY6+g==" />
+    <Entry Hash="12896613732821809110" FilePath="1f9dc5e44b7d6.pftxs" Compressed="false" Version="2" DataHash="KRX6alhLVze/m9/11U2v8g==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/common/mis_com_avatar_edit.pftxs" Compressed="false" Version="2" DataHash="Uy0kCBh8JiK5ihdLNxkn2Q==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/common/mis_com_coop.fpkd" Compressed="true" Version="2" DataHash="O9yRiUD8efNf2uF61+7YLQ==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/common/mis_com_zombie.fpk" Compressed="true" Version="2" DataHash="LzlDQ5uY19qTJKLbXF1R/w==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/common/mis_com_zombie.fpkd" Compressed="true" Version="2" DataHash="62RZJGfA8gH1x3WNXvjYKg==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/common/mis_com_zombie.pftxs" Compressed="false" Version="2" DataHash="H91NFCy00yssa3wieyB/6Q==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/common/title_sequence_script.fpkd" Compressed="true" Version="2" DataHash="vvlVzEVkBqnFw1YyFlPFfw==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/coop/c20005/c20005.fpk" Compressed="true" Version="2" DataHash="R0FcSnlN960jP8nLIJT/EA==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/coop/c20005/c20005.fpkd" Compressed="true" Version="2" DataHash="he3wf6Q23U7hz6ndwbMrbg==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/coop/c20010/c20010.fpk" Compressed="true" Version="2" DataHash="0FL+SOqYAbSb0C8ER+FUHg==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/coop/c20030/c20030.fpk" Compressed="true" Version="2" DataHash="iabmbXEYZ3S65fTMYGS+Iw==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/coop/c20030/c20030.fpkd" Compressed="true" Version="2" DataHash="8Ao9RrkVr6yMfJiaF9Otew==" />
+    <Entry Hash="5920545414292748093" FilePath="200af977cb73d.fpk" Compressed="true" Version="2" DataHash="QqY55c2CEn8smPz7l1UFCg==" />
+    <Entry Hash="17100731489240004413" FilePath="200af977cb73d.fpkd" Compressed="true" Version="2" DataHash="CGPYNaehq19ngv2iWwFrbw==" />
+    <Entry Hash="5920502476344605734" FilePath="1d9a252573c26.fpk" Compressed="true" Version="2" DataHash="oyd6T8I2hsKFHdQRxl2wzg==" />
+    <Entry Hash="17100688551291862054" FilePath="1d9a252573c26.fpkd" Compressed="true" Version="2" DataHash="O2xRb3usq7lJAWvrS3mjHA==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/coop/c20110/c20110.fpk" Compressed="true" Version="2" DataHash="asLpQQ6tTVGime1xMYwEFg==" />
+    <Entry Hash="5920653249569367087" FilePath="262c2f2d8242f.fpk" Compressed="true" Version="2" DataHash="oyd6T8I2hsKFHdQRxl2wzg==" />
+    <Entry Hash="17100839324516623407" FilePath="262c2f2d8242f.fpkd" Compressed="true" Version="2" DataHash="KK9K8Q8PJfjq/oILAHA06Q==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/coop/c20120/c20120.fpk" Compressed="true" Version="2" DataHash="e0r25vRoqixCnj2PQV3GAQ==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/coop/c20120/c20120.fpkd" Compressed="true" Version="2" DataHash="LDj6owwOgWM3tzIUIsOkww==" />
+    <Entry Hash="5920461084167135072" FilePath="1b3fcf44e5f60.fpk" Compressed="true" Version="2" DataHash="oyd6T8I2hsKFHdQRxl2wzg==" />
+    <Entry Hash="17100647159114391392" FilePath="1b3fcf44e5f60.fpkd" Compressed="true" Version="2" DataHash="8xu30mLJxwcTe27YHRXuAA==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/coop/c20130/c20130.fpk" Compressed="true" Version="2" DataHash="ubRY3V/vDO3vXfZmi2OtKA==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/coop/c20130/c20130.fpkd" Compressed="true" Version="2" DataHash="FFbfMJISRvlLPEWx44dZKg==" />
+    <Entry Hash="5920078046458525330" FilePath="579e09bfb692.fpk" Compressed="true" Version="2" DataHash="kB9R1vLsRJVmUOULn2rSrw==" />
+    <Entry Hash="17100264121405781650" FilePath="579e09bfb692.fpkd" Compressed="true" Version="2" DataHash="oXkS611vCfeOVYnv1TkAsw==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/coop/c20230/c20230.fpk" Compressed="true" Version="2" DataHash="Bf3Hoj4l1QrRIscywHZD2A==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/coop/c20230/c20230.fpkd" Compressed="true" Version="2" DataHash="wuXhKDiCGEuKIt7RK3djkw==" />
+    <Entry Hash="5920450278003241710" FilePath="1aa28f2bef2ee.fpk" Compressed="true" Version="2" DataHash="IL/CMypBdcQFcrDXeUKTiw==" />
+    <Entry Hash="17100636352950498030" FilePath="1aa28f2bef2ee.fpkd" Compressed="true" Version="2" DataHash="TtQDbReFIYusujvT0qdWxQ==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/coop/c20310/c20310.fpkd" Compressed="true" Version="2" DataHash="/RNInUhOdhoJty0OfaovMw==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/coop/c20320/c20320.fpkd" Compressed="true" Version="2" DataHash="1qO5PSSp6OYEVsY3w0s5NQ==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/coop/c20410/c20410.fpkd" Compressed="true" Version="2" DataHash="QHLswzh1CTMZrg7zOiAECw==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/coop/c20420/c20420.fpkd" Compressed="true" Version="2" DataHash="uHMbrvqD8EiusqUrCHao+A==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/coop/c20620/c20620.fpkd" Compressed="true" Version="2" DataHash="0GNavmTuQ2yOX/wuVY0cRA==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/coop/c20630/c20630.fpkd" Compressed="true" Version="2" DataHash="p+zPd3GLA3T8rmkkllbgzw==" />
+    <Entry Hash="5920105058814296472" FilePath="702f579e8198.fpk" Compressed="true" Version="2" DataHash="oyd6T8I2hsKFHdQRxl2wzg==" />
+    <Entry Hash="17100291133761552792" FilePath="702f579e8198.fpkd" Compressed="true" Version="2" DataHash="0w2hKMSGaoTi0vv9EGzYQQ==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/coop/c20710/c20710.fpkd" Compressed="true" Version="2" DataHash="OmOuPSCquQd3GJtZ8mXZhA==" />
+    <Entry Hash="5920041075872694174" FilePath="35fe271cff9e.fpk" Compressed="true" Version="2" DataHash="oyd6T8I2hsKFHdQRxl2wzg==" />
+    <Entry Hash="17100227150819950494" FilePath="35fe271cff9e.fpkd" Compressed="true" Version="2" DataHash="v23Vbkp6V966SnDkhuLc4A==" />
+    <Entry Hash="5920798018161085660" FilePath="2e66d83540cdc.fpk" Compressed="true" Version="2" DataHash="oyd6T8I2hsKFHdQRxl2wzg==" />
+    <Entry Hash="17100984093108341980" FilePath="2e66d83540cdc.fpkd" Compressed="true" Version="2" DataHash="uDlERx2CoiGzwlxAwOfvww==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/coop/c20730/c20730.fpkd" Compressed="true" Version="2" DataHash="sJRcfiBN/TFGi9hLCvW/gA==" />
+    <Entry Hash="5920304923063193403" FilePath="125f5dd2d8f3b.fpk" Compressed="true" Version="2" DataHash="oyd6T8I2hsKFHdQRxl2wzg==" />
+    <Entry Hash="17100490998010449723" FilePath="125f5dd2d8f3b.fpkd" Compressed="true" Version="2" DataHash="oVxvTO9CUiAKNFVDUtDPAw==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/coop/c21010/c21010.fpkd" Compressed="true" Version="2" DataHash="ZADzq/3xmbKZkq1Y+1nLow==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/coop/c21020/c21020.fpkd" Compressed="true" Version="2" DataHash="j12Gz9agNTb1CGlcbRKv1Q==" />
+    <Entry Hash="5920490160546439872" FilePath="1ce6ed390e2c0.fpk" Compressed="true" Version="2" DataHash="uo5mHsj74FP0kt47C8CxtQ==" />
+    <Entry Hash="17100676235493696192" FilePath="1ce6ed390e2c0.fpkd" Compressed="true" Version="2" DataHash="TOgzB4foj04Ep3Z3smrgxg==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/flag/k40030/k40030.fpkd" Compressed="true" Version="2" DataHash="7yjyoexbmyZf4qhGWYRvvQ==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/flag/k40035/k40035.fpkd" Compressed="true" Version="2" DataHash="XFeXRrnvfHPHB8MiJ5z/Vw==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/flag/k40040/k40040.fpkd" Compressed="true" Version="2" DataHash="yVGijT7+FtkNK7khJLcGzQ==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/flag/k40070/k40070.fpk" Compressed="true" Version="2" DataHash="IWTYCVEdXlpf5IJfzYJEwg==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/flag/k40070/k40070.fpkd" Compressed="true" Version="2" DataHash="ERNRK+O6Ka+RKfvRNImhtA==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/flag/k40077/k40077.fpk" Compressed="true" Version="2" DataHash="oNG7mvntkC1xwrQMLHKzfw==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/flag/k40077/k40077.fpkd" Compressed="true" Version="2" DataHash="Eim78y5VBhYATV0YJksB3Q==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/flag/k40140/k40140.fpk" Compressed="true" Version="2" DataHash="6SdOOJlwGN76TpXik/qgbQ==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/flag/k40140/k40140.fpkd" Compressed="true" Version="2" DataHash="xkVDAPRnUOpwq/ms1c1+Ag==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/flag/k40230/k40230.pftxs" Compressed="false" Version="2" DataHash="oHH20el2CBmfI4edLjOkgA==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/flag/k40250/k40250.fpk" Compressed="true" Version="2" DataHash="lkTuoRR6RUvMLwK3VsQKRQ==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/flag/k40250/k40250.fpkd" Compressed="true" Version="2" DataHash="kfEfjzz304aWnUroAQwFvw==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/flag/k40250/k40250.pftxs" Compressed="false" Version="2" DataHash="6SSMFdfIMp8uW3SwXbuLVg==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/free/f30010/f30010.fpk" Compressed="true" Version="2" DataHash="wG5X9idtFtVX1x1me8XofA==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/free/f30010/f30010.fpkd" Compressed="true" Version="2" DataHash="jUZgjw50QKc82/4q6ytI/Q==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/free/f30010/f30010_d12.fpkd" Compressed="true" Version="2" DataHash="UqLxkfwt8DhS9yciVavyvw==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/free/f30020/f30020.fpk" Compressed="true" Version="2" DataHash="9QANCLlaX5j4joLSgR1Mig==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/free/f30020/f30020.fpkd" Compressed="true" Version="2" DataHash="kwpovnjA1CrF9oBvDFw8Tg==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/free/f30020/f30020_d03.fpkd" Compressed="true" Version="2" DataHash="LrGLYcowD/00MsAD5mN5Uw==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/free/f30020/f30020_d03.pftxs" Compressed="false" Version="2" DataHash="qE2BMh2csbcBu6faC2T3mA==" />
+    <Entry Hash="5920870429300441704" FilePath="328490b914268.fpk" Compressed="true" Version="2" DataHash="gUpyIsATFf+DS2U822tL4g==" />
+    <Entry Hash="17101056504247698024" FilePath="328490b914268.fpkd" Compressed="true" Version="2" DataHash="0P+9sfz8zvbpxD+tI4vc6Q==" />
+    <Entry Hash="12896946252097340008" FilePath="328490b914268.pftxs" Compressed="false" Version="2" DataHash="7qjKgMM9+XjbpDz/AQfQ+A==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/init/init.fpkd" Compressed="true" Version="2" DataHash="tFaL9mXQSdg6pDG/VxcaFg==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/quest/afgh/field/field_q22030.fpkd" Compressed="true" Version="2" DataHash="ZnCTPI4FpGukxKY2eGW2gQ==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/quest/afgh/village/village_q11911.fpk" Compressed="true" Version="2" DataHash="BKSS5g8bBvH8yctgV/Jsjg==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/quest/afgh/village/village_q11911.fpkd" Compressed="true" Version="2" DataHash="52ov+AHRfirmGxMpDf7JCw==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/quest/mafr/diamond/diamond_q11928.pftxs" Compressed="false" Version="2" DataHash="CkHSf8PqSuxl4H/1QxFufQ==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/quest/mafr/factory/factory_q11300.pftxs" Compressed="false" Version="2" DataHash="CkHSf8PqSuxl4H/1QxFufQ==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/quest/mafr/factory/factory_q11310.pftxs" Compressed="false" Version="2" DataHash="CkHSf8PqSuxl4H/1QxFufQ==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/quest/mafr/factory/factory_q11340.pftxs" Compressed="false" Version="2" DataHash="CkHSf8PqSuxl4H/1QxFufQ==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/quest/mafr/factory/factory_q11921.pftxs" Compressed="false" Version="2" DataHash="CkHSf8PqSuxl4H/1QxFufQ==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/quest/mafr/factory/factory_q11922.pftxs" Compressed="false" Version="2" DataHash="CkHSf8PqSuxl4H/1QxFufQ==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/quest/mafr/lab/lab_q11925.pftxs" Compressed="false" Version="2" DataHash="CkHSf8PqSuxl4H/1QxFufQ==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/show/c29210/c29210.fpk" Compressed="true" Version="2" DataHash="mDWr+3USeKDe5hY744brYQ==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/story/s10010/s10010.fpk" Compressed="true" Version="2" DataHash="hEfE1qgovqJFnnL79XKtoQ==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/story/s10010/s10010.fpkd" Compressed="true" Version="2" DataHash="aaf8WfCgc8RPgLMMf1DftQ==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/story/s10010/s10010_d02.fpk" Compressed="true" Version="2" DataHash="30p0s6tGiLoPFt7wn9yefA==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/story/s10010/s10010_d02.fpkd" Compressed="true" Version="2" DataHash="g00Lu50GYtBygC8lOtl59g==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/story/s10035/s10035.fpk" Compressed="true" Version="2" DataHash="I6TN4AATAfDawRTiDwclPQ==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/story/s10035/s10035.fpkd" Compressed="true" Version="2" DataHash="llvsCkqFa9iJvYwi3ewJvA==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/story/s10035/s10035_sound.fpk" Compressed="true" Version="2" DataHash="oyd6T8I2hsKFHdQRxl2wzg==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/story/s10035/s10035_sound.fpkd" Compressed="true" Version="2" DataHash="O8zhXtldgTUWUUgQEuRVaQ==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/story/s10050/s10050.fpk" Compressed="true" Version="2" DataHash="ygZkpR1HPuyOTQKT4a96Tw==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/story/s10050/s10050.fpkd" Compressed="true" Version="2" DataHash="Xhxi6uQTz46imS4DbL0zdA==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/story/s10060/s10060.fpk" Compressed="true" Version="2" DataHash="a+yk7dCZDUNwTueiJVvAqw==" />
+    <Entry FilePath="/Assets/ssd/pack/mission/story/s10060/s10060.fpkd" Compressed="true" Version="2" DataHash="bA7jk1IpExAbkBcOrjUD1A==" />
+    <Entry FilePath="/Assets/ssd/pack/npc/common/NpcHumanCommon.fpk" Compressed="true" Version="2" DataHash="e8uj31DprHJL4YXnZyun6g==" />
+    <Entry Hash="5921084302611101950" FilePath="3eacd4e46b8fe.fpk" Compressed="true" Version="2" DataHash="4JTp5NAsz05HNmpzTxPpYQ==" />
+    <Entry Hash="5920197998387218234" FilePath="c4b685d9473a.fpk" Compressed="true" Version="2" DataHash="LzhdosiB95FgfeS4qIXhOw==" />
+    <Entry Hash="12896273821184116538" FilePath="c4b685d9473a.pftxs" Compressed="false" Version="2" DataHash="h5fkO3cQ2x5smD7doG4kmw==" />
+    <Entry Hash="5920038183167282794" FilePath="335ca46f4e6a.fpk" Compressed="true" Version="2" DataHash="Wwhy5ClCJxUPsFyLb6NUeQ==" />
+    <Entry Hash="17100224258114539114" FilePath="335ca46f4e6a.fpkd" Compressed="true" Version="2" DataHash="SHxL9zU119X3p80XvgGQjw==" />
+    <Entry Hash="12896114005964181098" FilePath="335ca46f4e6a.pftxs" Compressed="false" Version="2" DataHash="44xG9yT2MRnIJsXC64mIEQ==" />
+    <Entry Hash="5920728282201337974" FilePath="2a700d8383076.fpk" Compressed="true" Version="2" DataHash="oyd6T8I2hsKFHdQRxl2wzg==" />
+    <Entry Hash="17100914357148594294" FilePath="2a700d8383076.fpkd" Compressed="true" Version="2" DataHash="J03b+2GvH3CPOdoxAWAXiw==" />
+    <Entry Hash="5921032524251757483" FilePath="3bbb5b78f7bab.fpk" Compressed="true" Version="2" DataHash="oyd6T8I2hsKFHdQRxl2wzg==" />
+    <Entry Hash="17101218599199013803" FilePath="3bbb5b78f7bab.fpkd" Compressed="true" Version="2" DataHash="y9+sKEQsfcNTHpYEPGR7pA==" />
+    <Entry Hash="5920830235338641148" FilePath="303baa8c08efc.fpk" Compressed="true" Version="2" DataHash="oyd6T8I2hsKFHdQRxl2wzg==" />
+    <Entry Hash="17101016310285897468" FilePath="303baa8c08efc.fpkd" Compressed="true" Version="2" DataHash="dfeJEx99yjsyQFu5yhGKUA==" />
+    <Entry Hash="5920743578108429976" FilePath="2b4ea33540698.fpk" Compressed="true" Version="2" DataHash="oyd6T8I2hsKFHdQRxl2wzg==" />
+    <Entry Hash="17100929653055686296" FilePath="2b4ea33540698.fpkd" Compressed="true" Version="2" DataHash="E43pY4vyDohaJy8qY4uE3w==" />
+    <Entry Hash="5920004044140462063" FilePath="145007de3fef.fpk" Compressed="true" Version="2" DataHash="oyd6T8I2hsKFHdQRxl2wzg==" />
+    <Entry Hash="17100190119087718383" FilePath="145007de3fef.fpkd" Compressed="true" Version="2" DataHash="gzXNi1eHSWoMbTs1fJMaRg==" />
+    <Entry Hash="5920483449791589203" FilePath="1c8545b682b53.fpk" Compressed="true" Version="2" DataHash="oyd6T8I2hsKFHdQRxl2wzg==" />
+    <Entry Hash="17100669524738845523" FilePath="1c8545b682b53.fpkd" Compressed="true" Version="2" DataHash="RZlEHKLnPaso4OWLNWY9fA==" />
+    <Entry Hash="5921049638804559260" FilePath="3cb468266959c.fpk" Compressed="true" Version="2" DataHash="oyd6T8I2hsKFHdQRxl2wzg==" />
+    <Entry Hash="17101235713751815580" FilePath="3cb468266959c.fpkd" Compressed="true" Version="2" DataHash="Rsg7wMm4SdQvnH6fGTMz5Q==" />
+    <Entry Hash="5920450114091009197" FilePath="1aa02c8d0c4ad.fpk" Compressed="true" Version="2" DataHash="oyd6T8I2hsKFHdQRxl2wzg==" />
+    <Entry Hash="17100636189038265517" FilePath="1aa02c8d0c4ad.fpkd" Compressed="true" Version="2" DataHash="vq+Iuu5WyBhf2e8fFLIoPw==" />
+    <Entry Hash="5920204068579013122" FilePath="ca3bd9797202.fpk" Compressed="true" Version="2" DataHash="oyd6T8I2hsKFHdQRxl2wzg==" />
+    <Entry Hash="17100390143526269442" FilePath="ca3bd9797202.fpkd" Compressed="true" Version="2" DataHash="gXfWiUVyJC9b2meDdzBt9g==" />
+    <Entry Hash="5920386183163595748" FilePath="16fddb498cbe4.fpk" Compressed="true" Version="2" DataHash="oyd6T8I2hsKFHdQRxl2wzg==" />
+    <Entry Hash="17100572258110852068" FilePath="16fddb498cbe4.fpkd" Compressed="true" Version="2" DataHash="XqTJTkiuWquYwplTRIhLVw==" />
+    <Entry Hash="5920578553647300832" FilePath="21ed372f180e0.fpk" Compressed="true" Version="2" DataHash="oyd6T8I2hsKFHdQRxl2wzg==" />
+    <Entry Hash="17100764628594557152" FilePath="21ed372f180e0.fpkd" Compressed="true" Version="2" DataHash="Bdv71aMtexpMWX9vv9vh1Q==" />
+    <Entry Hash="5920845136195539585" FilePath="311480908d281.fpk" Compressed="true" Version="2" DataHash="oyd6T8I2hsKFHdQRxl2wzg==" />
+    <Entry Hash="17101031211142795905" FilePath="311480908d281.fpkd" Compressed="true" Version="2" DataHash="V+lrV/XcCcXfNstC5a1lWg==" />
+    <Entry Hash="5920137204266366253" FilePath="8d6bc9def52d.fpk" Compressed="true" Version="2" DataHash="oyd6T8I2hsKFHdQRxl2wzg==" />
+    <Entry Hash="17100323279213622573" FilePath="8d6bc9def52d.fpkd" Compressed="true" Version="2" DataHash="oea1DccgU+BzCVP/VYoIzA==" />
+    <Entry Hash="5920948874371719752" FilePath="36fa1762ce248.fpk" Compressed="true" Version="2" DataHash="oyd6T8I2hsKFHdQRxl2wzg==" />
+    <Entry Hash="17101134949318976072" FilePath="36fa1762ce248.fpkd" Compressed="true" Version="2" DataHash="ENrhSz3Va+vbS3GTQB7n5A==" />
+    <Entry Hash="5920605467414552542" FilePath="2374dcc7adfde.fpk" Compressed="true" Version="2" DataHash="oyd6T8I2hsKFHdQRxl2wzg==" />
+    <Entry Hash="17100791542361808862" FilePath="2374dcc7adfde.fpkd" Compressed="true" Version="2" DataHash="+Tm5CU63AsWR3LmZmGuw8Q==" />
+    <Entry Hash="5920358061181515090" FilePath="1564a0bd83552.fpk" Compressed="true" Version="2" DataHash="oyd6T8I2hsKFHdQRxl2wzg==" />
+    <Entry Hash="17100544136128771410" FilePath="1564a0bd83552.fpkd" Compressed="true" Version="2" DataHash="Qe7AzlhToWnfSfGd+YMOwQ==" />
+    <Entry Hash="5920765416180488066" FilePath="2c8c6c5db1782.fpk" Compressed="true" Version="2" DataHash="oyd6T8I2hsKFHdQRxl2wzg==" />
+    <Entry Hash="17100951491127744386" FilePath="2c8c6c5db1782.fpkd" Compressed="true" Version="2" DataHash="3eWGXfsPiUvTVYklhCYNIA==" />
+    <Entry Hash="5920386156676082026" FilePath="16fd789d1696a.fpk" Compressed="true" Version="2" DataHash="oyd6T8I2hsKFHdQRxl2wzg==" />
+    <Entry Hash="17100572231623338346" FilePath="16fd789d1696a.fpkd" Compressed="true" Version="2" DataHash="XPrxKwj61UUDqUN1y/K5hQ==" />
+    <Entry Hash="5920575620760546999" FilePath="21c2895452eb7.fpk" Compressed="true" Version="2" DataHash="oyd6T8I2hsKFHdQRxl2wzg==" />
+    <Entry Hash="17100761695707803319" FilePath="21c2895452eb7.fpkd" Compressed="true" Version="2" DataHash="FxscMF94fQqTY//ZQlVxrA==" />
+    <Entry Hash="5920391045475416675" FilePath="17449ccf73a63.fpk" Compressed="true" Version="2" DataHash="oyd6T8I2hsKFHdQRxl2wzg==" />
+    <Entry Hash="17100577120422672995" FilePath="17449ccf73a63.fpkd" Compressed="true" Version="2" DataHash="svK6xXHhYkgMzXYG4Cdr5w==" />
+    <Entry Hash="5920175654451700410" FilePath="b0642b8262ba.fpk" Compressed="true" Version="2" DataHash="oyd6T8I2hsKFHdQRxl2wzg==" />
+    <Entry Hash="17100361729398956730" FilePath="b0642b8262ba.fpkd" Compressed="true" Version="2" DataHash="/Np7TJt8NNeFbCR8blTFXA==" />
+    <Entry Hash="5920238316567254786" FilePath="e961d4a5d702.fpk" Compressed="true" Version="2" DataHash="oyd6T8I2hsKFHdQRxl2wzg==" />
+    <Entry Hash="17100424391514511106" FilePath="e961d4a5d702.fpkd" Compressed="true" Version="2" DataHash="YaM1/a9bWjn+BrNl7gv/cg==" />
+    <Entry Hash="5920396628111319910" FilePath="1795d9bfee366.fpk" Compressed="true" Version="2" DataHash="oyd6T8I2hsKFHdQRxl2wzg==" />
+    <Entry Hash="17100582703058576230" FilePath="1795d9bfee366.fpkd" Compressed="true" Version="2" DataHash="5hqqQ7SsimWCfqNvYHz0Nw==" />
+    <Entry Hash="5920325768379135910" FilePath="138eb4ad477a6.fpk" Compressed="true" Version="2" DataHash="oyd6T8I2hsKFHdQRxl2wzg==" />
+    <Entry Hash="17100511843326392230" FilePath="138eb4ad477a6.fpkd" Compressed="true" Version="2" DataHash="Beob7Qeplvz51kdc2MR1OQ==" />
+    <Entry Hash="5920052211262265917" FilePath="401ed00d9a3d.fpk" Compressed="true" Version="2" DataHash="oyd6T8I2hsKFHdQRxl2wzg==" />
+    <Entry Hash="17100238286209522237" FilePath="401ed00d9a3d.fpkd" Compressed="true" Version="2" DataHash="j3165wc9SCwq4U9ewrZtWA==" />
+    <Entry Hash="5920552872736373175" FilePath="20778255eb9b7.fpk" Compressed="true" Version="2" DataHash="oyd6T8I2hsKFHdQRxl2wzg==" />
+    <Entry Hash="17100738947683629495" FilePath="20778255eb9b7.fpkd" Compressed="true" Version="2" DataHash="GCnEB2piIuW0umrdVx/0ag==" />
+    <Entry Hash="5920767983454715042" FilePath="2cb1c8352fca2.fpk" Compressed="true" Version="2" DataHash="oyd6T8I2hsKFHdQRxl2wzg==" />
+    <Entry Hash="17100954058401971362" FilePath="2cb1c8352fca2.fpkd" Compressed="true" Version="2" DataHash="WmHBXrA53Vj2hbepg9LHkg==" />
+    <Entry Hash="5920454388013579794" FilePath="1ade5e273be12.fpk" Compressed="true" Version="2" DataHash="oyd6T8I2hsKFHdQRxl2wzg==" />
+    <Entry Hash="17100640462960836114" FilePath="1ade5e273be12.fpkd" Compressed="true" Version="2" DataHash="mjtAMKFKwqvdeq8L2Y141Q==" />
+    <Entry Hash="5920249399686474795" FilePath="f37652082c2b.fpk" Compressed="true" Version="2" DataHash="2aSyvcFoKyQHJPTPtGz5oA==" />
+    <Entry Hash="17100435474633731115" FilePath="f37652082c2b.fpkd" Compressed="true" Version="2" DataHash="NCtaGrcFhEsOZ8bEa9QsTA==" />
+    <Entry Hash="12896325222483373099" FilePath="f37652082c2b.pftxs" Compressed="false" Version="2" DataHash="1q/Z2e3Z0mYUIQX3denvxA==" />
+    <Entry FilePath="/Assets/ssd/pack/npc/parts/npc_parts_gluttony_normal.fpkd" Compressed="true" Version="2" DataHash="pCaD56rGTmtvenQG+gSEug==" />
+    <Entry FilePath="/Assets/ssd/pack/npc/parts/npc_parts_ray_normal.fpkd" Compressed="true" Version="2" DataHash="r3lzhKnMooqWYEdZQCVXTA==" />
+    <Entry Hash="5920481750793108545" FilePath="1c6c8c734bc41.fpk" Compressed="true" Version="2" DataHash="as3czRVj+qTyzJi5DWzhkQ==" />
+    <Entry Hash="17100667825740364865" FilePath="1c6c8c734bc41.fpkd" Compressed="true" Version="2" DataHash="ROusZjkvQ/Qxzb3YtEuNfg==" />
+    <Entry Hash="12896557573590006849" FilePath="1c6c8c734bc41.pftxs" Compressed="false" Version="2" DataHash="7Q2YOSC3K7t7MOW52rAG0w==" />
+    <Entry FilePath="/Assets/ssd/pack/npc/parts/npc_parts_shagohod_normal.fpk" Compressed="true" Version="2" DataHash="CFK3oCW8eE97313t1Uz/uA==" />
+    <Entry FilePath="/Assets/ssd/pack/npc/parts/npc_parts_shagohod_normal.fpkd" Compressed="true" Version="2" DataHash="TzjyLs8SzrivQfHXnOlKfA==" />
+    <Entry FilePath="/Assets/ssd/pack/npc/parts/npc_parts_shagohod_normal.pftxs" Compressed="false" Version="2" DataHash="6cG28iMPCJhAKpfaQcGTxQ==" />
+    <Entry FilePath="/Assets/ssd/pack/npc/parts/npc_parts_sirencamera_normal.fpkd" Compressed="true" Version="2" DataHash="HjMwa6gHUFjCK/Q3vidftA==" />
+    <Entry Hash="17100509769194307496" FilePath="137085eec7fa8.fpkd" Compressed="true" Version="2" DataHash="N7T4PGLxny2EZEpLkVK8SA==" />
+    <Entry FilePath="/Assets/ssd/pack/npc/parts/npc_parts_zombie_normal.fpkd" Compressed="true" Version="2" DataHash="4DRIOe2z6wpCEB3HgHwqkA==" />
+    <Entry Hash="5920841785497422425" FilePath="30e3be3dd0a59.fpk" Compressed="true" Version="2" DataHash="z5FNhaExuJRKuG3StSWQ6Q==" />
+    <Entry Hash="17101027860444678745" FilePath="30e3be3dd0a59.fpkd" Compressed="true" Version="2" DataHash="gBb9lHW6vXtkjLjhKdUO4g==" />
+    <Entry Hash="12896917608294320729" FilePath="30e3be3dd0a59.pftxs" Compressed="false" Version="2" DataHash="cuau7/3XF7IbK4Syrya5PQ==" />
+    <Entry FilePath="/Assets/ssd/pack/npc/parts/npc_parts_zombiearmor_normal.fpkd" Compressed="true" Version="2" DataHash="2e1p0jOgJHzZHFsu0LTW8Q==" />
+    <Entry FilePath="/Assets/ssd/pack/npc/parts/npc_parts_zombiebom_normal.fpkd" Compressed="true" Version="2" DataHash="lHJVep7C2oSeeXfpXPqRyw==" />
+    <Entry FilePath="/Assets/ssd/pack/npc/parts/npc_parts_zombiedash_normal.fpkd" Compressed="true" Version="2" DataHash="Wmo1+HeBoWqltnaGcdmBTg==" />
+    <Entry FilePath="/Assets/ssd/pack/npc/parts/npc_parts_zombiepack_normal.fpkd" Compressed="true" Version="2" DataHash="Ypsybx0wcK8/JVuWxCg/dw==" />
+    <Entry FilePath="/Assets/ssd/pack/npc/parts/npc_parts_zombieseth_normal.fpkd" Compressed="true" Version="2" DataHash="JiHnBFvLOMFr5X/yfgIDAg==" />
+    <Entry FilePath="/Assets/ssd/pack/npc/parts/npc_parts_zombieshell_normal.fpkd" Compressed="true" Version="2" DataHash="D9RJAHQCKF27XFIkK7DU0Q==" />
+    <Entry Hash="5920761848041942647" FilePath="2c5880039ae77.fpk" Compressed="true" Version="2" DataHash="LxblXWzrt78Av1r+Pb4Bzg==" />
+    <Entry Hash="17100947922989198967" FilePath="2c5880039ae77.fpkd" Compressed="true" Version="2" DataHash="OkqFPY3p4TIWNusgYETSXQ==" />
+    <Entry Hash="12896837670838840951" FilePath="2c5880039ae77.pftxs" Compressed="false" Version="2" DataHash="1+P6nRpgsHN4rUNNhGS3sQ==" />
+    <Entry FilePath="/Assets/ssd/pack/npc/parts/npc_parts_zombiewcs_normal.fpkd" Compressed="true" Version="2" DataHash="3y0/OlyFwGzstB8cA1M0PQ==" />
+    <Entry FilePath="/Assets/ssd/pack/npc/parts/npc_parts_zombiexof_normal.fpk" Compressed="true" Version="2" DataHash="8edzTHvEqSjOFzJ1DSYckw==" />
+    <Entry FilePath="/Assets/ssd/pack/npc/parts/npc_parts_zombiexof_normal.fpkd" Compressed="true" Version="2" DataHash="99CzQcKYQmEH0fipjVfx4g==" />
+    <Entry FilePath="/Assets/ssd/pack/npc/parts/npc_parts_zombiexof_normal.pftxs" Compressed="false" Version="2" DataHash="D5GuVNLKUtbIEt73pGb6yg==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova/arm/arf23_main0_v00.fpk" Compressed="true" Version="2" DataHash="f3HmO9yBUykUhFpxgEOzLQ==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova/arm/arf24_main0_v00.fpk" Compressed="true" Version="2" DataHash="zgGyVUrYb6FlNg/M19sM2Q==" />
+    <Entry Hash="5920891546325871089" FilePath="33b7dbc5de9f1.fpk" Compressed="true" Version="2" DataHash="bn1HggG4/ZqcPJxyNs7CDw==" />
+    <Entry Hash="17101077621273127409" FilePath="33b7dbc5de9f1.fpkd" Compressed="true" Version="2" DataHash="ehDik4O2h1if4tRc359PfA==" />
+    <Entry Hash="12896967369122769393" FilePath="33b7dbc5de9f1.pftxs" Compressed="false" Version="2" DataHash="g7SDXf7d4yDsJPValABDew==" />
+    <Entry Hash="5920686965115045188" FilePath="2816cf5f7c544.fpk" Compressed="true" Version="2" DataHash="a5gckjBvEDEdtSCNSHvfLw==" />
+    <Entry Hash="17100873040062301508" FilePath="2816cf5f7c544.fpkd" Compressed="true" Version="2" DataHash="XObHQmw6LJbWuLDYYp5chg==" />
+    <Entry Hash="12896762787911943492" FilePath="2816cf5f7c544.pftxs" Compressed="false" Version="2" DataHash="Hx50ET5tCp/ITpZXFLtvIg==" />
+    <Entry Hash="5920771211119768863" FilePath="2ce0c0327351f.fpk" Compressed="true" Version="2" DataHash="FBArZUv05omqRMZHjOXZXQ==" />
+    <Entry Hash="17100957286067025183" FilePath="2ce0c0327351f.fpkd" Compressed="true" Version="2" DataHash="L9Mfg0g9GM45Zd70B5WOEQ==" />
+    <Entry Hash="12896847033916667167" FilePath="2ce0c0327351f.pftxs" Compressed="false" Version="2" DataHash="+oqm4Y0vOQL//LwjKW50ew==" />
+    <Entry Hash="5920290753032665240" FilePath="11912a58ab898.fpk" Compressed="true" Version="2" DataHash="x6yxDhuC74PJkILmau8tCg==" />
+    <Entry Hash="17100476827979921560" FilePath="11912a58ab898.fpkd" Compressed="true" Version="2" DataHash="EjVyQ1ukqJPHW8kbyxuRvg==" />
+    <Entry Hash="12896366575829563544" FilePath="11912a58ab898.pftxs" Compressed="false" Version="2" DataHash="ouVhEQbDqyT3/DRE5wARWQ==" />
+    <Entry Hash="5921013226421303050" FilePath="3aa28973b370a.fpk" Compressed="true" Version="2" DataHash="igm5jcA2LDv0VY6hmJVvnw==" />
+    <Entry Hash="17101199301368559370" FilePath="3aa28973b370a.fpkd" Compressed="true" Version="2" DataHash="qimPVSKzD6TEyyBu/N7uVw==" />
+    <Entry Hash="12897089049218201354" FilePath="3aa28973b370a.pftxs" Compressed="false" Version="2" DataHash="zlZrzqfxyw9Ou9SzkvjpuA==" />
+    <Entry Hash="5920699347720406465" FilePath="28cb002c305c1.fpk" Compressed="true" Version="2" DataHash="VEBpOhj7+jMVa2nIXJrOtA==" />
+    <Entry Hash="17100885422667662785" FilePath="28cb002c305c1.fpkd" Compressed="true" Version="2" DataHash="IyPwV/rTKqjyFiHYLav03w==" />
+    <Entry Hash="12896775170517304769" FilePath="28cb002c305c1.pftxs" Compressed="false" Version="2" DataHash="b0EXhm0maf2NDAME9vydMA==" />
+    <Entry Hash="5920519582136934563" FilePath="1e931130420a3.fpk" Compressed="true" Version="2" DataHash="ssxnKEZoanyg1sxOjow8ZQ==" />
+    <Entry Hash="17100705657084190883" FilePath="1e931130420a3.fpkd" Compressed="true" Version="2" DataHash="Jl1HDg94GhhuJhIhDQ9szQ==" />
+    <Entry Hash="12896595404933832867" FilePath="1e931130420a3.pftxs" Compressed="false" Version="2" DataHash="mgtI0nZAGtm70VMQZzUHpw==" />
+    <Entry Hash="5920120052300678768" FilePath="7dd2490c8670.fpk" Compressed="true" Version="2" DataHash="KogQkU5R70AqWVv+ujmCmw==" />
+    <Entry Hash="17100306127247935088" FilePath="7dd2490c8670.fpkd" Compressed="true" Version="2" DataHash="X5byjE2SryxmP1t3pyotfA==" />
+    <Entry Hash="12896195875097577072" FilePath="7dd2490c8670.pftxs" Compressed="false" Version="2" DataHash="Em9BT5jnQMxm0xCx9UIaNg==" />
+    <Entry Hash="5920199120070565340" FilePath="c5bbaf62dddc.fpk" Compressed="true" Version="2" DataHash="dJ7VaCZHIbsezKBAuSC41Q==" />
+    <Entry Hash="17100385195017821660" FilePath="c5bbaf62dddc.fpkd" Compressed="true" Version="2" DataHash="j/DBO1d/LReed6cEqyrhmQ==" />
+    <Entry Hash="12896274942867463644" FilePath="c5bbaf62dddc.pftxs" Compressed="false" Version="2" DataHash="p0X4XzerJkXLzmGgjtwUxw==" />
+    <Entry Hash="5920155654911334780" FilePath="9e33aa02997c.fpk" Compressed="true" Version="2" DataHash="H9UBKi5OGV71w3jTzaZRtg==" />
+    <Entry Hash="17100341729858591100" FilePath="9e33aa02997c.fpkd" Compressed="true" Version="2" DataHash="mOa6mdMaVB9hpRW2hB3nVg==" />
+    <Entry Hash="12896231477708233084" FilePath="9e33aa02997c.pftxs" Compressed="false" Version="2" DataHash="c82CzRHOmeXpZE39TWm7qQ==" />
+    <Entry Hash="5920809102505674459" FilePath="2f08249c006db.fpk" Compressed="true" Version="2" DataHash="AjwXC9sR2kvU+P6+wCgweg==" />
+    <Entry Hash="17100995177452930779" FilePath="2f08249c006db.fpkd" Compressed="true" Version="2" DataHash="4qxwKOHnXvZLzNHr7jb9RQ==" />
+    <Entry Hash="12896884925302572763" FilePath="2f08249c006db.pftxs" Compressed="false" Version="2" DataHash="H8KNbMyXlQNMum7zhUpccQ==" />
+    <Entry Hash="5920529639815116405" FilePath="1f256cf59f675.fpk" Compressed="true" Version="2" DataHash="x5swJoNMCIKDFH3QlYiAsQ==" />
+    <Entry Hash="17100715714762372725" FilePath="1f256cf59f675.fpkd" Compressed="true" Version="2" DataHash="//gYgJBQrpokhQYUqNBpQA==" />
+    <Entry Hash="12896605462612014709" FilePath="1f256cf59f675.pftxs" Compressed="false" Version="2" DataHash="uibi5oD1GtZCKgEuxNGB8Q==" />
+    <Entry Hash="5920389984925024343" FilePath="17352df3c8057.fpk" Compressed="true" Version="2" DataHash="VHNFMLlovg0H9/GaEB3xoA==" />
+    <Entry Hash="17100576059872280663" FilePath="17352df3c8057.fpkd" Compressed="true" Version="2" DataHash="gGJr22Ca1qfg/EZ2uOx/Yw==" />
+    <Entry Hash="12896465807721922647" FilePath="17352df3c8057.pftxs" Compressed="false" Version="2" DataHash="nsuxeUfDtvBRRe/4ejKjMg==" />
+    <Entry Hash="5920630084735704775" FilePath="24db177299ec7.fpk" Compressed="true" Version="2" DataHash="5+44SQWZmjm2SOVg2W2Ayg==" />
+    <Entry Hash="17100816159682961095" FilePath="24db177299ec7.fpkd" Compressed="true" Version="2" DataHash="258iBcBPF0Ih/5CBv2mGwg==" />
+    <Entry Hash="12896705907532603079" FilePath="24db177299ec7.pftxs" Compressed="false" Version="2" DataHash="nPbbbao7ZU3pAdrhC4gzlg==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova/common/cm_all.fpk" Compressed="true" Version="2" DataHash="9JbIsCmBLOJH3tV37CDtXQ==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova/common/cm_all.fpkd" Compressed="true" Version="2" DataHash="F4QyjadCmKc+BM/K7GlLoQ==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova/common/cm_all.pftxs" Compressed="false" Version="2" DataHash="KQNrKurtPWATvi88kIfJXQ==" />
+    <Entry Hash="5920418175012115038" FilePath="18cf6635d125e.fpk" Compressed="true" Version="2" DataHash="DH3gpHyFg25WIgXcKrn2GQ==" />
+    <Entry Hash="17100604249959371358" FilePath="18cf6635d125e.fpkd" Compressed="true" Version="2" DataHash="vi6NRU7T5WDtCs8HJwWcUg==" />
+    <Entry Hash="12896493997809013342" FilePath="18cf6635d125e.pftxs" Compressed="false" Version="2" DataHash="x2eFt+08u11lSnCzx1Jy6Q==" />
+    <Entry Hash="5920512071697907200" FilePath="1e25c69f73e00.fpk" Compressed="true" Version="2" DataHash="MSkjMswx5/LV6vjV7Q+BYQ==" />
+    <Entry Hash="17100698146645163520" FilePath="1e25c69f73e00.fpkd" Compressed="true" Version="2" DataHash="obNLV7MiuyFsBy0xE9hdgw==" />
+    <Entry Hash="12896587894494805504" FilePath="1e25c69f73e00.pftxs" Compressed="false" Version="2" DataHash="IJn50nVDzZg0uNmkDvniig==" />
+    <Entry Hash="5920323049684293918" FilePath="136724bfd591e.fpk" Compressed="true" Version="2" DataHash="ZoZNxqaOnz9r83/pKDwOpQ==" />
+    <Entry Hash="17100509124631550238" FilePath="136724bfd591e.fpkd" Compressed="true" Version="2" DataHash="rJf1CoFN8kr/i3dxbAw/FA==" />
+    <Entry Hash="12896398872481192222" FilePath="136724bfd591e.pftxs" Compressed="false" Version="2" DataHash="c+2M0rCWLNu22JLLxXYhSg==" />
+    <Entry Hash="5921100751613305736" FilePath="3f9c32335a388.fpk" Compressed="true" Version="2" DataHash="B5iBIoNeubYInWmtC4xpjA==" />
+    <Entry Hash="17101286826560562056" FilePath="3f9c32335a388.fpkd" Compressed="true" Version="2" DataHash="AOIySstlWpgQPvCIcWwJIQ==" />
+    <Entry Hash="12897176574410204040" FilePath="3f9c32335a388.pftxs" Compressed="false" Version="2" DataHash="x2eFt+08u11lSnCzx1Jy6Q==" />
+    <Entry Hash="5920464914221674531" FilePath="1b778b558b023.fpk" Compressed="true" Version="2" DataHash="2L14PemEB7V4HOKnrwBznA==" />
+    <Entry Hash="17100650989168930851" FilePath="1b778b558b023.fpkd" Compressed="true" Version="2" DataHash="kuK/vluMGgoD2AsHZkRb5Q==" />
+    <Entry Hash="12896540737018572835" FilePath="1b778b558b023.pftxs" Compressed="false" Version="2" DataHash="IJn50nVDzZg0uNmkDvniig==" />
+    <Entry Hash="5920079179197407064" FilePath="58a5c63f5f58.fpk" Compressed="true" Version="2" DataHash="ad7IJqLy96H1duHIUubcNw==" />
+    <Entry Hash="17100265254144663384" FilePath="58a5c63f5f58.fpkd" Compressed="true" Version="2" DataHash="Hp4HpjHm0+dAlcrKNFe1Aw==" />
+    <Entry Hash="12896155001994305368" FilePath="58a5c63f5f58.pftxs" Compressed="false" Version="2" DataHash="kv5Chm202snojq7v6sSHjg==" />
+    <Entry Hash="5920614826476786017" FilePath="23fd0e00f5161.fpk" Compressed="true" Version="2" DataHash="KMmOdxrhqDcfzU6VdSuWFQ==" />
+    <Entry Hash="17100800901424042337" FilePath="23fd0e00f5161.fpkd" Compressed="true" Version="2" DataHash="jkHkkuEdZRy/SHEHvwcEtQ==" />
+    <Entry Hash="12896690649273684321" FilePath="23fd0e00f5161.pftxs" Compressed="false" Version="2" DataHash="I8zlWGUlvjDBKvfpcC6XBA==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova/hats/hat30_main0_v00.fpk" Compressed="true" Version="2" DataHash="SwoD3/lbpamn9q8//468rg==" />
+    <Entry Hash="5920099277717211906" FilePath="6aed53618b02.fpk" Compressed="true" Version="2" DataHash="j/vjiJuaEasjZ+AdICmHHg==" />
+    <Entry Hash="17100285352664468226" FilePath="6aed53618b02.fpkd" Compressed="true" Version="2" DataHash="0Y+J9iNwR4DOHe2I+VJNAg==" />
+    <Entry Hash="12896175100514110210" FilePath="6aed53618b02.pftxs" Compressed="false" Version="2" DataHash="aFYC2ls7DvzBAicGP5CkTw==" />
+    <Entry Hash="5920388613062511166" FilePath="1721375dbca3e.fpk" Compressed="true" Version="2" DataHash="m618IECJlD0ZoT2cWJUnSw==" />
+    <Entry Hash="17100574688009767486" FilePath="1721375dbca3e.fpkd" Compressed="true" Version="2" DataHash="wARcseP6V8FNsTRBmvkDXA==" />
+    <Entry Hash="12896464435859409470" FilePath="1721375dbca3e.pftxs" Compressed="false" Version="2" DataHash="aFYC2ls7DvzBAicGP5CkTw==" />
+    <Entry Hash="5920195533441566359" FilePath="c2789ba38697.fpk" Compressed="true" Version="2" DataHash="Sh2HoaJmPTQBFdMHm2GNiQ==" />
+    <Entry Hash="17100381608388822679" FilePath="c2789ba38697.fpkd" Compressed="true" Version="2" DataHash="BCvQ0BOLTiXuwpeD3QM/HQ==" />
+    <Entry Hash="12896271356238464663" FilePath="c2789ba38697.pftxs" Compressed="false" Version="2" DataHash="L9ztLebHLjLJyvTHTMmmJA==" />
+    <Entry Hash="5920350815436768363" FilePath="14fb303cd846b.fpk" Compressed="true" Version="2" DataHash="QZfDM9qYolj5w1BxGmg0wQ==" />
+    <Entry Hash="17100536890384024683" FilePath="14fb303cd846b.fpkd" Compressed="true" Version="2" DataHash="Rg1RuQqfFkvIDwwpsH3e0g==" />
+    <Entry Hash="12896426638233666667" FilePath="14fb303cd846b.pftxs" Compressed="false" Version="2" DataHash="L9ztLebHLjLJyvTHTMmmJA==" />
+    <Entry Hash="5920203232754691283" FilePath="c9793e766cd3.fpk" Compressed="true" Version="2" DataHash="bbMQQDGUXbo+QiKw3u6Qvw==" />
+    <Entry Hash="17100389307701947603" FilePath="c9793e766cd3.fpkd" Compressed="true" Version="2" DataHash="875Kwwzk+Nsc44AHDm3b4A==" />
+    <Entry Hash="12896279055551589587" FilePath="c9793e766cd3.pftxs" Compressed="false" Version="2" DataHash="We1nOgWs9JBHkm1fKOBz/w==" />
+    <Entry Hash="5920756363653875766" FilePath="2c08b11390836.fpk" Compressed="true" Version="2" DataHash="8k4Ht7LoID4mrkgPVtQXng==" />
+    <Entry Hash="17100942438601132086" FilePath="2c08b11390836.fpkd" Compressed="true" Version="2" DataHash="KW46XaZhy0sSQ85ldYWMVQ==" />
+    <Entry Hash="12896832186450774070" FilePath="2c08b11390836.pftxs" Compressed="false" Version="2" DataHash="We1nOgWs9JBHkm1fKOBz/w==" />
+    <Entry Hash="5920648002371091900" FilePath="25dfd3d747dbc.fpk" Compressed="true" Version="2" DataHash="c9xMTj1W2Z3YcHjfPRCooQ==" />
+    <Entry Hash="17100834077318348220" FilePath="25dfd3d747dbc.fpkd" Compressed="true" Version="2" DataHash="Ue6uJHwFl2Uwjihs6wv2OQ==" />
+    <Entry Hash="12896723825167990204" FilePath="25dfd3d747dbc.pftxs" Compressed="false" Version="2" DataHash="QF7syhL47UwbCYW4I4dSZA==" />
+    <Entry Hash="5920710177433114159" FilePath="296897ff0d62f.fpk" Compressed="true" Version="2" DataHash="FdsOxUoZ2+Ihafe9XzGU8A==" />
+    <Entry Hash="17100896252380370479" FilePath="296897ff0d62f.fpkd" Compressed="true" Version="2" DataHash="h/m7IOhelPzvhUApw2siZQ==" />
+    <Entry Hash="12896786000230012463" FilePath="296897ff0d62f.pftxs" Compressed="false" Version="2" DataHash="AaABd7jryuZyB2bJYHb1Vg==" />
+    <Entry Hash="5920103558384986120" FilePath="6ed1ff102808.fpk" Compressed="true" Version="2" DataHash="u3fbqPZRVp6nF/kdCmo+EA==" />
+    <Entry Hash="17100289633332242440" FilePath="6ed1ff102808.fpkd" Compressed="true" Version="2" DataHash="ZjTV+Z5X8VTvPrhYMWAMOA==" />
+    <Entry Hash="12896179381181884424" FilePath="6ed1ff102808.pftxs" Compressed="false" Version="2" DataHash="i9qun6hvn+OHtze8aWaysA==" />
+    <Entry Hash="5920489973931556831" FilePath="1ce436073bfdf.fpk" Compressed="true" Version="2" DataHash="0I3kR/V2PtbGfvKgZEzR1A==" />
+    <Entry Hash="17100676048878813151" FilePath="1ce436073bfdf.fpkd" Compressed="true" Version="2" DataHash="Xr9hmQv9rFn4VHfdfBqwsA==" />
+    <Entry Hash="12896565796728455135" FilePath="1ce436073bfdf.pftxs" Compressed="false" Version="2" DataHash="mZC+8i6nLhbpwcauPIAcHg==" />
+    <Entry Hash="5920843279653128016" FilePath="30f97c67bc750.fpk" Compressed="true" Version="2" DataHash="qekV42BV6+4r5ngUzHwwEg==" />
+    <Entry Hash="17101029354600384336" FilePath="30f97c67bc750.fpkd" Compressed="true" Version="2" DataHash="mg6wj8hvU5jPBHbugy+VUQ==" />
+    <Entry Hash="12896919102450026320" FilePath="30f97c67bc750.pftxs" Compressed="false" Version="2" DataHash="NKymxzM473lwxqQ15TfdeQ==" />
+    <Entry Hash="5920217139835487452" FilePath="d61f3d12c4dc.fpk" Compressed="true" Version="2" DataHash="SGCz0F1brNW2LQzkp8WMug==" />
+    <Entry Hash="17100403214782743772" FilePath="d61f3d12c4dc.fpkd" Compressed="true" Version="2" DataHash="OokRbT9SIY8DOV/xLXsMiA==" />
+    <Entry Hash="12896292962632385756" FilePath="d61f3d12c4dc.pftxs" Compressed="false" Version="2" DataHash="yrp8lEDLBzqbCEJrWUjWww==" />
+    <Entry Hash="5920480635398474086" FilePath="1c5c514814966.fpk" Compressed="true" Version="2" DataHash="HHS3U7bACCCzG5nU4x/oIA==" />
+    <Entry Hash="17100666710345730406" FilePath="1c5c514814966.fpkd" Compressed="true" Version="2" DataHash="YZQNKugTou08X9cwgLXeXg==" />
+    <Entry Hash="12896556458195372390" FilePath="1c5c514814966.pftxs" Compressed="false" Version="2" DataHash="Qb4jBu1AAHbh+PFue71/Pg==" />
+    <Entry Hash="5920721737622228295" FilePath="2a10d10e80d47.fpk" Compressed="true" Version="2" DataHash="IEFpsH40toKQtVsmfK/wJQ==" />
+    <Entry Hash="17100907812569484615" FilePath="2a10d10e80d47.fpkd" Compressed="true" Version="2" DataHash="1gfxtgKu/ttVWU9pnZxr0g==" />
+    <Entry Hash="12896797560419126599" FilePath="2a10d10e80d47.pftxs" Compressed="false" Version="2" DataHash="A0QH/8GkgBr7gHVXIFHRCg==" />
+    <Entry Hash="5921030325902947316" FilePath="3b9b5dfc2b3f4.fpk" Compressed="true" Version="2" DataHash="lH+YQi7JhZs7Tt1GeLHKuw==" />
+    <Entry Hash="17101216400850203636" FilePath="3b9b5dfc2b3f4.fpkd" Compressed="true" Version="2" DataHash="we3A6CKR7s5PNJLgdw6ufw==" />
+    <Entry Hash="12897106148699845620" FilePath="3b9b5dfc2b3f4.pftxs" Compressed="false" Version="2" DataHash="cqe8c/Iz3vG/qkzedIVeLQ==" />
+    <Entry Hash="5920765337282852232" FilePath="2c8b46730b588.fpk" Compressed="true" Version="2" DataHash="NGk3v+j4N153Gllz1igrLQ==" />
+    <Entry Hash="17100951412230108552" FilePath="2c8b46730b588.fpkd" Compressed="true" Version="2" DataHash="hfrxRQMYvSQKogo/8vK4bg==" />
+    <Entry Hash="12896841160079750536" FilePath="2c8b46730b588.pftxs" Compressed="false" Version="2" DataHash="mZC+8i6nLhbpwcauPIAcHg==" />
+    <Entry Hash="5920651893605691680" FilePath="261873d1c7120.fpk" Compressed="true" Version="2" DataHash="0JvuPrHI1ukgYZPT4qCUqQ==" />
+    <Entry Hash="17100837968552948000" FilePath="261873d1c7120.fpkd" Compressed="true" Version="2" DataHash="Zm8iQFeCHQaX+oHkZacnYw==" />
+    <Entry Hash="12896727716402589984" FilePath="261873d1c7120.pftxs" Compressed="false" Version="2" DataHash="AkDCMTKU7Q2pdDjTDuhZIw==" />
+    <Entry Hash="5920674363570623780" FilePath="275f6ef639524.fpk" Compressed="true" Version="2" DataHash="LxR3lM+uaRzrZKwiXq30Ug==" />
+    <Entry Hash="17100860438517880100" FilePath="275f6ef639524.fpkd" Compressed="true" Version="2" DataHash="ot1PkilkeM5AOe0Q7GCNow==" />
+    <Entry Hash="12896750186367522084" FilePath="275f6ef639524.pftxs" Compressed="false" Version="2" DataHash="A0QH/8GkgBr7gHVXIFHRCg==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova/hats/hat_f13.fpk" Compressed="true" Version="2" DataHash="zfI6zxNym11yabdcOKcp9w==" />
+    <Entry Hash="5919983691495397170" FilePath="1cd4fb05732.fpk" Compressed="true" Version="2" DataHash="PMEkcGOuZF4xx1E2j/LjQg==" />
+    <Entry Hash="17100169766442653490" FilePath="1cd4fb05732.fpkd" Compressed="true" Version="2" DataHash="PCaxz3XNNHr13CC4pmGfFA==" />
+    <Entry Hash="12896059514292295474" FilePath="1cd4fb05732.pftxs" Compressed="false" Version="2" DataHash="41Pe78rMRZTyaLBwJNOskw==" />
+    <Entry Hash="5920968562409468590" FilePath="3818970abf2ae.fpk" Compressed="true" Version="2" DataHash="ALL3OqMqUDH8goTaA4DwSA==" />
+    <Entry Hash="17101154637356724910" FilePath="3818970abf2ae.fpkd" Compressed="true" Version="2" DataHash="RrV1IW1xJ0nJdMeoVKqvUg==" />
+    <Entry Hash="12897044385206366894" FilePath="3818970abf2ae.pftxs" Compressed="false" Version="2" DataHash="8eeaGh0GSWs8iTo2nXbytA==" />
+    <Entry Hash="5920739536424691511" FilePath="2b13d2c346737.fpk" Compressed="true" Version="2" DataHash="BdOYNuxyezMzZxcODCesqA==" />
+    <Entry Hash="17100925611371947831" FilePath="2b13d2c346737.fpkd" Compressed="true" Version="2" DataHash="JgaaYxCvKpGsMBPu9OQfjA==" />
+    <Entry Hash="12896815359221589815" FilePath="2b13d2c346737.pftxs" Compressed="false" Version="2" DataHash="jnmy7DBOIFKVJRHHv6P//g==" />
+    <Entry Hash="5920519108039763361" FilePath="1e8c2b09f65a1.fpk" Compressed="true" Version="2" DataHash="5467+iE1Cpn71GeV+ctx0Q==" />
+    <Entry Hash="17100705182987019681" FilePath="1e8c2b09f65a1.fpkd" Compressed="true" Version="2" DataHash="dhvd1fDrmOSE1yl9YK1MJA==" />
+    <Entry Hash="12896594930836661665" FilePath="1e8c2b09f65a1.pftxs" Compressed="false" Version="2" DataHash="jnmy7DBOIFKVJRHHv6P//g==" />
+    <Entry Hash="5920642520117657186" FilePath="25900cdafbe62.fpk" Compressed="true" Version="2" DataHash="spdN68r9ymJEtzJbF9fehw==" />
+    <Entry Hash="17100828595064913506" FilePath="25900cdafbe62.fpkd" Compressed="true" Version="2" DataHash="BWJXjR5SZuspsMyXVf8O1g==" />
+    <Entry Hash="12896718342914555490" FilePath="25900cdafbe62.pftxs" Compressed="false" Version="2" DataHash="lrdurNuXRdQy6258OHdUlQ==" />
+    <Entry Hash="5920617518165368000" FilePath="2424395339cc0.fpk" Compressed="true" Version="2" DataHash="U1Rp04HSh5U/x/8eKrR2TA==" />
+    <Entry Hash="17100803593112624320" FilePath="2424395339cc0.fpkd" Compressed="true" Version="2" DataHash="p32oQM9kL96A2G/JOS32KA==" />
+    <Entry Hash="12896693340962266304" FilePath="2424395339cc0.pftxs" Compressed="false" Version="2" DataHash="sHIEiZfcUsvlfoIc11Z8CA==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova/hats/hat_f21.fpk" Compressed="true" Version="2" DataHash="/HpzPlWYk5TK7vH38rXDow==" />
+    <Entry Hash="5920855440839894703" FilePath="31aa745b366af.fpk" Compressed="true" Version="2" DataHash="b0lCKebNSxTvU40kS++SXA==" />
+    <Entry Hash="17101041515787151023" FilePath="31aa745b366af.fpkd" Compressed="true" Version="2" DataHash="xD0//FwXFoHI3UST1JJVZg==" />
+    <Entry Hash="12896931263636793007" FilePath="31aa745b366af.pftxs" Compressed="false" Version="2" DataHash="OeK++MnFPbMwGosa3/o6xg==" />
+    <Entry Hash="5920870003723382194" FilePath="327e5f532adb2.fpk" Compressed="true" Version="2" DataHash="1I7fIhoaoAg+BnCS3xws0g==" />
+    <Entry Hash="17101056078670638514" FilePath="327e5f532adb2.fpkd" Compressed="true" Version="2" DataHash="Yc24sVNgWL4XAyrqFCvu3g==" />
+    <Entry Hash="12896945826520280498" FilePath="327e5f532adb2.pftxs" Compressed="false" Version="2" DataHash="Sma5fewbX8Fzbcag5+1k3g==" />
+    <Entry Hash="5920508886722954401" FilePath="1df76daaa44a1.fpk" Compressed="true" Version="2" DataHash="3AlpVe/JQxvLViFTXqsQgw==" />
+    <Entry Hash="17100694961670210721" FilePath="1df76daaa44a1.fpkd" Compressed="true" Version="2" DataHash="uE92vib16BA0Vw3gIGI3Sw==" />
+    <Entry Hash="12896584709519852705" FilePath="1df76daaa44a1.pftxs" Compressed="false" Version="2" DataHash="cqe8c/Iz3vG/qkzedIVeLQ==" />
+    <Entry Hash="5920551058799939591" FilePath="205d1ce555007.fpk" Compressed="true" Version="2" DataHash="0I3kR/V2PtbGfvKgZEzR1A==" />
+    <Entry Hash="17100737133747195911" FilePath="205d1ce555007.fpkd" Compressed="true" Version="2" DataHash="br+teMwvZWqnmuey+LfrHQ==" />
+    <Entry Hash="12896626881596837895" FilePath="205d1ce555007.pftxs" Compressed="false" Version="2" DataHash="mZC+8i6nLhbpwcauPIAcHg==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova/hats/hat_m09.fpk" Compressed="true" Version="2" DataHash="SGCz0F1brNW2LQzkp8WMug==" />
+    <Entry Hash="5920275486035331430" FilePath="10b300596c966.fpk" Compressed="true" Version="2" DataHash="HGSr9Hfkrja8SgyzpYbmfQ==" />
+    <Entry Hash="17100461560982587750" FilePath="10b300596c966.fpkd" Compressed="true" Version="2" DataHash="iRGg09DpMpnO6/PAX8nz/A==" />
+    <Entry Hash="12896351308832229734" FilePath="10b300596c966.pftxs" Compressed="false" Version="2" DataHash="87fJccYtAMXoxbPH5nvkNg==" />
+    <Entry Hash="5920279003619366927" FilePath="10e6305ef980f.fpk" Compressed="true" Version="2" DataHash="IEFpsH40toKQtVsmfK/wJQ==" />
+    <Entry Hash="17100465078566623247" FilePath="10e6305ef980f.fpkd" Compressed="true" Version="2" DataHash="HJpi7PAzBfKqzDqE6RzgtA==" />
+    <Entry Hash="12896354826416265231" FilePath="10e6305ef980f.pftxs" Compressed="false" Version="2" DataHash="A0QH/8GkgBr7gHVXIFHRCg==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova/hats/hat_m13.fpk" Compressed="true" Version="2" DataHash="cz1CEknidM2iuGhE7Ujl6w==" />
+    <Entry Hash="5920241583426181068" FilePath="ec5a749d17cc.fpk" Compressed="true" Version="2" DataHash="RZ4mCLTl38bsiyQIZkrr9Q==" />
+    <Entry Hash="17100427658373437388" FilePath="ec5a749d17cc.fpkd" Compressed="true" Version="2" DataHash="wdKXh4XR/iWAOFHaFIOvPA==" />
+    <Entry Hash="12896317406223079372" FilePath="ec5a749d17cc.pftxs" Compressed="false" Version="2" DataHash="8eeaGh0GSWs8iTo2nXbytA==" />
+    <Entry Hash="5920648307285702780" FilePath="25e443bc8387c.fpk" Compressed="true" Version="2" DataHash="pralty6Nmb8t/vn5w7I0dQ==" />
+    <Entry Hash="17100834382232959100" FilePath="25e443bc8387c.fpkd" Compressed="true" Version="2" DataHash="+FASo9HpQbHfN2Gv7i3tVw==" />
+    <Entry Hash="12896724130082601084" FilePath="25e443bc8387c.pftxs" Compressed="false" Version="2" DataHash="jnmy7DBOIFKVJRHHv6P//g==" />
+    <Entry Hash="5920980652303662796" FilePath="38c8856853ecc.fpk" Compressed="true" Version="2" DataHash="aNJprdOaFI3WmIdEhuWXVA==" />
+    <Entry Hash="17101166727250919116" FilePath="38c8856853ecc.fpkd" Compressed="true" Version="2" DataHash="IG4Q1NBO3kgFXRPFLhlcIA==" />
+    <Entry Hash="12897056475100561100" FilePath="38c8856853ecc.pftxs" Compressed="false" Version="2" DataHash="jnmy7DBOIFKVJRHHv6P//g==" />
+    <Entry Hash="5920520246819649713" FilePath="1e9cbd53178b1.fpk" Compressed="true" Version="2" DataHash="klbk7oM8Vu7KTXQfChsQdA==" />
+    <Entry Hash="17100706321766906033" FilePath="1e9cbd53178b1.fpkd" Compressed="true" Version="2" DataHash="1oL9ZldTu9lXkQAmRs4bUg==" />
+    <Entry Hash="12896596069616548017" FilePath="1e9cbd53178b1.pftxs" Compressed="false" Version="2" DataHash="lrdurNuXRdQy6258OHdUlQ==" />
+    <Entry Hash="5920737690917637761" FilePath="2af8f7b698e81.fpk" Compressed="true" Version="2" DataHash="NAb+QEVOAavQLzuuUEGbzQ==" />
+    <Entry Hash="17100923765864894081" FilePath="2af8f7b698e81.fpkd" Compressed="true" Version="2" DataHash="Sk/lpBFX0EsazxIXAosiUQ==" />
+    <Entry Hash="12896813513714536065" FilePath="2af8f7b698e81.pftxs" Compressed="false" Version="2" DataHash="7ppsK/93C86rz6CVMR825g==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova/hats/hat_m21.fpk" Compressed="true" Version="2" DataHash="8jAOs3HsPTMK12ONyECufA==" />
+    <Entry Hash="5920978896203783912" FilePath="38aef76cf9ee8.fpk" Compressed="true" Version="2" DataHash="5aAM9tf3lXY3SGBjg2V47w==" />
+    <Entry Hash="17101164971151040232" FilePath="38aef76cf9ee8.fpkd" Compressed="true" Version="2" DataHash="2x/BBzTbq1204r/AwrLTkA==" />
+    <Entry Hash="12897054719000682216" FilePath="38aef76cf9ee8.pftxs" Compressed="false" Version="2" DataHash="OeK++MnFPbMwGosa3/o6xg==" />
+    <Entry Hash="5920531837531957133" FilePath="1f456817ba78d.fpk" Compressed="true" Version="2" DataHash="vU4Nqx9XkOV+290NYvvEZA==" />
+    <Entry Hash="17100717912479213453" FilePath="1f456817ba78d.fpkd" Compressed="true" Version="2" DataHash="qnC5FvGvh2APZy40YjunJg==" />
+    <Entry Hash="12896607660328855437" FilePath="1f456817ba78d.pftxs" Compressed="false" Version="2" DataHash="/7rk4d5O5FDg5qNm2qqOwg==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova/leg/lgm22_main0_v00.fpk" Compressed="true" Version="2" DataHash="VgelRIiH+COYibX6J2CANg==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/arm/arf18_main1_v00.fpk" Compressed="true" Version="2" DataHash="Ituubcb5cFLs0XvwbWyfwg==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/arm/arf18_main1_v00.fpkd" Compressed="true" Version="2" DataHash="gKjr41H9IJ+8ea2wHMBung==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/arm/arf18_main1_v00.pftxs" Compressed="false" Version="2" DataHash="+1mbkCrjv2F3C0QubqqkMg==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/arm/arf22_main1_v00.fpk" Compressed="true" Version="2" DataHash="gqMYhl/t7ap59ehuuSivGA==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/arm/arf22_main1_v00.fpkd" Compressed="true" Version="2" DataHash="LDm41luSxRRxsLKqQyq2rg==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/arm/arf22_main1_v00.pftxs" Compressed="false" Version="2" DataHash="noaGLl/6JIRSoGg0FH6QTQ==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/arm/arf23_main1_v00.fpk" Compressed="true" Version="2" DataHash="NZL2PZ5m5hYrX5drSCuBrA==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/arm/arf23_main1_v00.fpkd" Compressed="true" Version="2" DataHash="AeTyOO0fvlPkO084xrsq4w==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/arm/arf23_main1_v00.pftxs" Compressed="false" Version="2" DataHash="Te2pigN8AwWMXyfwcyDLqA==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/arm/arf24_main1_v00.fpk" Compressed="true" Version="2" DataHash="j8gk6zpO7OuhR2kly6m7qQ==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/arm/arf24_main1_v00.fpkd" Compressed="true" Version="2" DataHash="K0zsp8DMYziVl/1AWZnUHA==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/arm/arf24_main1_v00.pftxs" Compressed="false" Version="2" DataHash="lnsTFpiOWU0wYJcCC0yoAw==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/arm/arf26_main0_v00.fpk" Compressed="true" Version="2" DataHash="tN6E3MYPE6oWG1YGh0d/Ng==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/arm/arf26_main0_v00.fpkd" Compressed="true" Version="2" DataHash="h0OsNi3xshS88hPdgZquzQ==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/arm/arf26_main0_v00.pftxs" Compressed="false" Version="2" DataHash="Z6uFFu0/489s9+1qSILbXA==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/arm/arf9_main1_v00.fpk" Compressed="true" Version="2" DataHash="XjD1xOyomva33Xs7scYy6Q==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/arm/arf9_main1_v00.fpkd" Compressed="true" Version="2" DataHash="Rm4OO4xUlmyardGMaDKjnw==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/arm/arf9_main1_v00.pftxs" Compressed="false" Version="2" DataHash="ziDnXMCB4gTxCf2XFx/JQA==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/arm/arm18_main1_v00.fpk" Compressed="true" Version="2" DataHash="+Oml9/0B2tv+wSxg8NHe+Q==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/arm/arm18_main1_v00.fpkd" Compressed="true" Version="2" DataHash="H3KS6/dzkBjCsHvn0uoEtQ==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/arm/arm18_main1_v00.pftxs" Compressed="false" Version="2" DataHash="Un2h8iIcBNgFvXUs0J1gBA==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/arm/arm22_main1_v00.fpk" Compressed="true" Version="2" DataHash="8juOnpQFzyiCOpt/wo09KA==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/arm/arm22_main1_v00.fpkd" Compressed="true" Version="2" DataHash="OW2wPQ1VJL8+B4/hjWH95g==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/arm/arm22_main1_v00.pftxs" Compressed="false" Version="2" DataHash="0BaTzRH5PXaekQNO9QSWuQ==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/arm/arm23_main1_v00.fpk" Compressed="true" Version="2" DataHash="v27KnCBurKccVlkjs9xifA==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/arm/arm23_main1_v00.fpkd" Compressed="true" Version="2" DataHash="L7aBaZTpt/YXuXpfgmMpKA==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/arm/arm23_main1_v00.pftxs" Compressed="false" Version="2" DataHash="Azr3fld5d1ZqIuNQoheSyw==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/arm/arm24_main1_v00.fpk" Compressed="true" Version="2" DataHash="42Ez0n8TLwOKUVjRvMmKYw==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/arm/arm24_main1_v00.fpkd" Compressed="true" Version="2" DataHash="97zUJTFdOhUiLkEK7apfFQ==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/arm/arm24_main1_v00.pftxs" Compressed="false" Version="2" DataHash="0s1OZwTLABNeGUtnowqNAg==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/arm/arm26_main0_v00.fpk" Compressed="true" Version="2" DataHash="Ctf74Zlv8ROzgzwm07sEVg==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/arm/arm26_main0_v00.fpkd" Compressed="true" Version="2" DataHash="b1rsh7UwiPdW5IwU4odKxQ==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/arm/arm26_main0_v00.pftxs" Compressed="false" Version="2" DataHash="Jg75WirekFCVKbSPLSvoNw==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/arm/arm9_main1_v00.fpk" Compressed="true" Version="2" DataHash="h8RQdNQkAwApNFJqz8ouzg==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/arm/arm9_main1_v00.fpkd" Compressed="true" Version="2" DataHash="rJH4yiyYsZhrUJPHokyAVQ==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/arm/arm9_main1_v00.pftxs" Compressed="false" Version="2" DataHash="yNMd7mQOpjN8x2qifUOwxg==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/body/bdf15_main0_v00.fpk" Compressed="true" Version="2" DataHash="04APv/GsLorx16gjN5hTtw==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/body/bdf15_main0_v00.fpkd" Compressed="true" Version="2" DataHash="t+i8y2I0SWbha+r7vwYvdA==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/body/bdf15_main0_v00.pftxs" Compressed="false" Version="2" DataHash="0yy06UnNlK74n5RVw1lH/A==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/body/bdm15_main0_v00.fpk" Compressed="true" Version="2" DataHash="B0nPKkZTyWC0aZ/sw93g6g==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/body/bdm15_main0_v00.fpkd" Compressed="true" Version="2" DataHash="nQkod9j11tKqLMuOZ/NFFQ==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/body/bdm15_main0_v00.pftxs" Compressed="false" Version="2" DataHash="Um4kN/ltFbrsRD4nwt1zRw==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/head/hdf20_main1_v00.fpk" Compressed="true" Version="2" DataHash="U76dZua+2VBDVZ5mha4rbA==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/head/hdf20_main1_v00.fpkd" Compressed="true" Version="2" DataHash="EgB8T5tncdBo7UuATIcWWA==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/head/hdf20_main1_v00.pftxs" Compressed="false" Version="2" DataHash="ctevu0W9Qx4IQmjgtR1WNg==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/head/hdf26_main1_v00.fpk" Compressed="true" Version="2" DataHash="n3zWPaCQ0jVs2L4HEHbwOQ==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/head/hdf26_main1_v00.fpkd" Compressed="true" Version="2" DataHash="DdquSa3yehHWWGZdgOmaeA==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/head/hdf26_main1_v00.pftxs" Compressed="false" Version="2" DataHash="XdZQncPmBVIJnyonjzGKYw==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/head/hdf27_main1_v00.fpk" Compressed="true" Version="2" DataHash="5TynNQyontx2I88FLYG2QQ==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/head/hdf27_main1_v00.fpkd" Compressed="true" Version="2" DataHash="VPioOjWDlaJsQ8eH59hjdQ==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/head/hdf27_main1_v00.pftxs" Compressed="false" Version="2" DataHash="OuzGCkBjRsXYuJd2RjVB6g==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/head/hdf28_main1_v00.fpk" Compressed="true" Version="2" DataHash="RAlecgkofL5Q9nc5EEASQA==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/head/hdf28_main1_v00.fpkd" Compressed="true" Version="2" DataHash="L4X7bREQBwTj2S9W0BOwcg==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/head/hdf28_main1_v00.pftxs" Compressed="false" Version="2" DataHash="PMDOE4WOy5bl/BdL7VYcxg==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/head/hdf30_main0_v00.fpk" Compressed="true" Version="2" DataHash="AGoPORv60HyCDn9ixeq02g==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/head/hdf30_main0_v00.fpkd" Compressed="true" Version="2" DataHash="VGWOsBCFS7v1T0foiSIqLQ==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/head/hdf30_main0_v00.pftxs" Compressed="false" Version="2" DataHash="5MiVpTdHYGvrq6jFRgb9xA==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/head/hdf7_main1_v00.fpk" Compressed="true" Version="2" DataHash="js38dkauqEXRd1GMae1t/g==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/head/hdf7_main1_v00.fpkd" Compressed="true" Version="2" DataHash="21Q6R8O02mWgpb1QfgMgcQ==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/head/hdf7_main1_v00.pftxs" Compressed="false" Version="2" DataHash="E+RAeGy0XoWJVsfjcPx+mQ==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/head/hdm20_main1_v00.fpk" Compressed="true" Version="2" DataHash="CfRlyD5Y/LenKMIMKKKOwg==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/head/hdm20_main1_v00.fpkd" Compressed="true" Version="2" DataHash="b3uN+E29bF0EIQfPCw7Lnw==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/head/hdm20_main1_v00.pftxs" Compressed="false" Version="2" DataHash="sd2WZfrKWgxV8p+Cx43QGw==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/head/hdm26_main1_v00.fpk" Compressed="true" Version="2" DataHash="FoaS4y199JPnIjUn6eja+g==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/head/hdm26_main1_v00.fpkd" Compressed="true" Version="2" DataHash="VkToESloc5qwFTBzvI9mrA==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/head/hdm26_main1_v00.pftxs" Compressed="false" Version="2" DataHash="QcoXYV5wULpU3fOWLxXwaQ==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/head/hdm27_main1_v00.fpk" Compressed="true" Version="2" DataHash="11CH/3dZlLynA7a6lrxG6Q==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/head/hdm27_main1_v00.fpkd" Compressed="true" Version="2" DataHash="IJfYNCyzYprlS2k59paF2A==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/head/hdm27_main1_v00.pftxs" Compressed="false" Version="2" DataHash="G0hmxfWIpBQNVWTZ1WaxeA==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/head/hdm28_main1_v00.fpk" Compressed="true" Version="2" DataHash="SpieDD9XanP8AFkMztzjPQ==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/head/hdm28_main1_v00.fpkd" Compressed="true" Version="2" DataHash="RUmH2i1NDOqNXi6l5Nlxuw==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/head/hdm28_main1_v00.pftxs" Compressed="false" Version="2" DataHash="zseYPNR0qcI0u3TRNzut1Q==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/head/hdm30_main0_v00.fpk" Compressed="true" Version="2" DataHash="gNPABZKRMedXtvP+vs7czQ==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/head/hdm30_main0_v00.fpkd" Compressed="true" Version="2" DataHash="G1FAAb4tLsK0ZDb0efninQ==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/head/hdm30_main0_v00.pftxs" Compressed="false" Version="2" DataHash="PDiTnVeI9b0ZfDxrBap2gw==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/head/hdm7_main1_v00.fpk" Compressed="true" Version="2" DataHash="W0jdlWDvxrgWFzKo64omuQ==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/head/hdm7_main1_v00.fpkd" Compressed="true" Version="2" DataHash="RWnzcjJ963hXmt/1ahq9KQ==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/head/hdm7_main1_v00.pftxs" Compressed="false" Version="2" DataHash="KLQSgZMK/rXax87IWYHhGQ==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/leg/lgf18_main0_v00.fpk" Compressed="true" Version="2" DataHash="/QbcroZU74ZVIzYJ/RsUsQ==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/leg/lgf18_main0_v00.fpkd" Compressed="true" Version="2" DataHash="fpT9Q8W1DfsXhCTYcI58BA==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/leg/lgf18_main0_v00.pftxs" Compressed="false" Version="2" DataHash="ly/16QDBN1WlKe9HKNcK2w==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/leg/lgf19_main1_v00.fpk" Compressed="true" Version="2" DataHash="le2Bspztk4i145OxW6WZ2w==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/leg/lgf19_main1_v00.fpkd" Compressed="true" Version="2" DataHash="l6QccIuL+MCGpfArdbfBPw==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/leg/lgf19_main1_v00.pftxs" Compressed="false" Version="2" DataHash="xhwHDcNR0YnGYd//YwZJSQ==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/leg/lgf22_main1_v00.fpk" Compressed="true" Version="2" DataHash="8SWE5s9b1/J6brFKaQwjWA==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/leg/lgf22_main1_v00.fpkd" Compressed="true" Version="2" DataHash="rVzDGX66KeRK4lUTDhod6g==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/leg/lgf22_main1_v00.pftxs" Compressed="false" Version="2" DataHash="vDOUb7hBPo52FNt/qsaS9Q==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/leg/lgf23_main1_v00.fpk" Compressed="true" Version="2" DataHash="5QYBDYQYaOJUPErfKaVcPg==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/leg/lgf23_main1_v00.fpkd" Compressed="true" Version="2" DataHash="PTUfgL5/3y2zP8nQGHnYNQ==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/leg/lgf23_main1_v00.pftxs" Compressed="false" Version="2" DataHash="5I8CRjCMoJ9cO66zinA/xw==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/leg/lgf24_main1_v00.fpk" Compressed="true" Version="2" DataHash="Ppr1pUuaNuiG3DvodUOk6w==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/leg/lgf24_main1_v00.fpkd" Compressed="true" Version="2" DataHash="AxFe4MsE84Txrzhzfbu7oQ==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/leg/lgf24_main1_v00.pftxs" Compressed="false" Version="2" DataHash="/wHwXNpsgx/15vx9lNcMQA==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/leg/lgf26_main0_v00.fpk" Compressed="true" Version="2" DataHash="81bpNwawWm5rBrzrCD+mPQ==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/leg/lgf26_main0_v00.fpkd" Compressed="true" Version="2" DataHash="M0JbvVspb853aXSfGDhumw==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/leg/lgf26_main0_v00.pftxs" Compressed="false" Version="2" DataHash="ELFQNnvOleavchRh/Q6wpQ==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/leg/lgf5_main1_v00.fpk" Compressed="true" Version="2" DataHash="zpI3RQk8cHCL/W0syzbSPg==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/leg/lgf5_main1_v00.fpkd" Compressed="true" Version="2" DataHash="Rut39q2hKy6Yj7fV+1OAdA==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/leg/lgf5_main1_v00.pftxs" Compressed="false" Version="2" DataHash="U0nXyPZtmMrvS4xmQpivqw==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/leg/lgm18_main0_v00.fpk" Compressed="true" Version="2" DataHash="j/+0KAkeOwXO/2EC5vcAag==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/leg/lgm18_main0_v00.fpkd" Compressed="true" Version="2" DataHash="6l6VGnIYIFOwU+Y062J+2w==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/leg/lgm18_main0_v00.pftxs" Compressed="false" Version="2" DataHash="jPLpNJbyyWaqnbFCwjEyPA==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/leg/lgm19_main1_v00.fpk" Compressed="true" Version="2" DataHash="lYm7ZlCxAtln6ecwh0ohrA==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/leg/lgm19_main1_v00.fpkd" Compressed="true" Version="2" DataHash="yvR8svqBVxID2P8nd75AbA==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/leg/lgm19_main1_v00.pftxs" Compressed="false" Version="2" DataHash="ia7f3W2lFyo5oZoA+g4bzg==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/leg/lgm22_main1_v00.fpk" Compressed="true" Version="2" DataHash="TjHGL0FnA2Y8CY/dA0F9eQ==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/leg/lgm22_main1_v00.fpkd" Compressed="true" Version="2" DataHash="Lp4soT4jU2ibQ3CbBLtfNA==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/leg/lgm22_main1_v00.pftxs" Compressed="false" Version="2" DataHash="coF1feq8n2KUxDuaHE0sKw==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/leg/lgm23_main1_v00.fpk" Compressed="true" Version="2" DataHash="hXs4Sg74ZC6Oh2gPDyejIA==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/leg/lgm23_main1_v00.fpkd" Compressed="true" Version="2" DataHash="6oH5u3yZ9pui13iNy1bEmQ==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/leg/lgm23_main1_v00.pftxs" Compressed="false" Version="2" DataHash="8p4qHBjgw292Eyry8+dAsw==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/leg/lgm24_main1_v00.fpk" Compressed="true" Version="2" DataHash="arlg0HBdKIevJXKSD/9OGA==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/leg/lgm24_main1_v00.fpkd" Compressed="true" Version="2" DataHash="wiz0/nthVkeG6l2rFRSGeA==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/leg/lgm24_main1_v00.pftxs" Compressed="false" Version="2" DataHash="KTjPcEhIAslPYb/JtaO4Qw==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/leg/lgm26_main0_v00.fpk" Compressed="true" Version="2" DataHash="0c0pHecfuF2qYm1ljk3AFw==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/leg/lgm26_main0_v00.fpkd" Compressed="true" Version="2" DataHash="z2WQHcHo+ydjrVObcyMFag==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/leg/lgm26_main0_v00.pftxs" Compressed="false" Version="2" DataHash="YgQxGOf6Kb3+UO7riRkgPw==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/leg/lgm5_main1_v00.fpk" Compressed="true" Version="2" DataHash="mls0fZMhKx/QG7ojgbOcvw==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/leg/lgm5_main1_v00.fpkd" Compressed="true" Version="2" DataHash="7deT+FdauschUYWSnOwHhQ==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/leg/lgm5_main1_v00.pftxs" Compressed="false" Version="2" DataHash="cxShg9S6gWAMtzylzMY49g==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/up_armor/uaf11_main1_v00.fpk" Compressed="true" Version="2" DataHash="PWqc6JnU5NT4k3f4qOh8Ow==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/up_armor/uaf11_main1_v00.fpkd" Compressed="true" Version="2" DataHash="+EdDw6o4zhkTzN4upiZkNQ==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/up_armor/uaf11_main1_v00.pftxs" Compressed="false" Version="2" DataHash="w+UfDY21Cd8T59IqyJN8oQ==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/up_armor/uaf12_main1_v00.fpk" Compressed="true" Version="2" DataHash="1upiVPq2nKoXoGIXmpwMQA==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/up_armor/uaf12_main1_v00.fpkd" Compressed="true" Version="2" DataHash="LcGPXzuYtseH9BUnaDSrEQ==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/up_armor/uaf12_main1_v00.pftxs" Compressed="false" Version="2" DataHash="j9wn7d/YsQZ41RECO41ndg==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/up_armor/uaf13_main1_v00.fpk" Compressed="true" Version="2" DataHash="Qur73Jyn6+Q4YaotxF/HMw==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/up_armor/uaf13_main1_v00.fpkd" Compressed="true" Version="2" DataHash="ZlbAZvG4QmeXoEJ8SUeYPw==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/up_armor/uaf13_main1_v00.pftxs" Compressed="false" Version="2" DataHash="kyiQ504MydZoHGLNi8Eumg==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/up_armor/uaf15_main0_v00.fpk" Compressed="true" Version="2" DataHash="APwm7wONXJO7CqcP5QoWfg==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/up_armor/uaf15_main0_v00.fpkd" Compressed="true" Version="2" DataHash="MAgFb33pHcjlWbt3U+HnJA==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/up_armor/uaf15_main0_v00.pftxs" Compressed="false" Version="2" DataHash="UUFt5FVi9i9P7d5/3n+OTg==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/up_armor/uaf2_main1_v00.fpk" Compressed="true" Version="2" DataHash="X/35fbcr7RrvWKsKlw8ECA==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/up_armor/uaf2_main1_v00.fpkd" Compressed="true" Version="2" DataHash="p5SwUE9VOgK5yC+MZIFSzg==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/up_armor/uaf2_main1_v00.pftxs" Compressed="false" Version="2" DataHash="yHvolHc0iW1xA+jIVZeTPg==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/up_armor/uaf8_main1_v00.fpk" Compressed="true" Version="2" DataHash="WBLQ/Ke3bik6yw6pRbzDqQ==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/up_armor/uaf8_main1_v00.fpkd" Compressed="true" Version="2" DataHash="3vD6Urx/WD00eoZCclAoAA==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/up_armor/uaf8_main1_v00.pftxs" Compressed="false" Version="2" DataHash="86yu9S7S3i5lG10rw5scvw==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/up_armor/uam11_main1_v00.fpk" Compressed="true" Version="2" DataHash="EMeTtuaQLvyaFK5blfPq7Q==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/up_armor/uam11_main1_v00.fpkd" Compressed="true" Version="2" DataHash="n1mv+MQ23xe5PLu8OXZUQg==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/up_armor/uam11_main1_v00.pftxs" Compressed="false" Version="2" DataHash="fGffIAc8/rOXQF+J9/T2zA==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/up_armor/uam12_main1_v00.fpk" Compressed="true" Version="2" DataHash="CZmioLyNR4fLYuYCsHJoWw==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/up_armor/uam12_main1_v00.fpkd" Compressed="true" Version="2" DataHash="VtCQVwwWYmpHQXfImbDQoA==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/up_armor/uam12_main1_v00.pftxs" Compressed="false" Version="2" DataHash="62h8iBYlZaNxllqPE7NV9A==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/up_armor/uam13_main1_v00.fpk" Compressed="true" Version="2" DataHash="QnqGzMtkvDqauWHFQBsqDQ==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/up_armor/uam13_main1_v00.fpkd" Compressed="true" Version="2" DataHash="kmkAUAk34KX3uAVZM2RK+g==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/up_armor/uam13_main1_v00.pftxs" Compressed="false" Version="2" DataHash="VyTCOQnldexdvW9I2bpscQ==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/up_armor/uam15_main0_v00.fpk" Compressed="true" Version="2" DataHash="8ajcR+tT+Eg0C1tSM+S0XQ==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/up_armor/uam15_main0_v00.fpkd" Compressed="true" Version="2" DataHash="yTpokTVYYXWOg3EkuWCvLA==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/up_armor/uam15_main0_v00.pftxs" Compressed="false" Version="2" DataHash="HZGyj486gM1+xt/Be+Y26w==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/up_armor/uam2_main1_v00.fpk" Compressed="true" Version="2" DataHash="H1bBEnGrwbdEIG/FH3cSGw==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/up_armor/uam2_main1_v00.fpkd" Compressed="true" Version="2" DataHash="u0c2govoQjkc5C/KeOl+2Q==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/up_armor/uam2_main1_v00.pftxs" Compressed="false" Version="2" DataHash="gWQdbGLEFOdwkwMVnwk9Kw==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/up_armor/uam8_main1_v00.fpk" Compressed="true" Version="2" DataHash="g9LV9AuoxLF7pIclxBBOwg==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/up_armor/uam8_main1_v00.fpkd" Compressed="true" Version="2" DataHash="sBRQr7O5H/GgNC7qz0VHwg==" />
+    <Entry FilePath="/Assets/ssd/pack/player/fova_dlc1/up_armor/uam8_main1_v00.pftxs" Compressed="false" Version="2" DataHash="yXcReVuwtkH3hQzU2fba+A==" />
+    <Entry FilePath="/Assets/ssd/pack/player/game_object/4_player_game_obj.fpkd" Compressed="true" Version="2" DataHash="5+ELNzplEp+trGQL2LNNug==" />
+    <Entry FilePath="/Assets/ssd/pack/player/game_object/single_player_game_obj.fpkd" Compressed="true" Version="2" DataHash="etlVdLaOS552rDs2DJMNKw==" />
+    <Entry FilePath="/Assets/ssd/pack/player/motion/player_resident_motion.fpk" Compressed="true" Version="2" DataHash="M6oheROnIa4nV4+ousO6gw==" />
+    <Entry FilePath="/Assets/ssd/pack/player/parts/plparts_base_female.fpkd" Compressed="true" Version="2" DataHash="IQASFeaIvZyAnJ7pQauH9g==" />
+    <Entry FilePath="/Assets/ssd/pack/player/parts/plparts_base_male.fpkd" Compressed="true" Version="2" DataHash="YrGkl60JA6hURlHHkOaRIA==" />
+    <Entry FilePath="/Assets/ssd/pack/resident/resident00.fpkd" Compressed="true" Version="2" DataHash="CmL29lz0UX/vm+OlDYYecA==" />
+    <Entry FilePath="/Assets/ssd/pack/resident/resident00.pftxs" Compressed="false" Version="2" DataHash="aVLso1OrUziCaYdVQNDFqg==" />
+    <Entry FilePath="/Assets/ssd/pack/ui/ssd_ui_avatar_add_tex_men.fpk" Compressed="true" Version="2" DataHash="VbS02uP7tH31TRHzwlD65Q==" />
+    <Entry FilePath="/Assets/ssd/pack/ui/ssd_ui_avatar_add_tex_men.fpkd" Compressed="true" Version="2" DataHash="1gG9D2hIH2Y3veGYiA23ww==" />
+    <Entry FilePath="/Assets/ssd/pack/ui/ssd_ui_avatar_add_tex_men.pftxs" Compressed="false" Version="2" DataHash="1u8yA8C/C8s5vfGsfs5f+w==" />
+    <Entry FilePath="/Assets/ssd/pack/ui/ssd_ui_avatar_add_tex_women.fpk" Compressed="true" Version="2" DataHash="aZW36iTszSuATPNzbLWvaQ==" />
+    <Entry FilePath="/Assets/ssd/pack/ui/ssd_ui_avatar_add_tex_women.fpkd" Compressed="true" Version="2" DataHash="HxwSLf462izP0tKz0a5SPg==" />
+    <Entry FilePath="/Assets/ssd/pack/ui/ssd_ui_avatar_add_tex_women.pftxs" Compressed="false" Version="2" DataHash="aXsvZB8/YR4JfeGafYj7YQ==" />
+    <Entry FilePath="/Assets/ssd/pack/ui/ssd_ui_base_defense.pftxs" Compressed="false" Version="2" DataHash="ZUTnoJ1iGKew1JpnWXxwgw==" />
+    <Entry FilePath="/Assets/ssd/pack/ui/ssd_ui_coop.fpk" Compressed="true" Version="2" DataHash="bZ3yzAKnQK7dyuyCM42l2g==" />
+    <Entry FilePath="/Assets/ssd/pack/ui/ssd_ui_coop.fpkd" Compressed="true" Version="2" DataHash="Qoet2H6kQw/66uwZErt//Q==" />
+    <Entry FilePath="/Assets/ssd/pack/ui/ssd_ui_coop.pftxs" Compressed="false" Version="2" DataHash="9YfXb5c+AkHoc2A5nqN+jQ==" />
+    <Entry FilePath="/Assets/ssd/pack/ui/ssd_ui_default_data.fpk" Compressed="true" Version="2" DataHash="gxOxifzknTyMbjWmOS7CFw==" />
+    <Entry FilePath="/Assets/ssd/pack/ui/ssd_ui_default_data.fpkd" Compressed="true" Version="2" DataHash="emjRHjUUD7CAZBlFzLSEBQ==" />
+    <Entry FilePath="/Assets/ssd/pack/ui/ssd_ui_default_data.pftxs" Compressed="false" Version="2" DataHash="qJeQigOVANrj0ACalK/hvQ==" />
+    <Entry FilePath="/Assets/ssd/pack/ui/ssd_ui_play_record.pftxs" Compressed="false" Version="2" DataHash="NSZaSuu1yvdDfILR+2pyVw==" />
+    <Entry FilePath="/Assets/ssd/pack/ui/ssd_ui_resident_data.fpk" Compressed="true" Version="2" DataHash="YED9F0TFyXbo60gpNZhn0A==" />
+    <Entry FilePath="/Assets/ssd/pack/ui/ssd_ui_resident_data.fpkd" Compressed="true" Version="2" DataHash="LhkVEKgMID/lz7p+lKOGBw==" />
+    <Entry FilePath="/Assets/ssd/pack/ui/ssd_ui_staging_area.fpk" Compressed="true" Version="2" DataHash="ZJVuDZLHt5IIlBalUEylew==" />
+    <Entry FilePath="/Assets/ssd/pack/ui/ssd_ui_staging_area.pftxs" Compressed="false" Version="2" DataHash="2jU0Dh5WwftXTSZnFQmi8g==" />
+    <Entry FilePath="/Assets/ssd/pack/ui/ssd_ui_texture_list.pftxs" Compressed="false" Version="2" DataHash="58jBK80g4CNuyc2UZrdPQA==" />
+    <Entry FilePath="/Assets/ssd/pack/ui/ssd_ui_title.fpk" Compressed="true" Version="2" DataHash="neUHpB+vhRZ5v7fwPNT/NA==" />
+    <Entry FilePath="/Assets/ssd/pack/ui/ssd_ui_title.pftxs" Compressed="false" Version="2" DataHash="Tv+P6kPQ0HZsfEvzLIAGNA==" />
+    <Entry FilePath="/Assets/ssd/pack/ui/subtitles/EngVoice/PorText/f30010_subtitles.fpk" Compressed="true" Version="2" DataHash="6DqOv8YE9Xe2JPn1ALfH4g==" />
+    <Entry FilePath="/Assets/ssd/pack/ui/subtitles/EngVoice/PorText/f30020_subtitles.fpk" Compressed="true" Version="2" DataHash="egCCBaFARR9MANWSqSNrkA==" />
+    <Entry FilePath="/Assets/ssd/pack/ui/subtitles/EngVoice/PorText/s10010_subtitles.fpk" Compressed="true" Version="2" DataHash="SQkXBJJwcOj9EHVAgFgzFw==" />
+    <Entry FilePath="/Assets/ssd/pack/ui/subtitles/EngVoice/PorText/s10035_subtitles.fpk" Compressed="true" Version="2" DataHash="3WpjL3mD0IPVS+bjpF8kOw==" />
+    <Entry FilePath="/Assets/ssd/pack/ui/subtitles/EngVoice/PorText/s10050_subtitles.fpk" Compressed="true" Version="2" DataHash="Ans8dS32BuiM04XoHykGCA==" />
+    <Entry FilePath="/Assets/ssd/pack/ui/subtitles/EngVoice/PorText/s10060_subtitles.fpk" Compressed="true" Version="2" DataHash="oy7fI/UzQAAtFW3AJvPGaQ==" />
+    <Entry FilePath="/Assets/ssd/pack/ui/subtitles/JpnVoice/PorText/f30010_subtitles.fpk" Compressed="true" Version="2" DataHash="lWmf8eKbJS8PJ27JG0Vv3g==" />
+    <Entry FilePath="/Assets/ssd/pack/ui/subtitles/JpnVoice/PorText/f30020_subtitles.fpk" Compressed="true" Version="2" DataHash="SfV0ppuJ/MO6hxy7vOKKxw==" />
+    <Entry FilePath="/Assets/ssd/pack/ui/subtitles/JpnVoice/PorText/s10010_subtitles.fpk" Compressed="true" Version="2" DataHash="D/kgsuxHu5NcqSTmNpTpWA==" />
+    <Entry FilePath="/Assets/ssd/pack/ui/subtitles/JpnVoice/PorText/s10035_subtitles.fpk" Compressed="true" Version="2" DataHash="L0xopMhohAsjcHl9jzyVtw==" />
+    <Entry FilePath="/Assets/ssd/pack/ui/subtitles/JpnVoice/PorText/s10050_subtitles.fpk" Compressed="true" Version="2" DataHash="LCYBaVfiNYNS60oY5mtwXA==" />
+    <Entry FilePath="/Assets/ssd/pack/ui/subtitles/JpnVoice/PorText/s10060_subtitles.fpk" Compressed="true" Version="2" DataHash="MR2rSa8ngKHJ86VJbLpXVg==" />
+    <Entry Key="250659599" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/SsdBaseDefense.lua" Compressed="false" Version="2" DataHash="FG5QP7M/5rWdz07+2sq/rA==" />
+    <Entry Key="1040195679" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/SsdFlagMission.lua" Compressed="false" Version="2" DataHash="cfPKYL4etpJB6ULEE884xQ==" />
+    <Entry Key="772022351" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/SsdReplayMission.lua" Compressed="false" Version="2" DataHash="B+M+LBZLJuHA/0q7i8ll3g==" />
+    <Entry Key="3877172808" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/Tpp.lua" Compressed="false" Version="2" DataHash="to063E+7oL7zmPzbTxwzZQ==" />
+    <Entry Key="276766481" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/TppCrew.lua" Compressed="false" Version="2" DataHash="m03hK/V4nAUQGax5NA2ivQ==" />
+    <Entry Key="4236320861" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/TppDefine.lua" Compressed="false" Version="2" DataHash="wHjOCu96AIz7eqtattjSbw==" />
+    <Entry Key="4294689376" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/TppEnemy.lua" Compressed="false" Version="2" DataHash="w8Noeuvzmy+Hzt1Hkeroqw==" />
+    <Entry Key="1350697041" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/TppException.lua" Compressed="false" Version="2" DataHash="UCOx8MRN0g1IF/v/TxGmLw==" />
+    <Entry Key="266273552" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/TppGVars.lua" Compressed="false" Version="2" DataHash="XQheX2MyCzWAPQyfB8agtw==" />
+    <Entry Key="268420880" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/TppMain.lua" Compressed="false" Version="2" DataHash="Dp7/fR+Io99RslX51rrY5Q==" />
+    <Entry Key="3967884877" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/TppMission.lua" Compressed="false" Version="2" DataHash="6yIFxKnXXn2DzNWOMkXySQ==" />
+    <Entry Key="4018409552" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/TppPackList.lua" Compressed="false" Version="2" DataHash="TiYFwibMZPKScr3aG73AMA==" />
+    <Entry Key="4035124305" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/TppPlayer.lua" Compressed="false" Version="2" DataHash="ntHT1MzGju2KR8SHTc3urQ==" />
+    <Entry Key="268436241" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/TppQuest.lua" Compressed="false" Version="2" DataHash="Lb8RJy+X02eDDvmAgHtuww==" />
+    <Entry Key="4018148432" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/TppSave.lua" Compressed="false" Version="2" DataHash="QIt3oAX1v8DNLq3soKJgFw==" />
+    <Entry Key="259261200" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/TppSequence.lua" Compressed="false" Version="2" DataHash="IoVSMqOmUGRBhl6td9Ewxw==" />
+    <Entry Key="274993937" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/TppStory.lua" Compressed="false" Version="2" DataHash="IugNUsplhfeZ26FCKSOnmw==" />
+    <Entry Key="3953729612" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/TppTrophy.lua" Compressed="false" Version="2" DataHash="KQKRcZyqHR+Sgl6A0mSIxg==" />
+    <Entry Key="2942566480" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/TppUI.lua" Compressed="false" Version="2" DataHash="cvuAWzPOfZ0y/TvkakU8OQ==" />
+    <Entry Key="8404737" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/TppVarInit.lua" Compressed="false" Version="2" DataHash="8O9zqOKmWIM22aSMzPi4Eg==" />
+    <Entry Key="3940614219" Encryption="3824742374" FilePath="/Assets/ssd/script/list/SsdCreatureList.lua" Compressed="false" Version="2" DataHash="bhLHdGCp4EHFfE4V+NVs7A==" />
+    <Entry Key="2944582224" Encryption="3824742374" FilePath="/Assets/ssd/script/list/SsdCrewList.lua" Compressed="false" Version="2" DataHash="OnabdwdK2ccEVaUjQYGctA==" />
+    <Entry Key="4007707215" Encryption="3824742374" FilePath="/Assets/ssd/script/list/SsdMissionList.lua" Compressed="false" Version="2" DataHash="pWpCiehsfV2cKATmaB0Zig==" />
+    <Entry Key="1879318481" Encryption="3824742374" FilePath="/Assets/ssd/script/list/SsdStorySequenceList.lua" Compressed="false" Version="2" DataHash="O5FUNFxuWEsqs6NOLvK7zg==" />
+    <Entry Key="1868103632" Encryption="3824742374" FilePath="/Assets/ssd/script/list/TppQuestList.lua" Compressed="false" Version="2" DataHash="2TylpIZ3iyCXvg/Laub5VA==" />
+    <Entry Key="258999056" Encryption="3824742374" FilePath="/Assets/ssd/script/mission/common/BaseMissionSequence.lua" Compressed="false" Version="2" DataHash="BwkzKBOQWxVUXOBaStxrlA==" />
+    <Entry Key="3597892183" Encryption="3824742374" FilePath="/Assets/ssd/script/mission/coop/BaseCoopMissionSequence.lua" Compressed="false" Version="2" DataHash="5NL9cq5znzC17/vxdqfcnA==" />
+    <Entry Key="1236324170" Encryption="3824742374" FilePath="/Assets/ssd/script/mission/coop/BaseRescueMissionEnemy.lua" Compressed="false" Version="2" DataHash="Ky62XEVX47hhUkOZKaqAUg==" />
+    <Entry Key="142870281" Encryption="3824742374" FilePath="/Assets/ssd/script/mission/coop/BaseRescueMissionRadio.lua" Compressed="false" Version="2" DataHash="mYyc+w8rnZNrPBGPrTYn8w==" />
+    <Entry Key="4160291416" Encryption="3824742374" FilePath="/Assets/ssd/script/mission/coop/BaseRescueMissionSequence.lua" Compressed="false" Version="2" DataHash="DXpQ4Dgtt++heLLJWk2/Uw==" />
+    <Entry Key="1318327375" Encryption="3824742374" FilePath="/Assets/ssd/script/mission/defense/BaseBaseDigging.lua" Compressed="false" Version="2" DataHash="OBcECgoYgtXPUY+ON6N2Qw==" />
+    <Entry Key="1170481222" Encryption="3824742374" FilePath="/Assets/ssd/script/mission/flag/BaseFlagMission.lua" Compressed="false" Version="2" DataHash="hxjAl/S4Iy8V8hFTmyLRcg==" />
+    <Entry Key="1752235977" Encryption="3824742374" FilePath="/Assets/ssd/script/mission/free/BaseFreeMissionSequence.lua" Compressed="false" Version="2" DataHash="bBoQVwx6wvoGL9jfyrqc7g==" />
+    <Entry FilePath="/Assets/ssd/sound/asset/EngVoice/vox_ddf_a.sbp" Compressed="false" Version="2" DataHash="L9aKOtgwli6KpsE9kjw4pg==" />
+    <Entry FilePath="/Assets/ssd/sound/asset/EngVoice/vox_ddf_b.sbp" Compressed="false" Version="2" DataHash="kbLUzQQnwsK/g3dHEzHn7Q==" />
+    <Entry FilePath="/Assets/ssd/sound/asset/EngVoice/vox_ddf_c.sbp" Compressed="false" Version="2" DataHash="s8tqyVNxCBxULjjas0NKTQ==" />
+    <Entry FilePath="/Assets/ssd/sound/asset/EngVoice/vox_ddf_d.sbp" Compressed="false" Version="2" DataHash="VAhfbdkHRarEfHJLzGzUXA==" />
+    <Entry FilePath="/Assets/ssd/sound/asset/EngVoice/vox_ddm_a.sbp" Compressed="false" Version="2" DataHash="olHCBl9x0ifSelC1tOO3XQ==" />
+    <Entry FilePath="/Assets/ssd/sound/asset/EngVoice/vox_ddm_b.sbp" Compressed="false" Version="2" DataHash="TCGT4CtpbApBRMb9/vluvA==" />
+    <Entry FilePath="/Assets/ssd/sound/asset/EngVoice/vox_ddm_c.sbp" Compressed="false" Version="2" DataHash="Tfvhha/zNkShFWB9M6JrFw==" />
+    <Entry FilePath="/Assets/ssd/sound/asset/EngVoice/vox_ddm_d.sbp" Compressed="false" Version="2" DataHash="Qb6FB1wyXsJQ3q24qS/hmA==" />
+    <Entry FilePath="/Assets/ssd/sound/asset/JpnVoice/vox_ddf_a.sbp" Compressed="false" Version="2" DataHash="P3s5f/BjYn5771CvmAJT0w==" />
+    <Entry FilePath="/Assets/ssd/sound/asset/JpnVoice/vox_ddf_b.sbp" Compressed="false" Version="2" DataHash="/AsGmT7Ft94rZN+Ggz/BdA==" />
+    <Entry FilePath="/Assets/ssd/sound/asset/JpnVoice/vox_ddf_c.sbp" Compressed="false" Version="2" DataHash="tI3bWeflaO7fQWgPYcztjA==" />
+    <Entry FilePath="/Assets/ssd/sound/asset/JpnVoice/vox_ddf_d.sbp" Compressed="false" Version="2" DataHash="g0rGBPahWTt1DkLFEiaJkw==" />
+    <Entry FilePath="/Assets/ssd/sound/asset/JpnVoice/vox_ddm_a.sbp" Compressed="false" Version="2" DataHash="6QliPsPgZqLiZb1nEqA8FQ==" />
+    <Entry FilePath="/Assets/ssd/sound/asset/JpnVoice/vox_ddm_b.sbp" Compressed="false" Version="2" DataHash="u9lp5PDWdRY6mCDWjjjDUg==" />
+    <Entry FilePath="/Assets/ssd/sound/asset/JpnVoice/vox_ddm_c.sbp" Compressed="false" Version="2" DataHash="K1WE9B/Su3W+zCYHxMbfTg==" />
+    <Entry FilePath="/Assets/ssd/sound/asset/JpnVoice/vox_ddm_d.sbp" Compressed="false" Version="2" DataHash="8L4h+40XvJiNg08lkeId/g==" />
+    <Entry FilePath="/Assets/ssd/sound/asset/common_bank_01.sbp" Compressed="false" Version="2" DataHash="2/+uuFrzWK0aoaJ8DElOqA==" />
+    <Entry FilePath="/Assets/ssd/sound/asset/common_bank_01_add02.sbp" Compressed="false" Version="2" DataHash="dY+LGjaTR3uZIxfgSb9LkQ==" />
+    <Entry Hash="13466636051214293151" FilePath="31a23a818d89f.sbp" Compressed="false" Version="2" DataHash="54tKnBictSivbd/wE0LHlw==" />
+    <Entry Hash="13466392780123890590" FilePath="23ce2b12b639e.sbp" Compressed="false" Version="2" DataHash="hlW0JylDllwaP3DGwmo9Ow==" />
+    <Entry FilePath="/Assets/ssd/sound/asset/ssd_bgm_afgn.sbp" Compressed="false" Version="2" DataHash="TAi1L+qNsfRgwBsX7OSfnQ==" />
+    <Entry Hash="13466813654584526212" FilePath="3bbab29e40584.sbp" Compressed="false" Version="2" DataHash="RPwuzG1yaqR+k39ICMtdlA==" />
+    <Entry Hash="13466271013565181687" FilePath="1ce23b4b12ef7.sbp" Compressed="false" Version="2" DataHash="iDS/y6EDPAtWsiCw+4iDog==" />
+    <Entry FilePath="/Assets/ssd/sound/asset/ssd_bgm_mafr.sbp" Compressed="false" Version="2" DataHash="lq84STxg8Ato/dGZ1jDgiQ==" />
+    <Entry FilePath="/Assets/ssd/sound/asset/ssd_bgm_system.sbp" Compressed="false" Version="2" DataHash="4CuprkvvjAX6+9iIkYcdEg==" />
+    <Entry Hash="13466220967798597252" FilePath="1a09f848d6684.sbp" Compressed="false" Version="2" DataHash="djekKDb3fLd/zLcSOFVGbw==" />
+    <Entry Key="3755540576" Encryption="3824742374" FilePath="/Assets/ssd/sound/scripts/chara/SoundTppAnimal.lua" Compressed="false" Version="2" DataHash="L63bB7T622TccPGR52dsTA==" />
+    <Entry FilePath="/Assets/ssd/ui/Font/font_def_chn.ffnt" Compressed="false" Version="2" DataHash="BQursjHvbzsdwiBmkkKsfQ==" />
+    <Entry FilePath="/Assets/ssd/ui/Font/font_def_hgl.ffnt" Compressed="false" Version="2" DataHash="QkdEbtkOZlBOqUA3D/tiYw==" />
+    <Entry FilePath="/Assets/tpp/pack/player/motion/equip/receiver/pl_rcvr_hg02.fpk" Compressed="true" Version="2" DataHash="hsH0I4l+R7kx0JkW/5QfpQ==" />
+    <Entry FilePath="/Assets/tpp/pack/player/motion/equip/receiver/pl_rcvr_hg06.fpk" Compressed="true" Version="2" DataHash="IML0SGXEd75wz4WROtiyXQ==" />
+    <Entry Key="1499432794" Encryption="3824742374" FilePath="/init.lua" Compressed="false" MetaFlag="true" Version="2" DataHash="FyjGo/u5aj4DmAkgTQHKVw==" />
+    <Entry Key="1831864270" Encryption="3824742374" FilePath="/shaders/dx11/GrModelShadersNoLnm_dx11.lua" Compressed="false" MetaFlag="true" Version="2" DataHash="wFB2vZ3Hzwx74gdS5fOt7A==" />
+    <Entry FilePath="/shaders/dx11/GrModelShaders_dx11.fsop" Compressed="false" MetaFlag="true" Version="2" DataHash="twbaQacpIK9BKsbThAj9eQ==" />
+    <Entry Key="4119070294" Encryption="3824742374" FilePath="/shaders/dx11/GrModelShaders_dx11.lua" Compressed="false" MetaFlag="true" Version="2" DataHash="/4Z1umSGNcHKPmlr9cdsHA==" />
+    <Entry FilePath="/shaders/dx11/GrSystemShaders_dx11.fsop" Compressed="false" MetaFlag="true" Version="2" DataHash="hAZpklbV8E7ZtXePMZ9PPg==" />
+    <Entry FilePath="/shaders/dx11/TppShaders_dx11.fsop" Compressed="false" MetaFlag="true" Version="2" DataHash="4hhOmNtsh5xjYfruIzWe8w==" />
+    <Entry Key="3414360151" Encryption="3824742374" FilePath="/foxpatch.dat" Compressed="false" MetaFlag="true" Version="2" DataHash="t2l+NCVhNSzMN5Sspku7Sw==" />
+  </Entries>
+</ArchiveFile>

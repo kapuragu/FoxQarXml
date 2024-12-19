@@ -1,0 +1,629 @@
+<?xml version="1.0"?>
+<ArchiveFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="QarFile" Name="data1.dat" Flags="1049056" Version="2">
+  <Entries>
+    <Entry Key="1239161930" Encryption="3824742374" FilePath="/Fox/Scripts/Classes/Entity.lua" Compressed="false" MetaFlag="true" Version="2" DataHash="vIIf84Mwji1OsowQUI6p1w==" />
+    <Entry Key="3361273929" Encryption="3824742374" FilePath="/Fox/Scripts/Classes/Pad.lua" Compressed="false" MetaFlag="true" Version="2" DataHash="rg+i5G+/JrdkWKQBnMoMjg==" />
+    <Entry Key="593695556" Encryption="3824742374" FilePath="/Fox/Scripts/Classes/Scene.lua" Compressed="false" MetaFlag="true" Version="2" DataHash="tG0BFmxindlsDRC56ZT3XA==" />
+    <Entry Key="268406544" Encryption="3824742374" FilePath="/Fox/Scripts/Gr/gr_init.lua" Compressed="false" MetaFlag="true" Version="2" DataHash="TlL81Czmp5IVLpuQuW8aLg==" />
+    <Entry Key="2785280071" Encryption="3824742374" FilePath="/Fox/Scripts/Gr/gr_init_dx11.lua" Compressed="false" MetaFlag="true" Version="2" DataHash="iGZJBkprzS06VrZffhpK0g==" />
+    <Entry Key="271654673" Encryption="3824742374" FilePath="/Fox/Scripts/Language/LanguageInit.lua" Compressed="false" MetaFlag="true" Version="2" DataHash="HcBXsk81Q20vCdglit+smA==" />
+    <Entry Key="129041160" Encryption="3824742374" FilePath="/Tpp/Scripts/Classes/TppPadOperatorUtility.lua" Compressed="false" MetaFlag="true" Version="2" DataHash="L860I+hUQOWuh4wD/PBJhw==" />
+    <Entry Key="2394102799" Encryption="3824742374" FilePath="/Tpp/Scripts/Equip/ChimeraPartsPackageTable.lua" Compressed="false" MetaFlag="true" Version="2" DataHash="dg3zRDzYxWabS3JFDU+HKQ==" />
+    <Entry Key="251928336" Encryption="3824742374" FilePath="/Tpp/Scripts/Equip/EquipIdTable.lua" Compressed="false" MetaFlag="true" Version="2" DataHash="D0AY55jhDGBjCNg2hh0DEw==" />
+    <Entry Key="2942893648" Encryption="3824742374" FilePath="/Tpp/Scripts/Equip/EquipMotionData.lua" Compressed="false" MetaFlag="true" Version="2" DataHash="9eATZzU79yvIuh7Nyg0s1Q==" />
+    <Entry Key="763428942" Encryption="3824742374" FilePath="/Tpp/Scripts/Equip/EquipParameters.lua" Compressed="false" MetaFlag="true" Version="2" DataHash="dOQusWZg4sznueXfuHIZow==" />
+    <Entry Key="826277970" Encryption="3824742374" FilePath="/Tpp/Scripts/RouteEvents/AiRtEvSoldier.lua" Compressed="false" MetaFlag="true" Version="2" DataHash="dbYfWx1FlHCMCmgM5AXINA==" />
+    <Entry Key="251855632" Encryption="3824742374" FilePath="/Tpp/Scripts/System/start2nd.lua" Compressed="false" MetaFlag="true" Version="2" DataHash="dhDrXNdn1G9PXXIZPKnIXQ==" />
+    <Entry Key="272698129" Encryption="3824742374" FilePath="/Tpp/Scripts/Ui/TppUiBootInit.lua" Compressed="false" MetaFlag="true" Version="2" DataHash="0NbeWme37QPSmMk4riwuNw==" />
+    <Entry Key="276956945" Encryption="3824742374" FilePath="/Tpp/Scripts/Ui/TppUiPrefetchTexture.lua" Compressed="false" MetaFlag="true" Version="2" DataHash="vGTtYOvGVGURV44syG5LCw==" />
+    <Entry Key="746856525" Encryption="3824742374" FilePath="/Tpp/start.lua" Compressed="false" MetaFlag="true" Version="2" DataHash="+rI0XOhAgPAe+f2RrS1xrw==" />
+    <Entry FilePath="/Assets/fox/effect/gr_pic/material_params.fmtt" Compressed="false" Version="2" DataHash="7lrOH6g+Qu5cEzYbost3iQ==" />
+    <Entry FilePath="/Assets/fox/effect/gr_pic/steam/material_params.fmtt" Compressed="false" Version="2" DataHash="KXBrXy2XmXuypm9OOY6N1g==" />
+    <Entry FilePath="/Assets/ssd/effect/gr_pic/material_params.fmtt" Compressed="false" Version="2" DataHash="GmVspAcFum65rlBaWB6+pw==" />
+    <Entry Key="1803623884" Encryption="3824742374" FilePath="/Assets/ssd/fova/common_source/chara/cm_head/face_id/SsdNpcFaceAndBodyData.lua" Compressed="false" Version="2" DataHash="10UWjWNUNZAssMA+RA/yuQ==" />
+    <Entry Key="277076574" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/building/SsdBuildingParameterTable.json" Compressed="false" Version="2" DataHash="RUIaQ84n+OLcRApIsMt9mA==" />
+    <Entry Key="3884061256" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/chara/boss/BossParameterTables.lua" Compressed="false" Version="2" DataHash="I+CIVj+TYFQqPr/mHFez1g==" />
+    <Entry Key="3861118036" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/chara/crew/parameter/SsdCrewGeneratorTable.json" Compressed="false" Version="2" DataHash="gqfseUXSzcoTvmodR0jhog==" />
+    <Entry Key="795086928" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/chara/enemy/Soldier2FaceAndBodyData.lua" Compressed="false" Version="2" DataHash="S08V3mGy8nxU9GfDdg51Mg==" />
+    <Entry Key="260144912" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/chara/enemy/Soldier2ParameterTables.lua" Compressed="false" Version="2" DataHash="U28+XU8ZZPvbBe976sn3Gg==" />
+    <Entry Key="276824849" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/chara/enemy/TppEnemyBodyId.lua" Compressed="false" Version="2" DataHash="Ee7IRKdnl3Bs4db5avJAwg==" />
+    <Entry Key="4079034452" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/chara/enemy/TppEnemyFaceGroup.lua" Compressed="false" Version="2" DataHash="vSvT4l0mGXIeXC4+PjKSIg==" />
+    <Entry Key="3129217115" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/chara/enemy/TppEnemyFaceGroupId.lua" Compressed="false" Version="2" DataHash="8BtXk9bPAaqD5FNaYfOsCg==" />
+    <Entry Key="268436241" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/chara/enemy/TppEnemyFaceId.lua" Compressed="false" Version="2" DataHash="91/HFGXM15Qkb76tecCJgQ==" />
+    <Entry Key="3847290438" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/chara/player/game_object/EmotionActions.lua" Compressed="false" Version="2" DataHash="nzmibA9f1jjLcU+YEeIPSw==" />
+    <Entry Key="140493577" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/chara/player/game_object/PlayerBaseFacilityCamera.lua" Compressed="false" Version="2" DataHash="ZAAty6opXK7RtbumgZdp9w==" />
+    <Entry Key="805576785" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/chara/player/game_object/SsdPlayerInitializeScript.lua" Compressed="false" Version="2" DataHash="jjh2mflozE22+qNHcB9+zQ==" />
+    <Entry Key="3951287129" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/chara/player/game_object/SsdPlayerParameters.json" Compressed="false" Version="2" DataHash="fHC4IPbia3OKIXgAlZTuXQ==" />
+    <Entry Key="2423523345" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/chara/player/game_object/player2_camouf_param.lua" Compressed="false" Version="2" DataHash="YjoPzLaYLKGg+TzWIKCQxQ==" />
+    <Entry Key="2789212231" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/chara/ssdnpc/SsdZombieAnimationTrackPool.lua" Compressed="false" Version="2" DataHash="ezWxdaRBsNUN+PsnWPiNlA==" />
+    <Entry Key="3858833479" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/chara/ssdnpc/SsdZombieBomAnimationTrackPool.lua" Compressed="false" Version="2" DataHash="sW6WwczVSHPoLoST3No2eA==" />
+    <Entry Key="234946319" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/chara/ssdnpc/SsdZombieShlAnimationTrackPool.lua" Compressed="false" Version="2" DataHash="jYJ/DvGCeM1JFdqJCyQuOw==" />
+    <Entry Key="2854449176" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/chara/walkergear/parameter/SsdWalkerGearParameters.json" Compressed="false" Version="2" DataHash="0AYUc3u/xDifr9HlheM4fw==" />
+    <Entry Key="3867376724" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/combatDeploy/SsdCombatDeployParameterTable.json" Compressed="false" Version="2" DataHash="FCHe1PpGbsk/O7cvQm8Fug==" />
+    <Entry Key="4236496989" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/config/GearConfig.lua" Compressed="false" Version="2" DataHash="mHI2zVSTacpkXgGzlVA4/g==" />
+    <Entry Hash="8126761628828871110" Key="4263730284" Encryption="3824742374" FilePath="ea4dc9ea9c6.json" Compressed="false" Version="2" DataHash="PTvWZkV4Cl0A/9Htc+sMwg==" />
+    <Entry Hash="8127536521141610146" Key="3498314590" Encryption="3824742374" FilePath="2cf6789a8e6a2.json" Compressed="false" Version="2" DataHash="GPR4h9pONFq5ZWw1+eW8sg==" />
+    <Entry Hash="8127751901076793998" Key="3489093725" Encryption="3824742374" FilePath="3934a96302a8e.json" Compressed="false" Version="2" DataHash="sU3q7LBh3N7SUwOGI8b7sg==" />
+    <Entry Hash="8127103604894433235" Key="4028887134" Encryption="3824742374" FilePath="145ab5e877fd3.json" Compressed="false" Version="2" DataHash="oipwtkc+zG36ylUUNVKwVQ==" />
+    <Entry Key="4026502237" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/common/praise.json" Compressed="false" Version="2" DataHash="vXEjM3r+0D6LbLVq5Zi11Q==" />
+    <Entry Hash="8127497722087600698" Key="268524638" Encryption="3824742374" FilePath="2ac1dedd3f23a.json" Compressed="false" Version="2" DataHash="KBIq4F7ZbO2W//ylcyKm8Q==" />
+    <Entry Key="241106012" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/c20120_c_test.json" Compressed="false" Version="2" DataHash="zo2iJz6gg0GuMgHJFl+wgQ==" />
+    <Entry Key="2887737370" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/c20120_q1_test.json" Compressed="false" Version="2" DataHash="cHntKRCBxWpf0tio1Axjuw==" />
+    <Entry Key="2887737370" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/c20120_q2_test.json" Compressed="false" Version="2" DataHash="NdLaXhcLn6hongZbTIVtoA==" />
+    <Entry Key="3693043818" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/c20120_q3_test.json" Compressed="false" Version="2" DataHash="RaUThoeyebYyb31aCE+LPw==" />
+    <Entry Key="241106012" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/c20120_v_test.json" Compressed="false" Version="2" DataHash="CwiG1mlp+YBh8FcA4DqKyg==" />
+    <Entry Key="2887739418" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/c20120_w1_test.json" Compressed="false" Version="2" DataHash="jSlGL36X0ePBWK3ira3tAA==" />
+    <Entry Key="2887739418" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/c20120_w2_test.json" Compressed="false" Version="2" DataHash="3OkUw5Hj5qVyAFV363J78Q==" />
+    <Entry Key="3693045866" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/c20120_w3_test.json" Compressed="false" Version="2" DataHash="YrI70IVkmga/b/42sVcnbw==" />
+    <Entry Key="1048500908" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d50010_attack_1.json" Compressed="false" Version="2" DataHash="2Fw4mQiP/6hH4DsIvKfwzg==" />
+    <Entry Key="1082055374" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d50010_attack_2.json" Compressed="false" Version="2" DataHash="toOS6ZE6iX2HHtjlUO+3Dg==" />
+    <Entry Key="1249827544" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d50010_attack_3.json" Compressed="false" Version="2" DataHash="zWvIxNV7WZiewatjk3Z+qg==" />
+    <Entry Key="1551817450" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d50010_attack_4.json" Compressed="false" Version="2" DataHash="AwRtjYYeLfw5mGo8JfaXbg==" />
+    <Entry Key="1585371884" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d50010_attack_5.json" Compressed="false" Version="2" DataHash="B7JmOm9bdEPLOb0e6t7BBA==" />
+    <Entry Key="1316936412" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d50015_attack_1.json" Compressed="false" Version="2" DataHash="8aIye2Sk4egVgoV0QJpWtA==" />
+    <Entry Key="1618926286" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d50015_attack_2.json" Compressed="false" Version="2" DataHash="0+Ecp2AiiU/Xf5pKlvAfjA==" />
+    <Entry Key="1719589588" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d50020_attack_1.json" Compressed="false" Version="2" DataHash="v3HSz+e3D1mzF9UL+5z3CA==" />
+    <Entry Key="1753144022" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d50020_attack_2.json" Compressed="false" Version="2" DataHash="4+OiRVFdJYLaAdbtYuNU5w==" />
+    <Entry Key="1786698456" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d50020_attack_3.json" Compressed="false" Version="2" DataHash="yk2gGmGWXOsnvKeDHdbviA==" />
+    <Entry Key="4269809516" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d50025_attack_1.json" Compressed="false" Version="2" DataHash="DFtAU/LybHNwXzZ3pzbWNg==" />
+    <Entry Key="8396878" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d50025_attack_2.json" Compressed="false" Version="2" DataHash="z2l0e51Ba8s40JgCeGSX7g==" />
+    <Entry Key="109060180" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d50025_attack_3.json" Compressed="false" Version="2" DataHash="UvIuT7/mCijQLbOHV4Dvbg==" />
+    <Entry Key="4269809516" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d50030_attack_1.json" Compressed="false" Version="2" DataHash="l8qTISLmdUbA8Nqz3MmP8A==" />
+    <Entry Key="8396878" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d50030_attack_2.json" Compressed="false" Version="2" DataHash="CqyuMSVkxFXrnJ6K/7EPpA==" />
+    <Entry Key="176169048" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d50030_attack_3.json" Compressed="false" Version="2" DataHash="mb3mOwFOkq7fVFIXAlF06Q==" />
+    <Entry Key="3699384170" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d50030_attack_4.json" Compressed="false" Version="2" DataHash="3/R0ZzhuzOL2yoGC4HROdg==" />
+    <Entry Key="243277916" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d50035_attack_1.json" Compressed="false" Version="2" DataHash="C7Tn8tByMM+KhPKbxxkAGQ==" />
+    <Entry Key="3766493006" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d50035_attack_2.json" Compressed="false" Version="2" DataHash="kvhraj97VpE+F0viHE/whg==" />
+    <Entry Key="4001374044" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d50035_attack_3.json" Compressed="false" Version="2" DataHash="83rMol3Fyci816n73vOuzw==" />
+    <Entry Key="3766493006" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d50035_attack_4.json" Compressed="false" Version="2" DataHash="kvhraj97VpE+F0viHE/whg==" />
+    <Entry Key="1719589588" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d50040_attack_1.json" Compressed="false" Version="2" DataHash="Oc7WPoFbk+yIoZhXkRavPw==" />
+    <Entry Key="1753144022" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d50040_attack_2.json" Compressed="false" Version="2" DataHash="tKocROerAyx41yCimRLXjQ==" />
+    <Entry Key="1786698456" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d50040_attack_3.json" Compressed="false" Version="2" DataHash="Xzm2+c1vskJcXwCqQUEvmw==" />
+    <Entry Key="1820252890" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d50040_attack_4.json" Compressed="false" Version="2" DataHash="TbSc1MoXeBUabS0qnVSleA==" />
+    <Entry Key="4269809516" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d50045_attack_1.json" Compressed="false" Version="2" DataHash="UyrhM+3nPlJxxLdRfRkV/w==" />
+    <Entry Key="8396878" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d50045_attack_2.json" Compressed="false" Version="2" DataHash="IYSmnuplCPwE7nLVyo3jyw==" />
+    <Entry Key="109060180" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d50045_attack_3.json" Compressed="false" Version="2" DataHash="ZOuWjPyLl7OWUTu7+zpJnw==" />
+    <Entry Key="8396878" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d50045_attack_4.json" Compressed="false" Version="2" DataHash="IYSmnuplCPwE7nLVyo3jyw==" />
+    <Entry Key="109060180" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d50045_attack_5.json" Compressed="false" Version="2" DataHash="ZOuWjPyLl7OWUTu7+zpJnw==" />
+    <Entry Key="4269809516" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d50050_attack_1.json" Compressed="false" Version="2" DataHash="UyrhM+3nPlJxxLdRfRkV/w==" />
+    <Entry Key="8396878" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d50050_attack_2.json" Compressed="false" Version="2" DataHash="IYSmnuplCPwE7nLVyo3jyw==" />
+    <Entry Key="176169048" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d50050_attack_3.json" Compressed="false" Version="2" DataHash="HC0TzgzYlA2AVPhbPOR6aw==" />
+    <Entry Key="3699384170" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d50050_attack_4.json" Compressed="false" Version="2" DataHash="awEOKOuVKJd43dHZVEAUxA==" />
+    <Entry Key="3732938604" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d50050_attack_5.json" Compressed="false" Version="2" DataHash="4vKZ7unwTpakuSWKQ6C31A==" />
+    <Entry Key="243277916" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d50055_attack_1.json" Compressed="false" Version="2" DataHash="SgxfvdbORu0n+J44BL5j1A==" />
+    <Entry Key="3766493006" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d50055_attack_2.json" Compressed="false" Version="2" DataHash="b5HViuj6NJawT9sFsZz1wA==" />
+    <Entry Key="4001374044" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d50055_attack_3.json" Compressed="false" Version="2" DataHash="ujM2TiONzooQ2Gs00W4oyQ==" />
+    <Entry Key="3766493006" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d50055_attack_4.json" Compressed="false" Version="2" DataHash="b5HViuj6NJawT9sFsZz1wA==" />
+    <Entry Key="4001374044" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d50055_attack_5.json" Compressed="false" Version="2" DataHash="ujM2TiONzooQ2Gs00W4oyQ==" />
+    <Entry Key="3867156564" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d50500_attack_1.json" Compressed="false" Version="2" DataHash="WMSAJnfQeMfNsIeTKB1DZg==" />
+    <Entry Key="3867107412" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d51000_attack_1.json" Compressed="false" Version="2" DataHash="eaczM8XJGMkKMTy/RLrtPA==" />
+    <Entry Key="3900661846" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d51000_attack_2.json" Compressed="false" Version="2" DataHash="7oTf51gffv9YLSDeVufhdw==" />
+    <Entry Key="1048533676" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d51010_attack_1.json" Compressed="false" Version="2" DataHash="J4c6iNnddu3r3zbWd7ZxfA==" />
+    <Entry Key="1082088142" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d51010_attack_2.json" Compressed="false" Version="2" DataHash="WlVqUmkY4/hed2AO95kB4w==" />
+    <Entry Key="3867107412" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d51500_attack_1.json" Compressed="false" Version="2" DataHash="gSZ1cjcmmSSVVabwAtzXHw==" />
+    <Entry Key="3900661846" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d51500_attack_2.json" Compressed="false" Version="2" DataHash="APBrPW1tHX91YWtb2fz5XA==" />
+    <Entry Key="1048534956" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d51510_attack_1.json" Compressed="false" Version="2" DataHash="g28ezsW5TXQytdY7ZFgoYw==" />
+    <Entry Key="1082089422" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d51510_attack_2.json" Compressed="false" Version="2" DataHash="lF8goHg4/FwgP3kn40Pj6A==" />
+    <Entry Key="3867107412" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d52000_attack_1.json" Compressed="false" Version="2" DataHash="LenYu797NL7JsYgy9p3gWw==" />
+    <Entry Key="3900661846" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d52000_attack_2.json" Compressed="false" Version="2" DataHash="UshgchxUesrQAlPUQWzaMw==" />
+    <Entry Key="3934216280" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d52000_attack_3.json" Compressed="false" Version="2" DataHash="JhI5DmQLwylBB0Gyi6wHuQ==" />
+    <Entry Key="1048533676" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d52010_attack_1.json" Compressed="false" Version="2" DataHash="63Q5O08GpF1o57N2XK6GIA==" />
+    <Entry Key="1082088142" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d52010_attack_2.json" Compressed="false" Version="2" DataHash="HC+HCIcQnqgOAZh994wHlA==" />
+    <Entry Key="1249860312" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d52010_attack_3.json" Compressed="false" Version="2" DataHash="hkaewIwxUJTSeelcZ4L3sw==" />
+    <Entry Key="3867107412" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d52500_attack_1.json" Compressed="false" Version="2" DataHash="LenYu797NL7JsYgy9p3gWw==" />
+    <Entry Key="3900661846" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d52500_attack_2.json" Compressed="false" Version="2" DataHash="UshgchxUesrQAlPUQWzaMw==" />
+    <Entry Key="3934216280" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d52500_attack_3.json" Compressed="false" Version="2" DataHash="JhI5DmQLwylBB0Gyi6wHuQ==" />
+    <Entry Key="1048534956" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d52510_attack_1.json" Compressed="false" Version="2" DataHash="WyOl/aCym9ZBgWQQZYQ2SA==" />
+    <Entry Key="1082089422" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d52510_attack_2.json" Compressed="false" Version="2" DataHash="5g5/kicRR3D2CBL/tmB21w==" />
+    <Entry Key="1249861592" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d52510_attack_3.json" Compressed="false" Version="2" DataHash="/f8RabBuLhOWwVSApaUmvw==" />
+    <Entry Key="3867107412" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d53000_attack_1.json" Compressed="false" Version="2" DataHash="WWNgf70uaEluF0ohUfN4Bw==" />
+    <Entry Key="3900661846" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d53000_attack_2.json" Compressed="false" Version="2" DataHash="0g/cahgFj9DqSRiB4dBWdA==" />
+    <Entry Key="3934216280" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d53000_attack_3.json" Compressed="false" Version="2" DataHash="0BqtChTiJRoyGQzhYw8O5w==" />
+    <Entry Key="3967770714" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d53000_attack_4.json" Compressed="false" Version="2" DataHash="pNGZ/HIf2uT+LLOjIxk2LQ==" />
+    <Entry Key="1048533676" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d53010_attack_1.json" Compressed="false" Version="2" DataHash="UGiVjYQZw7pIYn5W075Kdw==" />
+    <Entry Key="1082088142" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d53010_attack_2.json" Compressed="false" Version="2" DataHash="UPb9z9VAH8c9dzrrbZeraQ==" />
+    <Entry Key="1249860312" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d53010_attack_3.json" Compressed="false" Version="2" DataHash="xJKtQ/XNLmRDNwpi+l48cw==" />
+    <Entry Key="1551850218" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d53010_attack_4.json" Compressed="false" Version="2" DataHash="tQjSZkgsvUD7BaAKZT2yew==" />
+    <Entry Key="3867107412" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d53500_attack_1.json" Compressed="false" Version="2" DataHash="WWNgf70uaEluF0ohUfN4Bw==" />
+    <Entry Key="3900661846" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d53500_attack_2.json" Compressed="false" Version="2" DataHash="0g/cahgFj9DqSRiB4dBWdA==" />
+    <Entry Key="3934216280" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d53500_attack_3.json" Compressed="false" Version="2" DataHash="0BqtChTiJRoyGQzhYw8O5w==" />
+    <Entry Key="3967770714" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d53500_attack_4.json" Compressed="false" Version="2" DataHash="pNGZ/HIf2uT+LLOjIxk2LQ==" />
+    <Entry Key="1048534956" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d53510_attack_1.json" Compressed="false" Version="2" DataHash="Cj2wI3V39LcFQNdTP4MmYA==" />
+    <Entry Key="1082089422" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d53510_attack_2.json" Compressed="false" Version="2" DataHash="GRGb8AW/Xj9mheRnWX+Hcw==" />
+    <Entry Key="1249861592" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d53510_attack_3.json" Compressed="false" Version="2" DataHash="lEfvDjFrr1BDNN7FITT03g==" />
+    <Entry Key="1551851498" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d53510_attack_4.json" Compressed="false" Version="2" DataHash="xeqahvG98pGpw9K0nuCCfw==" />
+    <Entry Key="3867156564" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d54000_attack_1.json" Compressed="false" Version="2" DataHash="d5zY8TrOB13urnQiN3L3PQ==" />
+    <Entry Key="3900710998" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d54000_attack_2.json" Compressed="false" Version="2" DataHash="wPXLavg+4IbbtH6RmXXBMQ==" />
+    <Entry Key="3934265432" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d54000_attack_3.json" Compressed="false" Version="2" DataHash="nogODspF2MfLxYc2hvjv2g==" />
+    <Entry Key="3967819866" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d54000_attack_4.json" Compressed="false" Version="2" DataHash="DGhz8epOjb10gIr+qT8DtQ==" />
+    <Entry Key="1048500908" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d54010_attack_1.json" Compressed="false" Version="2" DataHash="tiUIIeK2J9yoH9mu68hwdg==" />
+    <Entry Key="1082055374" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d54010_attack_2.json" Compressed="false" Version="2" DataHash="AENT4dRLavfhXlV0VOdzAw==" />
+    <Entry Key="1249827544" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d54010_attack_3.json" Compressed="false" Version="2" DataHash="kHTVbhZYkz4lK9CJexLPug==" />
+    <Entry Key="1551817450" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d54010_attack_4.json" Compressed="false" Version="2" DataHash="+69s5VVDmD+dbEC2EJXe7A==" />
+    <Entry Key="3867156564" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d54500_attack_1.json" Compressed="false" Version="2" DataHash="XdhZ2slNjwg8avOHTvnOfQ==" />
+    <Entry Key="3900710998" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d54500_attack_2.json" Compressed="false" Version="2" DataHash="In/ULr9bt/fMg9qeEd2cbQ==" />
+    <Entry Key="3934265432" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d54500_attack_3.json" Compressed="false" Version="2" DataHash="irLldeahUg+v599J9n+RsA==" />
+    <Entry Key="3967819866" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d54500_attack_4.json" Compressed="false" Version="2" DataHash="/VeQov70qWkpf/mOMvc6DA==" />
+    <Entry Key="4001374300" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d54500_attack_5.json" Compressed="false" Version="2" DataHash="Jr87VDoBEc1l3YwW/bMteA==" />
+    <Entry Key="1048584108" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d54510_attack_1.json" Compressed="false" Version="2" DataHash="BxlgFG8ZEXQGeXuwIO8vew==" />
+    <Entry Key="1082138574" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d54510_attack_2.json" Compressed="false" Version="2" DataHash="rCs6typH4gfdGarJgaq8mg==" />
+    <Entry Key="1249910744" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d54510_attack_3.json" Compressed="false" Version="2" DataHash="ERzlK2gTTAijR6elgIkngQ==" />
+    <Entry Key="1551900650" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d54510_attack_4.json" Compressed="false" Version="2" DataHash="0SsKC0s2lDhjG6saz4PiwA==" />
+    <Entry Key="1585455084" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d54510_attack_5.json" Compressed="false" Version="2" DataHash="LOPyJnaIjEB6BWFm2Apa+Q==" />
+    <Entry Key="3867107412" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d55000_attack_1.json" Compressed="false" Version="2" DataHash="JFQ2YuboYieSSE1jmeBm8w==" />
+    <Entry Key="3900661846" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d55000_attack_2.json" Compressed="false" Version="2" DataHash="WW5OSvLCoE7CdZOtrBwjSg==" />
+    <Entry Key="3934216280" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d55000_attack_3.json" Compressed="false" Version="2" DataHash="NtGT/fZ7KJgkHHZa2hMWyQ==" />
+    <Entry Key="3967770714" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d55000_attack_4.json" Compressed="false" Version="2" DataHash="Kosc2gxIMGhkeWg2uPWoMw==" />
+    <Entry Key="4001325148" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d55000_attack_5.json" Compressed="false" Version="2" DataHash="Q9CdnPexO1Mux2TLvP4u+Q==" />
+    <Entry Key="1048533676" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d55010_attack_1.json" Compressed="false" Version="2" DataHash="W3l37I1WtUFX9BacGr7IdQ==" />
+    <Entry Key="1082088142" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d55010_attack_2.json" Compressed="false" Version="2" DataHash="8HCtQS9EvMb4u13tByCqlw==" />
+    <Entry Key="1249860312" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d55010_attack_3.json" Compressed="false" Version="2" DataHash="CQsGOWuis6asx+rGCJA3UA==" />
+    <Entry Key="1551850218" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d55010_attack_4.json" Compressed="false" Version="2" DataHash="flwVQslGkxcM99cOA8eOiQ==" />
+    <Entry Key="1585404652" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d55010_attack_5.json" Compressed="false" Version="2" DataHash="tGZAwetzP0MsO/73a85b6w==" />
+    <Entry Key="3867107412" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d55500_attack_1.json" Compressed="false" Version="2" DataHash="JFQ2YuboYieSSE1jmeBm8w==" />
+    <Entry Key="3900661846" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d55500_attack_2.json" Compressed="false" Version="2" DataHash="WW5OSvLCoE7CdZOtrBwjSg==" />
+    <Entry Key="3934216280" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d55500_attack_3.json" Compressed="false" Version="2" DataHash="NtGT/fZ7KJgkHHZa2hMWyQ==" />
+    <Entry Key="3967770714" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d55500_attack_4.json" Compressed="false" Version="2" DataHash="Kosc2gxIMGhkeWg2uPWoMw==" />
+    <Entry Key="4001325148" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d55500_attack_5.json" Compressed="false" Version="2" DataHash="Q9CdnPexO1Mux2TLvP4u+Q==" />
+    <Entry Key="1048534956" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d55510_attack_1.json" Compressed="false" Version="2" DataHash="LdWpec7+7xC6V6qvHRkc9w==" />
+    <Entry Key="1082089422" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d55510_attack_2.json" Compressed="false" Version="2" DataHash="sSPXQgGAsKa5A2eZ8ZCm8A==" />
+    <Entry Key="1249861592" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d55510_attack_3.json" Compressed="false" Version="2" DataHash="zimSYwCRrooqZ8+JrlQhfg==" />
+    <Entry Key="1551851498" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d55510_attack_4.json" Compressed="false" Version="2" DataHash="Y+kzmF+X2tFPkW0pRhhI3A==" />
+    <Entry Key="1585405932" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d55510_attack_5.json" Compressed="false" Version="2" DataHash="+/9sW/mmt7xTdqYInzWJdw==" />
+    <Entry Key="1048533676" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d59010_attack_1.json" Compressed="false" Version="2" DataHash="BR7Jgk4dxG30uxsFZBwBdQ==" />
+    <Entry Key="1082088142" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d59010_attack_2.json" Compressed="false" Version="2" DataHash="XxbnvNyb3+WSiWQUBp14Rw==" />
+    <Entry Key="1249860312" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d59010_attack_3.json" Compressed="false" Version="2" DataHash="dy7w2An/MVg0b9RqMpLOfw==" />
+    <Entry Key="1551850218" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d59010_attack_4.json" Compressed="false" Version="2" DataHash="0l6xKi6aqNSepUQVLKtrpw==" />
+    <Entry Key="1585404652" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d59010_attack_5.json" Compressed="false" Version="2" DataHash="fzrhSly0YHoPC5ackd4l1g==" />
+    <Entry Key="1048811436" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d59110_attack_1.json" Compressed="false" Version="2" DataHash="9sw4SJuIH8AlU9ovJ+/VmQ==" />
+    <Entry Key="1082365902" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d59110_attack_2.json" Compressed="false" Version="2" DataHash="QcGAKdYWEMTlbAmlWkc2gg==" />
+    <Entry Key="1250138072" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d59110_attack_3.json" Compressed="false" Version="2" DataHash="Ab85BKsBvQUjiuPZ9RlRdw==" />
+    <Entry Key="1552127978" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d59110_attack_4.json" Compressed="false" Version="2" DataHash="He1JyGIXqOZnc3vJTLK3WA==" />
+    <Entry Key="1585682412" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/d59110_attack_5.json" Compressed="false" Version="2" DataHash="A32xQuQALsSLbYm6E2hF0Q==" />
+    <Entry Key="243493980" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/debug_c20010_test.json" Compressed="false" Version="2" DataHash="GniAO9smnoRm6eszSHWMYQ==" />
+    <Entry Key="243493980" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/debug_c20020_test.json" Compressed="false" Version="2" DataHash="CIbQQLIZ4wOUJ15tUhKhcA==" />
+    <Entry Key="253168733" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/debug_c20110_test.json" Compressed="false" Version="2" DataHash="5isIdrDE6efveeO3YyLL9Q==" />
+    <Entry Key="253168733" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/debug/debug_c20210_test.json" Compressed="false" Version="2" DataHash="d/bU9mi+0trmi/ZSuOfC9Q==" />
+    <Entry Hash="8127694146130198574" Key="4035181662" Encryption="3824742374" FilePath="35ec3771cc02e.json" Compressed="false" Version="2" DataHash="W+nVHnR60LPDGCnKNqlYfw==" />
+    <Entry Key="3086622757" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/diamond/c20210.json" Compressed="false" Version="2" DataHash="UPCV9SOkrCzz9PFuPJ6zFw==" />
+    <Entry Key="4280220781" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/diamond/c20210_common.json" Compressed="false" Version="2" DataHash="Lmm8OD/tQu2OH5qfQQMg9w==" />
+    <Entry Key="2787045140" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/diamond/c20210_quest_01.json" Compressed="false" Version="2" DataHash="SyVhwe55O2/HD3mx/UjJxg==" />
+    <Entry Key="2820599574" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/diamond/c20210_quest_02.json" Compressed="false" Version="2" DataHash="4C5cT6yxaOTtik5BYjUOhw==" />
+    <Entry Key="2854154008" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/diamond/c20210_quest_03.json" Compressed="false" Version="2" DataHash="2FxwJ2R+IGfFlIFlI12IBw==" />
+    <Entry Key="2686716686" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/diamond/c20210_variation.json" Compressed="false" Version="2" DataHash="wLEHrRdyrU+40vPV6EzuYQ==" />
+    <Entry Key="3860814932" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/diamond/c20210_wave_01.json" Compressed="false" Version="2" DataHash="biTsiYgZcidp2EhPyyJnWg==" />
+    <Entry Key="3894369366" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/diamond/c20210_wave_02.json" Compressed="false" Version="2" DataHash="WKSLjZPWM0g30nzrb9xDKQ==" />
+    <Entry Key="3927923800" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/diamond/c20210_wave_03.json" Compressed="false" Version="2" DataHash="sJmypM0veiaGYgD+Qw1OgA==" />
+    <Entry Key="4160364645" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/diamond/c20220.json" Compressed="false" Version="2" DataHash="I4DwPOK3LjmhjFMMwWKWjA==" />
+    <Entry Key="4280220781" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/diamond/c20220_common.json" Compressed="false" Version="2" DataHash="ZUi65R1gZdliwGlC+l2TVg==" />
+    <Entry Key="2787045140" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/diamond/c20220_quest_01.json" Compressed="false" Version="2" DataHash="4wnvt8nZXvDORamFu21SJQ==" />
+    <Entry Key="2820599574" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/diamond/c20220_quest_02.json" Compressed="false" Version="2" DataHash="M3VtWqxBKYjv0IKtvN3Pdg==" />
+    <Entry Key="2854154008" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/diamond/c20220_quest_03.json" Compressed="false" Version="2" DataHash="2FxwJ2R+IGfFlIFlI12IBw==" />
+    <Entry Key="2686716686" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/diamond/c20220_variation.json" Compressed="false" Version="2" DataHash="IGVuw3kGiqDyXkns94PuVw==" />
+    <Entry Key="3860814932" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/diamond/c20220_wave_01.json" Compressed="false" Version="2" DataHash="NrFwHSbgoQJiJgJ091M33A==" />
+    <Entry Key="3894369366" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/diamond/c20220_wave_02.json" Compressed="false" Version="2" DataHash="ujPoC4ORlnrXOCE7gFuQrg==" />
+    <Entry Key="3927923800" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/diamond/c20220_wave_03.json" Compressed="false" Version="2" DataHash="H2zRhd+EPdBUZOxBhf1+Hg==" />
+    <Entry Key="3086613541" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/diamond/c20230.json" Compressed="false" Version="2" DataHash="pxamAdr93VzlUrMGeRmDnw==" />
+    <Entry Key="4294900845" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/diamond/c20230_common.json" Compressed="false" Version="2" DataHash="9COJ3IzH7XABTjt5gkf1VQ==" />
+    <Entry Key="2787043348" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/diamond/c20230_quest_01.json" Compressed="false" Version="2" DataHash="hF9fN1F7dxJyGn+7/WU4pQ==" />
+    <Entry Key="2820597782" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/diamond/c20230_quest_02.json" Compressed="false" Version="2" DataHash="/jmRt+NztnpLUwlfDsticA==" />
+    <Entry Key="2854152216" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/diamond/c20230_quest_03.json" Compressed="false" Version="2" DataHash="PlMZ3H3HYqWok5XK0N4hNg==" />
+    <Entry Key="2686720782" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/diamond/c20230_variation.json" Compressed="false" Version="2" DataHash="M5uHcuYcwnyjbocipj4+nA==" />
+    <Entry Key="3357498454" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/diamond/c20230_wave_01.json" Compressed="false" Version="2" DataHash="nHfkZP/ICTHr8uYDG8GMbA==" />
+    <Entry Key="3357498454" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/diamond/c20230_wave_02.json" Compressed="false" Version="2" DataHash="8wjmDEwbqhvwQvpoQUGlTA==" />
+    <Entry Key="3357498454" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/diamond/c20230_wave_03.json" Compressed="false" Version="2" DataHash="EV/T/BX39IO54c3Joxy4kw==" />
+    <Entry Key="3086610469" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/field/c20010.json" Compressed="false" Version="2" DataHash="q6MNVJ8D5vVwMPi9kZJhrw==" />
+    <Entry Key="2030670" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/field/c20010_common.json" Compressed="false" Version="2" DataHash="TemNShukLLE7XbTxZg5uww==" />
+    <Entry Key="2787043092" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/field/c20010_quest_01.json" Compressed="false" Version="2" DataHash="jhmsaaC1WBPEWR83imS2cA==" />
+    <Entry Key="2820597526" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/field/c20010_quest_02.json" Compressed="false" Version="2" DataHash="27y6A+wiIQRfds0F66u2fQ==" />
+    <Entry Key="2854151960" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/field/c20010_quest_03.json" Compressed="false" Version="2" DataHash="HHBq6uzZTFN+AA5xVRZNxA==" />
+    <Entry Key="2686716686" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/field/c20010_variation.json" Compressed="false" Version="2" DataHash="b9lFvbTnVGQ/wxfARpyx6A==" />
+    <Entry Key="3055508516" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/field/c20010_wave_01.json" Compressed="false" Version="2" DataHash="oZ8aPAcZjJRPMFNWsyFSmg==" />
+    <Entry Key="3089062950" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/field/c20010_wave_02.json" Compressed="false" Version="2" DataHash="NvrIzy+GaN5PRbttp5uRUg==" />
+    <Entry Key="3122617384" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/field/c20010_wave_03.json" Compressed="false" Version="2" DataHash="KU4JsduFRFJW0Nz8RCGeZg==" />
+    <Entry Key="4160352357" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/field/c20020.json" Compressed="false" Version="2" DataHash="a9vLbxjSQZ6BFYLOAoIaIw==" />
+    <Entry Key="2030670" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/field/c20020_common.json" Compressed="false" Version="2" DataHash="l9pLpluj25zpH6ZItbXRKg==" />
+    <Entry Key="2787043092" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/field/c20020_quest_01.json" Compressed="false" Version="2" DataHash="qmr9mJ9VdFPKIPNq2AYmDA==" />
+    <Entry Key="2820597526" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/field/c20020_quest_02.json" Compressed="false" Version="2" DataHash="fIbOUK5S/hthl02Rxbul8w==" />
+    <Entry Key="2854151960" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/field/c20020_quest_03.json" Compressed="false" Version="2" DataHash="oCmxWAngE6Z+1DScqEVejg==" />
+    <Entry Key="2686716686" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/field/c20020_variation.json" Compressed="false" Version="2" DataHash="dCSrFdcIRXk5u3sBVL/e3g==" />
+    <Entry Key="3055508516" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/field/c20020_wave_01.json" Compressed="false" Version="2" DataHash="aCZxvioEfnsSkZMn5gXlrw==" />
+    <Entry Key="3089062950" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/field/c20020_wave_02.json" Compressed="false" Version="2" DataHash="JxCKWfLZuh0hpH7tQnfsqQ==" />
+    <Entry Key="3122617384" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/field/c20020_wave_03.json" Compressed="false" Version="2" DataHash="OSuJT3EgzKWuXdob5+j43g==" />
+    <Entry Key="3086613541" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/field/c20030.json" Compressed="false" Version="2" DataHash="Yet8yHTzYG36G2rI+BviKQ==" />
+    <Entry Key="8322126" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/field/c20030_common.json" Compressed="false" Version="2" DataHash="YnJk95JgbUuyXWgoqk5Tqg==" />
+    <Entry Key="2787043348" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/field/c20030_quest_01.json" Compressed="false" Version="2" DataHash="hF9fN1F7dxJyGn+7/WU4pQ==" />
+    <Entry Key="2820597782" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/field/c20030_quest_02.json" Compressed="false" Version="2" DataHash="/jmRt+NztnpLUwlfDsticA==" />
+    <Entry Key="2854152216" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/field/c20030_quest_03.json" Compressed="false" Version="2" DataHash="GzSUrV1rcbeBcbzyMc7CiQ==" />
+    <Entry Key="2686720782" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/field/c20030_variation.json" Compressed="false" Version="2" DataHash="vkZpIWQzjQVt86XkO1dfHQ==" />
+    <Entry Key="3357498454" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/field/c20030_wave_01.json" Compressed="false" Version="2" DataHash="H5ge6Oz+Due+O6D0FDxrMQ==" />
+    <Entry Key="3357498454" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/field/c20030_wave_02.json" Compressed="false" Version="2" DataHash="zj7qg6J6AuJOaV0M/z/HRw==" />
+    <Entry Key="3357498454" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/field/c20030_wave_03.json" Compressed="false" Version="2" DataHash="SjTuzkJlz9Zo/dWUs+KiGQ==" />
+    <Entry Hash="8127321771378866853" Key="3087265830" Encryption="3824742374" FilePath="20c173655faa5.json" Compressed="false" Version="2" DataHash="R/T8uslHxDhESRIOiMDnpg==" />
+    <Entry Key="3086606373" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/pfCamp/c20610.json" Compressed="false" Version="2" DataHash="0v3VY0APZSDgxLkHp40usQ==" />
+    <Entry Key="2030670" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/pfCamp/c20610_common.json" Compressed="false" Version="2" DataHash="ED4RJDv9H54W/EPm5YbhKQ==" />
+    <Entry Key="2787385108" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/pfCamp/c20610_quest_01.json" Compressed="false" Version="2" DataHash="pD4GivaF5u0ebYH1pvU9hA==" />
+    <Entry Key="2820939542" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/pfCamp/c20610_quest_02.json" Compressed="false" Version="2" DataHash="8zwtIK9/ZCB7vo4sSIHNvw==" />
+    <Entry Key="2854493976" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/pfCamp/c20610_quest_03.json" Compressed="false" Version="2" DataHash="dn+uWh8uvPWD/ji2rynvyw==" />
+    <Entry Key="2957249310" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/pfCamp/c20610_variation.json" Compressed="false" Version="2" DataHash="S8QRX6S6VrE8XFWKGekdUQ==" />
+    <Entry Key="2786518804" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/pfCamp/c20610_wave_01.json" Compressed="false" Version="2" DataHash="3fxSYOuQ3ch8g8ZulWv5fQ==" />
+    <Entry Key="2820073238" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/pfCamp/c20610_wave_02.json" Compressed="false" Version="2" DataHash="IdrXBWK6F2FXcAE3q3oHUw==" />
+    <Entry Key="2853627672" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/pfCamp/c20610_wave_03.json" Compressed="false" Version="2" DataHash="cFmwMajCbXCvqftKdy+zaQ==" />
+    <Entry Key="4160348261" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/pfCamp/c20620.json" Compressed="false" Version="2" DataHash="B8+rM5/OAG62fYsFpCqiWw==" />
+    <Entry Key="2030670" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/pfCamp/c20620_common.json" Compressed="false" Version="2" DataHash="doE0u1O4OUfheCrnqT6suQ==" />
+    <Entry Key="2787385108" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/pfCamp/c20620_quest_01.json" Compressed="false" Version="2" DataHash="uqAfzZrFsh3hDkMN0eXQow==" />
+    <Entry Key="2820939542" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/pfCamp/c20620_quest_02.json" Compressed="false" Version="2" DataHash="e4EqjjiQ4EfX3TR6TO1Uug==" />
+    <Entry Key="2854493976" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/pfCamp/c20620_quest_03.json" Compressed="false" Version="2" DataHash="dn+uWh8uvPWD/ji2rynvyw==" />
+    <Entry Key="2957249310" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/pfCamp/c20620_variation.json" Compressed="false" Version="2" DataHash="RcrUWxD8wWQiy9Fdnu2N6A==" />
+    <Entry Key="2786518804" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/pfCamp/c20620_wave_01.json" Compressed="false" Version="2" DataHash="LHXjxLcCpOpUy+64UY3y0g==" />
+    <Entry Key="2820073238" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/pfCamp/c20620_wave_02.json" Compressed="false" Version="2" DataHash="xEUFc3F38FeTF7O7uVz8Eg==" />
+    <Entry Key="2853627672" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/pfCamp/c20620_wave_03.json" Compressed="false" Version="2" DataHash="zsTy9/2kg0Db7W4gFxGGBQ==" />
+    <Entry Key="3086605349" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/pfCamp/c20630.json" Compressed="false" Version="2" DataHash="cycZHxTDxISqkLPfIXfdQg==" />
+    <Entry Key="4294900845" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/pfCamp/c20630_common.json" Compressed="false" Version="2" DataHash="PA9c7NzAbkf1tv9mnBUhwA==" />
+    <Entry Key="2787385364" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/pfCamp/c20630_quest_01.json" Compressed="false" Version="2" DataHash="gnO6uNf78ZQeagYGhDvQIA==" />
+    <Entry Key="2820939798" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/pfCamp/c20630_quest_02.json" Compressed="false" Version="2" DataHash="rcRM7/l2KGR5rTuxq6vdlQ==" />
+    <Entry Key="2854494232" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/pfCamp/c20630_quest_03.json" Compressed="false" Version="2" DataHash="+GqiiGZYpdf9/tESmAJmNQ==" />
+    <Entry Key="2686720782" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/pfCamp/c20630_variation.json" Compressed="false" Version="2" DataHash="gGqmeFJTtsMyGPV1aXfx4g==" />
+    <Entry Key="136272982" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/pfCamp/c20630_wave_01.json" Compressed="false" Version="2" DataHash="REd7c0algQKmrVtjlg/Qjw==" />
+    <Entry Key="136272982" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/pfCamp/c20630_wave_02.json" Compressed="false" Version="2" DataHash="G2tfhNgR1X1dGWzGzY0wIg==" />
+    <Entry Key="136272982" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/pfCamp/c20630_wave_03.json" Compressed="false" Version="2" DataHash="3MJLc/nsSh807bLBUwDYDA==" />
+    <Entry Key="4026268765" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/quest/q11010.json" Compressed="false" Version="2" DataHash="1GgS/I7LjjyQJ9GZgj4J8g==" />
+    <Entry Key="4026268765" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/quest/q11060.json" Compressed="false" Version="2" DataHash="P2y5WB90os2+mIOX9pMaDA==" />
+    <Entry Key="4026268765" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/quest/q11070.json" Compressed="false" Version="2" DataHash="o3ci9mIyaMRNeHx1Pphz1Q==" />
+    <Entry Key="4026268765" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/quest/q11080.json" Compressed="false" Version="2" DataHash="CuG+zEcgHnGBKXDs2eJOIw==" />
+    <Entry Key="4026276957" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/quest/q11110.json" Compressed="false" Version="2" DataHash="CNzwa0QE5lb1Cx+owD1Ilg==" />
+    <Entry Key="4026276957" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/quest/q11120.json" Compressed="false" Version="2" DataHash="qQtQupH/Wnug9bWZaFwTYQ==" />
+    <Entry Key="4026276957" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/quest/q11140.json" Compressed="false" Version="2" DataHash="y2fzKXDtB/6MVq7F+fsE/g==" />
+    <Entry Key="4026276957" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/quest/q11160.json" Compressed="false" Version="2" DataHash="QN5/D9MUDFJlEkp2E6BTLQ==" />
+    <Entry Key="4026276957" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/quest/q11170.json" Compressed="false" Version="2" DataHash="sM9Uip6Xd/T5xFkGkfmk6A==" />
+    <Entry Key="4026268765" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/quest/q11210.json" Compressed="false" Version="2" DataHash="hZo4Zz48qJH24/iuqLnS5w==" />
+    <Entry Key="4026268765" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/quest/q11220.json" Compressed="false" Version="2" DataHash="p0w0lzf14MYy9MD2onr93Q==" />
+    <Entry Key="4026268765" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/quest/q11230.json" Compressed="false" Version="2" DataHash="Xaj7YCrqdFGqlBYLJWnFHA==" />
+    <Entry Key="4026268765" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/quest/q11250.json" Compressed="false" Version="2" DataHash="/VOOElFFqXSjcju17YDApA==" />
+    <Entry Key="4026271837" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/quest/q11300.json" Compressed="false" Version="2" DataHash="eVS6CGrAJ/G6bTx4zywCpg==" />
+    <Entry Key="4026272861" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/quest/q11310.json" Compressed="false" Version="2" DataHash="IWq7IqdUPo5zJm7veP5kug==" />
+    <Entry Key="4026272861" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/quest/q11340.json" Compressed="false" Version="2" DataHash="pEAkPOgoXuHirqR9xeD8cg==" />
+    <Entry Key="4026264669" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/quest/q11720.json" Compressed="false" Version="2" DataHash="FM5cMz0VV3sdaWYCmSFBdQ==" />
+    <Entry Key="4026264669" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/quest/q11730.json" Compressed="false" Version="2" DataHash="bVsN/W92P3eXtyP57BHZWQ==" />
+    <Entry Key="4026264669" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/quest/q11750.json" Compressed="false" Version="2" DataHash="JE+Ks98RsFDfotMY+RB5gQ==" />
+    <Entry Key="4227602537" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/quest/q11901.json" Compressed="false" Version="2" DataHash="bm6xj+8/9EHto6mUYZL87w==" />
+    <Entry Key="4227603561" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/quest/q11911.json" Compressed="false" Version="2" DataHash="RkKJOlmWrpiFX9p31WF+8A==" />
+    <Entry Key="4227603561" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/quest/q11921.json" Compressed="false" Version="2" DataHash="4MTMSqsIywO0hTRlyDIcUg==" />
+    <Entry Key="4227603561" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/quest/q11922.json" Compressed="false" Version="2" DataHash="qjMmuSkv53q2tCboTv5BAA==" />
+    <Entry Key="201071705" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/quest/q11925.json" Compressed="false" Version="2" DataHash="EtnultgCHaJN+FVJzeerrA==" />
+    <Entry Key="4294712429" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/quest/q11928.json" Compressed="false" Version="2" DataHash="XX6Y0GaNovxCuZM4byUHMg==" />
+    <Entry Key="3086608421" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/savannah/c20710.json" Compressed="false" Version="2" DataHash="Ub9s2+Hs+YBLCVC2ows4dQ==" />
+    <Entry Key="6224974" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/savannah/c20710_common.json" Compressed="false" Version="2" DataHash="eWqLvJqyfdlxLBz+GtjVWg==" />
+    <Entry Key="2787385108" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/savannah/c20710_quest_01.json" Compressed="false" Version="2" DataHash="X7yJTpDafZozVLgcNojtHA==" />
+    <Entry Key="2820939542" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/savannah/c20710_quest_02.json" Compressed="false" Version="2" DataHash="01rHjWU8c48JjpcE7V55Dw==" />
+    <Entry Key="2854493976" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/savannah/c20710_quest_03.json" Compressed="false" Version="2" DataHash="dn+uWh8uvPWD/ji2rynvyw==" />
+    <Entry Key="2686716686" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/savannah/c20710_variation.json" Compressed="false" Version="2" DataHash="5yzJh4qObNd6JSNCNT5fZA==" />
+    <Entry Key="3860814932" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/savannah/c20710_wave_01.json" Compressed="false" Version="2" DataHash="qIlEWG+k6lTxtf5JtjVMKA==" />
+    <Entry Key="3894369366" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/savannah/c20710_wave_02.json" Compressed="false" Version="2" DataHash="3QGV5+uC8EkOFVcKEQcK7A==" />
+    <Entry Key="3927923800" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/savannah/c20710_wave_03.json" Compressed="false" Version="2" DataHash="6kCkdQDHkuk/FSGTGOMjcA==" />
+    <Entry Key="4160350309" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/savannah/c20720.json" Compressed="false" Version="2" DataHash="ZEuw4/bjT3+DJe9pQBUaxQ==" />
+    <Entry Key="6224974" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/savannah/c20720_common.json" Compressed="false" Version="2" DataHash="2dtq3g0n5Sei0VeWbSRkZw==" />
+    <Entry Key="2787385108" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/savannah/c20720_quest_01.json" Compressed="false" Version="2" DataHash="VtoJZHARuPnqV3zhtsX+tg==" />
+    <Entry Key="2820939542" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/savannah/c20720_quest_02.json" Compressed="false" Version="2" DataHash="yDuv3iRl7u8zSZQ1N4YHXw==" />
+    <Entry Key="2854493976" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/savannah/c20720_quest_03.json" Compressed="false" Version="2" DataHash="dn+uWh8uvPWD/ji2rynvyw==" />
+    <Entry Key="2686716686" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/savannah/c20720_variation.json" Compressed="false" Version="2" DataHash="MLIdIo5uK2b2n8sZY8946g==" />
+    <Entry Key="3860814932" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/savannah/c20720_wave_01.json" Compressed="false" Version="2" DataHash="/i2FY2hOyDPkw2RXQ9EfNA==" />
+    <Entry Key="3894369366" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/savannah/c20720_wave_02.json" Compressed="false" Version="2" DataHash="c6qnaAX7+QcqTV7QUeS4CQ==" />
+    <Entry Key="3927923800" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/savannah/c20720_wave_03.json" Compressed="false" Version="2" DataHash="FpzFaXzy66UhscExQJrCsA==" />
+    <Entry Key="3086609445" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/savannah/c20730.json" Compressed="false" Version="2" DataHash="1x6Nh8KUv4R50UAFjh5VSg==" />
+    <Entry Key="8322126" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/savannah/c20730_common.json" Compressed="false" Version="2" DataHash="WMApuqGOPVzw4f1FOhGaeA==" />
+    <Entry Key="2787385364" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/savannah/c20730_quest_01.json" Compressed="false" Version="2" DataHash="OsplMbilandBGE+cwHEgxw==" />
+    <Entry Key="2820939798" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/savannah/c20730_quest_02.json" Compressed="false" Version="2" DataHash="Wdt1spRrEb84l3VqfdkJcA==" />
+    <Entry Key="2854494232" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/savannah/c20730_quest_03.json" Compressed="false" Version="2" DataHash="+GqiiGZYpdf9/tESmAJmNQ==" />
+    <Entry Key="2686409486" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/savannah/c20730_variation.json" Compressed="false" Version="2" DataHash="kn/CPMZ8kOc0JTdut8Nq6A==" />
+    <Entry Key="4028587102" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/savannah/c20730_wave_01.json" Compressed="false" Version="2" DataHash="YKy2vKZDr65DaJb796nQXw==" />
+    <Entry Key="4028587102" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/savannah/c20730_wave_02.json" Compressed="false" Version="2" DataHash="OuCJKv+ecv066MzXSMVvRQ==" />
+    <Entry Key="4028587102" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/savannah/c20730_wave_03.json" Compressed="false" Version="2" DataHash="cWFEXsGVWOxYuF8cIu2BTw==" />
+    <Entry Key="3087265830" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/show/c29010.json" Compressed="false" Version="2" DataHash="8jLrmsf0cduk35Ey+xcuTQ==" />
+    <Entry Key="3223592782" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/show/c29010_common.json" Compressed="false" Version="2" DataHash="wVoCVyBmjsyMaGGtzeX+kg==" />
+    <Entry Key="2785273620" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/show/c29010_quest_01.json" Compressed="false" Version="2" DataHash="nk6UQCMY6rPGG/sCcWvrqg==" />
+    <Entry Key="2953055006" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/show/c29010_variation.json" Compressed="false" Version="2" DataHash="zWiOvtztJ4uhweJ4GIAapg==" />
+    <Entry Key="3054954532" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/show/c29010_wave_01.json" Compressed="false" Version="2" DataHash="ODG/A6/qSmnJLl3I5HHiAQ==" />
+    <Entry Key="3087278118" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/show/c29210.json" Compressed="false" Version="2" DataHash="erhETyMcA8EHvlSlDAyn7w==" />
+    <Entry Key="3206815533" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/show/c29210_common.json" Compressed="false" Version="2" DataHash="5PSq8orfdWmEH+D0R8qftg==" />
+    <Entry Key="2785275668" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/show/c29210_quest_01.json" Compressed="false" Version="2" DataHash="gdNgL0f8FRSIoTUhjdTF5w==" />
+    <Entry Key="2953055006" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/show/c29210_variation.json" Compressed="false" Version="2" DataHash="3LGwZzHMFC0H2GpZRWdBOw==" />
+    <Entry Key="3860260948" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/show/c29210_wave_01.json" Compressed="false" Version="2" DataHash="WSIqzsl7zXOoLhmDBeqeZg==" />
+    <Entry Hash="8127485061648981615" Key="3154386986" Encryption="3824742374" FilePath="2a09a30e19e6f.json" Compressed="false" Version="2" DataHash="rZxl+iun2+2FE8ZAxDANFA==" />
+    <Entry Key="3086620709" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/village/c20110.json" Compressed="false" Version="2" DataHash="RdL8CaAzPPxqasmCJD4LlA==" />
+    <Entry Key="6224974" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/village/c20110_common.json" Compressed="false" Version="2" DataHash="G8AfvQqM0uckxtwwuLaJNg==" />
+    <Entry Key="2787045140" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/village/c20110_quest_01.json" Compressed="false" Version="2" DataHash="VPLTop5SkRcrcca+xe0acQ==" />
+    <Entry Key="2820599574" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/village/c20110_quest_02.json" Compressed="false" Version="2" DataHash="gW3YlemIRcEeCuORFqLrGQ==" />
+    <Entry Key="2854154008" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/village/c20110_quest_03.json" Compressed="false" Version="2" DataHash="2FxwJ2R+IGfFlIFlI12IBw==" />
+    <Entry Key="2686683918" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/village/c20110_variation.json" Compressed="false" Version="2" DataHash="J36QLOp2ee817QSGP5/+mQ==" />
+    <Entry Key="3860814932" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/village/c20110_wave_01.json" Compressed="false" Version="2" DataHash="CkAteDLO44Df4+86AzUw/A==" />
+    <Entry Key="3894369366" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/village/c20110_wave_02.json" Compressed="false" Version="2" DataHash="0GWBkPt48GhHTMiuUU2Y7Q==" />
+    <Entry Key="3927923800" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/village/c20110_wave_03.json" Compressed="false" Version="2" DataHash="sIdDEWtFbzkt4UmVGPgusw==" />
+    <Entry Key="4160362597" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/village/c20120.json" Compressed="false" Version="2" DataHash="s2kvUPZw8sXKZqi+l3CMFQ==" />
+    <Entry Key="6224974" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/village/c20120_common.json" Compressed="false" Version="2" DataHash="kEFoTsCdHesSn7SZl9EtSw==" />
+    <Entry Key="2787045140" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/village/c20120_quest_01.json" Compressed="false" Version="2" DataHash="kMkcpp9KDJ7YRol+bZPIVQ==" />
+    <Entry Key="2820599574" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/village/c20120_quest_02.json" Compressed="false" Version="2" DataHash="H9H2aBgmCCfYp4zsZxTuTA==" />
+    <Entry Key="2854154008" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/village/c20120_quest_03.json" Compressed="false" Version="2" DataHash="2FxwJ2R+IGfFlIFlI12IBw==" />
+    <Entry Key="2686683918" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/village/c20120_variation.json" Compressed="false" Version="2" DataHash="/S59R5PFVLqe8SBBRYxVhA==" />
+    <Entry Key="3860814932" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/village/c20120_wave_01.json" Compressed="false" Version="2" DataHash="iAnmT38gfVlvYVLOghp6aQ==" />
+    <Entry Key="3894369366" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/village/c20120_wave_02.json" Compressed="false" Version="2" DataHash="E9Kqd4zt76jTEkIedkOddw==" />
+    <Entry Key="3927923800" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/village/c20120_wave_03.json" Compressed="false" Version="2" DataHash="BzV+mzm1Fai6s89tfirWHA==" />
+    <Entry Key="3086621733" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/village/c20130.json" Compressed="false" Version="2" DataHash="Yb77SVYrR/b8bEOYZiiOjg==" />
+    <Entry Key="8322126" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/village/c20130_common.json" Compressed="false" Version="2" DataHash="qQuGHtglzx0IHh0FOu905w==" />
+    <Entry Key="2787044372" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/village/c20130_quest_01.json" Compressed="false" Version="2" DataHash="CtjwjcufvJSHw3VTbKptTQ==" />
+    <Entry Key="2820598806" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/village/c20130_quest_02.json" Compressed="false" Version="2" DataHash="q/zg/kbaV1EfFJGzBau0gg==" />
+    <Entry Key="2854153240" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/village/c20130_quest_03.json" Compressed="false" Version="2" DataHash="bOTHXBakdHag8+OFEqSxkA==" />
+    <Entry Key="2686671630" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/village/c20130_variation.json" Compressed="false" Version="2" DataHash="ZcDPiUot1BE7LNfYPNxGlg==" />
+    <Entry Key="3491716190" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/village/c20130_wave_01.json" Compressed="false" Version="2" DataHash="1WoyhZwZqJ37bfuG77olyA==" />
+    <Entry Key="3491716190" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/village/c20130_wave_02.json" Compressed="false" Version="2" DataHash="34+W6PP3oAl4QKoG5lwPhA==" />
+    <Entry Key="3491716190" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/defense_game/village/c20130_wave_03.json" Compressed="false" Version="2" DataHash="JehuzPFqe0D3sR0NdCv7EA==" />
+    <Entry Key="270490206" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/equip/parameter/SsdRecoilParameters.json" Compressed="false" Version="2" DataHash="jHQNbeFnK2tWLUNKpZqQ3A==" />
+    <Entry Hash="8127551803701954737" Key="2961436702" Encryption="3824742374" FilePath="2dd4dc93d88b1.json" Compressed="false" Version="2" DataHash="azZ94oPQA/O8gAXNu5QrQA==" />
+    <Entry Key="2960855070" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/ui/parameter/SsdBehaviorGuidelinesParameters.json" Compressed="false" Version="2" DataHash="pgNVvDn+VsSxJOpXVbKrTw==" />
+    <Entry Key="3927973976" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/ui/parameter/SsdBlackRadioParameters.json" Compressed="false" Version="2" DataHash="8V08xti/IAAMhLFQDyRp2Q==" />
+    <Entry Key="4026796126" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/ui/parameter/SsdBlankMapData.json" Compressed="false" Version="2" DataHash="PIdwmpoFZQn0PPWKf6dkag==" />
+    <Entry Key="270540894" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/ui/parameter/SsdCommandMarkerParameters.json" Compressed="false" Version="2" DataHash="cILpj1VOqjonZQSlL5ZRaQ==" />
+    <Entry Key="4057398367" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/ui/parameter/SsdCommunicationSetting.json" Compressed="false" Version="2" DataHash="+pffG8abwGqpXhCHdw4rjQ==" />
+    <Entry Key="1988354020" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/ui/parameter/SsdLoadingTipsParameters.json" Compressed="false" Version="2" DataHash="2yp1bnv8r/J7VrvtdnW39g==" />
+    <Entry Key="2860474392" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/ui/parameter/SsdMapParameters.json" Compressed="false" Version="2" DataHash="CFVoTawD4qI2Ljk/IkTr2w==" />
+    <Entry Key="236937308" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/ui/parameter/SsdMapStampParameters.json" Compressed="false" Version="2" DataHash="2RNH4mLXpqjiaBEiAmjyhg==" />
+    <Entry Key="2854162456" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/ui/parameter/SsdPresetRadioParameters.json" Compressed="false" Version="2" DataHash="2pJqwPlC/O6m+qU4DHM96A==" />
+    <Entry Key="4018401373" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/ui/parameter/SsdReleaseAnnounceParameters.json" Compressed="false" Version="2" DataHash="skHdGyAbzN8ANzbavOCMnQ==" />
+    <Entry Key="2854182936" Encryption="3824742374" FilePath="/Assets/ssd/level_asset/ui/parameter/SsdStorySummaryParameters.json" Compressed="false" Version="2" DataHash="GPOV+r0x+C5tLYdlj5sNiQ==" />
+    <Entry Key="801120336" Encryption="3824742374" FilePath="/Assets/ssd/script/gear/RegisterGear.lua" Compressed="false" Version="2" DataHash="1y5znwd5wDh/hpiYz6XQXA==" />
+    <Entry Key="250659599" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/SsdBaseDefense.lua" Compressed="false" Version="2" DataHash="czbR41ukxkOK9PpdNPD1fQ==" />
+    <Entry Key="1853944271" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/SsdCreatureBlock.lua" Compressed="false" Version="2" DataHash="dL/5b+Ftr/Kk0KIyM4ICxg==" />
+    <Entry Key="3489668177" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/SsdFastTravel.lua" Compressed="false" Version="2" DataHash="+VtYxVPAtxQjUQsCnZK5fA==" />
+    <Entry Key="1040195679" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/SsdFlagMission.lua" Compressed="false" Version="2" DataHash="LluoQbklqCbe6w/aFqbxvQ==" />
+    <Entry Key="1275134029" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/SsdRecipe.lua" Compressed="false" Version="2" DataHash="NiCwZkHKrVvvel/A6q8Meg==" />
+    <Entry Key="3877172808" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/Tpp.lua" Compressed="false" Version="2" DataHash="3EISatdYDEwOBCM/WzuyRQ==" />
+    <Entry Key="3656982618" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/TppAnimal.lua" Compressed="false" Version="2" DataHash="qJfsRWaFv/q/FliDsF4xjg==" />
+    <Entry Key="3310551622" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/TppAnimalBlock.lua" Compressed="false" Version="2" DataHash="bQgyicWbzVtqNiknD1kCQA==" />
+    <Entry Key="249764623" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/TppCheckPoint.lua" Compressed="false" Version="2" DataHash="gFS5n8hbV1pg5oIMjmNJrQ==" />
+    <Entry Key="4015264336" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/TppClock.lua" Compressed="false" Version="2" DataHash="4+Xjxf3ZD9jVqHvAy5H5Yg==" />
+    <Entry Key="276766481" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/TppCrew.lua" Compressed="false" Version="2" DataHash="8MDwwyNfEpJSrnCH9pZw6A==" />
+    <Entry Key="3946907212" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/TppDbgStr32.lua" Compressed="false" Version="2" DataHash="KMHEvnu73slvqdMZB7fNRQ==" />
+    <Entry Key="257164048" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/TppDebug.lua" Compressed="false" Version="2" DataHash="+CT53W+Kpb7jgjjpCZuc7g==" />
+    <Entry Key="4236320861" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/TppDefine.lua" Compressed="false" Version="2" DataHash="Og0YE0bocZUlavF5e++xTA==" />
+    <Entry Key="268377872" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/TppDemo.lua" Compressed="false" Version="2" DataHash="ptAz7F/tDjTgSQJ1je6qlg==" />
+    <Entry Key="3498246225" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/TppDemoBlock.lua" Compressed="false" Version="2" DataHash="4xJkk4U4QsFEw23B0Qo9AA==" />
+    <Entry Key="4264829023" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/TppEneFova.lua" Compressed="false" Version="2" DataHash="EMwsUtZKiHgH/sJahJ8qew==" />
+    <Entry Key="4294689376" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/TppEnemy.lua" Compressed="false" Version="2" DataHash="MHZRCHSEHUQNH+s/C6ESKA==" />
+    <Entry Key="1350697041" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/TppException.lua" Compressed="false" Version="2" DataHash="WcdCqCtSMEnQY1lZg3dUHQ==" />
+    <Entry Key="266273552" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/TppGVars.lua" Compressed="false" Version="2" DataHash="Mi66OnozPdy0wTSSDR0Chw==" />
+    <Entry Key="1272193100" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/TppGimmick.lua" Compressed="false" Version="2" DataHash="baHdxCnN0WiqRo+Biw985Q==" />
+    <Entry Key="243337999" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/TppLocation.lua" Compressed="false" Version="2" DataHash="r24qzQOU7JWUfUwkpNMiLA==" />
+    <Entry Key="268420880" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/TppMain.lua" Compressed="false" Version="2" DataHash="rVHbjbpavdFBefCXtBidPA==" />
+    <Entry Key="4015267920" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/TppMarker.lua" Compressed="false" Version="2" DataHash="RhNtPntG0NYntG4p31hSwQ==" />
+    <Entry Key="4018127952" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/TppMath.lua" Compressed="false" Version="2" DataHash="RWSXp20u5Ez/zcR5ntH8Uw==" />
+    <Entry Key="3967884877" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/TppMission.lua" Compressed="false" Version="2" DataHash="tGdh+k6PrIo8BJTOjABU3w==" />
+    <Entry Key="4284092000" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/TppMovie.lua" Compressed="false" Version="2" DataHash="EhWTJK/6QZaQCsYQk4COPw==" />
+    <Entry Key="4018409552" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/TppPackList.lua" Compressed="false" Version="2" DataHash="ohVWs8IUgErSqgHA9N6EEw==" />
+    <Entry Key="4035124305" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/TppPlayer.lua" Compressed="false" Version="2" DataHash="uY3IiDlMxDrwfVElee+D5w==" />
+    <Entry Key="268436241" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/TppQuest.lua" Compressed="false" Version="2" DataHash="dlsT6vdn+6TeqO9I7trUJQ==" />
+    <Entry Key="4286562912" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/TppRadio.lua" Compressed="false" Version="2" DataHash="rXujQEZVBdXuS3DKAofz+A==" />
+    <Entry Key="4271119967" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/TppRanking.lua" Compressed="false" Version="2" DataHash="mCf9iO1Ei9CmCc1siHEGQg==" />
+    <Entry Key="109321991" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/TppRatBird.lua" Compressed="false" Version="2" DataHash="tYPNfiKbJN0I2mjas4sVpA==" />
+    <Entry Key="2916155982" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/TppReinforceBlock.lua" Compressed="false" Version="2" DataHash="TPKAi2wUKj5iA8qx2DPynQ==" />
+    <Entry Key="4232315485" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/TppResult.lua" Compressed="false" Version="2" DataHash="9F2SkzeNUj2k9JFALj+jVQ==" />
+    <Entry Key="4282654304" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/TppReward.lua" Compressed="false" Version="2" DataHash="4z657mnDxIMz4KVhmY63vQ==" />
+    <Entry Key="4018148432" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/TppSave.lua" Compressed="false" Version="2" DataHash="7ENsamiFbUE+vZLpZro9aA==" />
+    <Entry Key="142672649" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/TppScriptBlock.lua" Compressed="false" Version="2" DataHash="K1xSTP1O9Gw7xTea7SOmvg==" />
+    <Entry Key="259261200" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/TppSequence.lua" Compressed="false" Version="2" DataHash="bQWmkPFKjvtenpfyTtG2Ww==" />
+    <Entry Key="4278455904" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/TppSound.lua" Compressed="false" Version="2" DataHash="EIBkJD4YTbae+dR0IQkszg==" />
+    <Entry Key="274993937" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/TppStory.lua" Compressed="false" Version="2" DataHash="mycep4lwQI3XBZH44ryGAw==" />
+    <Entry Key="4286841440" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/TppTelop.lua" Compressed="false" Version="2" DataHash="VukdFIK7E7i030N/nLN3XQ==" />
+    <Entry Key="277086993" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/TppTerminal.lua" Compressed="false" Version="2" DataHash="nfrbeu325zimzxc/JfX08w==" />
+    <Entry Key="268435216" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/TppTrap.lua" Compressed="false" Version="2" DataHash="eiDjrKOXWhCo6qr/wtN85Q==" />
+    <Entry Key="3953729612" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/TppTrophy.lua" Compressed="false" Version="2" DataHash="jx+I4v4zuSo+Xa8zr/3ZJg==" />
+    <Entry Key="1350836305" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/TppTutorial.lua" Compressed="false" Version="2" DataHash="5jbHBVRgkdvnbVXSNh4wbg==" />
+    <Entry Key="2942566480" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/TppUI.lua" Compressed="false" Version="2" DataHash="p6vwcsuO43idDz11DMMWMQ==" />
+    <Entry Key="8404737" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/TppVarInit.lua" Compressed="false" Version="2" DataHash="AqyCIY/WRCCQzc9OXFrRhQ==" />
+    <Entry Key="2403409424" Encryption="3824742374" FilePath="/Assets/ssd/script/lib/TppWeather.lua" Compressed="false" Version="2" DataHash="Sgjjw/MNP5ctJMcb9YUCfA==" />
+    <Entry Key="1869880272" Encryption="3824742374" FilePath="/Assets/ssd/script/list/SsdBaseDefenseList.lua" Compressed="false" Version="2" DataHash="A+K42mMGqLqWDR5HU33f1w==" />
+    <Entry Key="3940614219" Encryption="3824742374" FilePath="/Assets/ssd/script/list/SsdCreatureList.lua" Compressed="false" Version="2" DataHash="EP/y2ncqaZiwWdgzapCnNw==" />
+    <Entry Key="2944582224" Encryption="3824742374" FilePath="/Assets/ssd/script/list/SsdCrewList.lua" Compressed="false" Version="2" DataHash="/l3L9uL0OAdVvAWrYNNt/A==" />
+    <Entry Key="1841536974" Encryption="3824742374" FilePath="/Assets/ssd/script/list/SsdFastTravelPointList.lua" Compressed="false" Version="2" DataHash="JyY/iL2RDY3Fn5FlwYgDOA==" />
+    <Entry Key="3288056388" Encryption="3824742374" FilePath="/Assets/ssd/script/list/SsdFlagMissionList.lua" Compressed="false" Version="2" DataHash="IqVn3o01maBIQKO9nlohlg==" />
+    <Entry Key="4007707215" Encryption="3824742374" FilePath="/Assets/ssd/script/list/SsdMissionList.lua" Compressed="false" Version="2" DataHash="ztWOWonHoL2mDZo09irb4Q==" />
+    <Entry Key="1188610119" Encryption="3824742374" FilePath="/Assets/ssd/script/list/SsdRecipeList.lua" Compressed="false" Version="2" DataHash="iM56B6gP4FvS3cZREr6odg==" />
+    <Entry Key="1879318481" Encryption="3824742374" FilePath="/Assets/ssd/script/list/SsdStorySequenceList.lua" Compressed="false" Version="2" DataHash="657A/6i4FR/94vXq54BqZw==" />
+    <Entry Key="4018209360" Encryption="3824742374" FilePath="/Assets/ssd/script/list/SsdStorySequenceRewardList.lua" Compressed="false" Version="2" DataHash="gMJpFGBl9fxDYR7QIAzuQw==" />
+    <Entry Key="3993247823" Encryption="3824742374" FilePath="/Assets/ssd/script/list/SsdWaterPumpList.lua" Compressed="false" Version="2" DataHash="fsOBDa1cBlbSpsaXMIvE5w==" />
+    <Entry Key="1197023304" Encryption="3824742374" FilePath="/Assets/ssd/script/list/TppDebugMissionList.lua" Compressed="false" Version="2" DataHash="EwBqwG4d7Kvl8Nw+JIRXug==" />
+    <Entry Key="4007707215" Encryption="3824742374" FilePath="/Assets/ssd/script/list/TppMissionList.lua" Compressed="false" Version="2" DataHash="JCLnotXWggEX7/pUgOEybA==" />
+    <Entry Key="1868103632" Encryption="3824742374" FilePath="/Assets/ssd/script/list/TppQuestList.lua" Compressed="false" Version="2" DataHash="GTtKf0IADzibu6YUq0ky5g==" />
+    <Entry Key="276872977" Encryption="3824742374" FilePath="/Assets/ssd/script/mission/carnivore_block.lua" Compressed="false" Version="2" DataHash="MBXGXpEdkuS5OVxjQtsqBA==" />
+    <Entry Key="4227799644" Encryption="3824742374" FilePath="/Assets/ssd/script/mission/common/BaseMission.lua" Compressed="false" Version="2" DataHash="UjPF2QBMRXTC0eBwAa0GuA==" />
+    <Entry Key="167779083" Encryption="3824742374" FilePath="/Assets/ssd/script/mission/common/BaseMissionRadio.lua" Compressed="false" Version="2" DataHash="QuoSf8hjFYrCOqWj78viyQ==" />
+    <Entry Key="258999056" Encryption="3824742374" FilePath="/Assets/ssd/script/mission/common/BaseMissionSequence.lua" Compressed="false" Version="2" DataHash="pWDotVmVzmSMitHuZY63Aw==" />
+    <Entry Key="3186618974" Encryption="3824742374" FilePath="/Assets/ssd/script/mission/coop/BaseCoopMissionEnemy.lua" Compressed="false" Version="2" DataHash="uhbPLf1AJJOGijEUuyeL5w==" />
+    <Entry Key="3983510094" Encryption="3824742374" FilePath="/Assets/ssd/script/mission/coop/BaseCoopMissionRadio.lua" Compressed="false" Version="2" DataHash="DCtYd2m6QS8zR2OszuB4KQ==" />
+    <Entry Key="3597892183" Encryption="3824742374" FilePath="/Assets/ssd/script/mission/coop/BaseCoopMissionSequence.lua" Compressed="false" Version="2" DataHash="+yzq/OraStVZUJVGN6tc4w==" />
+    <Entry Key="1318327375" Encryption="3824742374" FilePath="/Assets/ssd/script/mission/defense/BaseBaseDigging.lua" Compressed="false" Version="2" DataHash="Gvprn1UJTz74yHHL4PrZlg==" />
+    <Entry Key="1618005441" Encryption="3824742374" FilePath="/Assets/ssd/script/mission/demo_block.lua" Compressed="false" Version="2" DataHash="1TcjOWX+VAs4jTMNKVXygQ==" />
+    <Entry Hash="1793410494194554201" Key="1174468679" Encryption="3824742374" FilePath="37957b2ec9559.lua" Compressed="false" Version="2" DataHash="i+QFPLymd5MTmjJOgCLmlw==" />
+    <Entry Key="1170481222" Encryption="3824742374" FilePath="/Assets/ssd/script/mission/flag/BaseFlagMission.lua" Compressed="false" Version="2" DataHash="mc1WjoEWSlEroYoxgQ64KQ==" />
+    <Entry Hash="1792521658486501830" Key="234938383" Encryption="3824742374" FilePath="50f3824831c6.lua" Compressed="false" Version="2" DataHash="73I8+bvA9HaC7in5dKaJpA==" />
+    <Entry Hash="1792924747898721547" Key="1304492110" Encryption="3824742374" FilePath="1bf8f1382950b.lua" Compressed="false" Version="2" DataHash="KUbIv+G9d0K2P4lRNHNFOw==" />
+    <Entry Hash="1793161078453660075" Key="673453129" Encryption="3824742374" FilePath="29680124969ab.lua" Compressed="false" Version="2" DataHash="mt+CQc9smA3u8lAKEoNP2w==" />
+    <Entry Hash="1792953730981197230" Key="1182798919" Encryption="3824742374" FilePath="1d9eb39d875ae.lua" Compressed="false" Version="2" DataHash="GlgLAuGNa5bR9w40a16KDA==" />
+    <Entry Hash="1792605174555822997" Key="621025350" Encryption="3824742374" FilePath="9ce89bed4b95.lua" Compressed="false" Version="2" DataHash="0jqANt2QkA8g8FnAVsyqWA==" />
+    <Entry Key="2240020998" Encryption="3824742374" FilePath="/Assets/ssd/script/mission/free/BaseFreeMissionDemo.lua" Compressed="false" Version="2" DataHash="D/uIUu0j+lxIrh1f/1dZ5A==" />
+    <Entry Key="3228631105" Encryption="3824742374" FilePath="/Assets/ssd/script/mission/free/BaseFreeMissionEnemy.lua" Compressed="false" Version="2" DataHash="sZvNdswN/qxMuz6eszZ5Xg==" />
+    <Entry Key="4034990161" Encryption="3824742374" FilePath="/Assets/ssd/script/mission/free/BaseFreeMissionRadio.lua" Compressed="false" Version="2" DataHash="I7bB33X3LQq0S2Qc6GIMCA==" />
+    <Entry Key="1752235977" Encryption="3824742374" FilePath="/Assets/ssd/script/mission/free/BaseFreeMissionSequence.lua" Compressed="false" Version="2" DataHash="lZYdTAj5PHh67o9o2MWrlA==" />
+    <Entry Key="2374025230" Encryption="3824742374" FilePath="/Assets/ssd/script/mission/herbivore_block.lua" Compressed="false" Version="2" DataHash="5g0sZuTpAxCANuKFppsSIg==" />
+    <Entry Key="275825425" Encryption="3824742374" FilePath="/Assets/ssd/script/mission/order_box_block.lua" Compressed="false" Version="2" DataHash="BqVfarq/R9ofTPcz9flc4A==" />
+    <Entry Key="2223045637" Encryption="3824742374" FilePath="/Assets/ssd/script/mission/quest/AnimalQuest.lua" Compressed="false" Version="2" DataHash="5egTek2LmWbvK2iOpVw90A==" />
+    <Entry Key="1887565777" Encryption="3824742374" FilePath="/Assets/ssd/script/mission/quest/AnnihilationQuest.lua" Compressed="false" Version="2" DataHash="a+adsJQRdZ9WifJlUri9hQ==" />
+    <Entry Key="260044816" Encryption="3824742374" FilePath="/Assets/ssd/script/mission/quest/BaseQuest.lua" Compressed="false" Version="2" DataHash="n1R4nXMCs+6euBgpSPQ+Pw==" />
+    <Entry Key="3963592269" Encryption="3824742374" FilePath="/Assets/ssd/script/mission/quest/BossQuest.lua" Compressed="false" Version="2" DataHash="J6Tlo4HzNRfsCLG7PgM9Uw==" />
+    <Entry Key="1879046096" Encryption="3824742374" FilePath="/Assets/ssd/script/mission/quest/CollectionQuest.lua" Compressed="false" Version="2" DataHash="lpk8YKv+1rxYbOxKCvU3Lw==" />
+    <Entry Key="3951297100" Encryption="3824742374" FilePath="/Assets/ssd/script/mission/quest/DefenseQuest.lua" Compressed="false" Version="2" DataHash="R5X6OdkUuCAM/W8IeRJKZw==" />
+    <Entry Key="134290185" Encryption="3824742374" FilePath="/Assets/ssd/script/mission/quest/ExtraDiggingQuest.lua" Compressed="false" Version="2" DataHash="+Mnhl85fKYMRLOZ9Q+vqgg==" />
+    <Entry Key="4026796625" Encryption="3824742374" FilePath="/Assets/ssd/script/mission/quest/RescueQuest.lua" Compressed="false" Version="2" DataHash="mnnEAplqLRAyS5EH5dtErA==" />
+    <Entry Key="1333330000" Encryption="3824742374" FilePath="/Assets/ssd/script/mission/quest/VehicleQuest.lua" Compressed="false" Version="2" DataHash="Sipokln8lngTbXGlyuxb0w==" />
+    <Entry FilePath="/Assets/ssd/sound/asset/Init.bnk" Compressed="false" Version="2" DataHash="ugC79wVevlfyol7I3jwoWQ==" />
+    <Entry Key="3755540576" Encryption="3824742374" FilePath="/Assets/ssd/sound/scripts/chara/SoundTppAnimal.lua" Compressed="false" Version="2" DataHash="te1Eb7UONteDM006kgjczA==" />
+    <Entry Key="4013949008" Encryption="3824742374" FilePath="/Assets/ssd/sound/scripts/chara/SoundTppPlayer.lua" Compressed="false" Version="2" DataHash="/8LHgSkA2zmNtqwZ0QyFvw==" />
+    <Entry Key="21036802" Encryption="3824742374" FilePath="/Assets/ssd/sound/scripts/chara/SoundTppSoldier.lua" Compressed="false" Version="2" DataHash="8C68Z9fUvQJGSiCArI+1zw==" />
+    <Entry Key="4060284499" Encryption="3824742374" FilePath="/Assets/ssd/sound/scripts/motion/setup.lua" Compressed="false" Version="2" DataHash="+HfnjNCBPrFM1RdzRoK/Uw==" />
+    <Entry FilePath="/Assets/ssd/ui/Font/KanjiFont.ffnt" Compressed="false" Version="2" DataHash="UI93nzHFHz5hWcVRiqq6fg==" />
+    <Entry FilePath="/Assets/ssd/ui/Font/LatinFont.ffnt" Compressed="false" Version="2" DataHash="bKeEShJdMAZr6qIgvQ1uuw==" />
+    <Entry FilePath="/Assets/ssd/ui/Font/chinese.ffnt" Compressed="false" Version="2" DataHash="dxXTttkfoBpLhNdJ6YccSw==" />
+    <Entry FilePath="/Assets/ssd/ui/Font/font_def_chn.ffnt" Compressed="false" Version="2" DataHash="umA6olH9C4xkyFkethahwg==" />
+    <Entry FilePath="/Assets/ssd/ui/Font/font_def_hgl.ffnt" Compressed="false" Version="2" DataHash="rQym2CmNrrILEvXSqjvdWQ==" />
+    <Entry FilePath="/Assets/ssd/ui/Font/font_def_jp.ffnt" Compressed="false" Version="2" DataHash="I7FaH9E7bHefcZLluPNaDA==" />
+    <Entry Hash="3918716512684014784" FilePath="213e7f1fcfcc0.ffnt" Compressed="false" Version="2" DataHash="gNG8+GFBiMmwqiBf4NYPBw==" />
+    <Entry FilePath="/Assets/ssd/ui/Font/font_def_ltn.ffnt" Compressed="false" Version="2" DataHash="83quJemIrRUVJsQ8d4aR3Q==" />
+    <Entry FilePath="/Assets/ssd/ui/Font/font_def_ltn_name.ffnt" Compressed="false" Version="2" DataHash="l/FxvyHd+OANXIIfeg8MuQ==" />
+    <Entry FilePath="/Assets/ssd/ui/Font/font_def_rus.ffnt" Compressed="false" Version="2" DataHash="3rxqb+rd7oQRdpTMyJwo2A==" />
+    <Entry FilePath="/Assets/ssd/ui/Font/hangle.ffnt" Compressed="false" Version="2" DataHash="gNoZhsyU4VYVad0jCRAC2Q==" />
+    <Entry FilePath="/Assets/ssd/ui/Font/russian.ffnt" Compressed="false" Version="2" DataHash="0midEpixCS6fUCH45GzLog==" />
+    <Entry Key="1880166353" Encryption="3824742374" FilePath="/Assets/ssd/ui/Script/UiRegisterInfo.lua" Compressed="false" Version="2" DataHash="goMZ4dXGYo8zfrvbLQZRGg==" />
+    <Entry Key="234880782" Encryption="3824742374" FilePath="/Assets/ssd/ui/Script/avatar_presets_women.lua" Compressed="false" Version="2" DataHash="q6oWesVu/WdaB7H7otqGcQ==" />
+    <Entry Key="255918096" Encryption="3824742374" FilePath="/Assets/ssd/ui/Script/mbdvc_map_location_parameter.lua" Compressed="false" Version="2" DataHash="k+naZvfixGfoV4H34rn+5w==" />
+    <Entry Key="188489740" Encryption="3824742374" FilePath="/Assets/ssd/ui/Script/mbdvc_map_mbstage_parameter.lua" Compressed="false" Version="2" DataHash="+/9RsMHVV1B4FSw6mLcRJg==" />
+    <Entry Key="188465164" Encryption="3824742374" FilePath="/Assets/ssd/ui/Script/mbdvc_map_mission_parameter.lua" Compressed="false" Version="2" DataHash="dVD92gyua45eS6YSUQcwjA==" />
+    <Entry Key="4270065759" Encryption="3824742374" FilePath="/Assets/ssd/ui/Script/mbdvc_pause_help_table.lua" Compressed="false" Version="2" DataHash="f5bJCA9ViLMozlTSuLt3OA==" />
+    <Entry FilePath="/Assets/tpp/font/KanjiFont.ffnt" Compressed="false" Version="2" DataHash="b0nZU6oF1WQteGSZyR9w+A==" />
+    <Entry FilePath="/Assets/tpp/font/LatinFont.ffnt" Compressed="false" Version="2" DataHash="Nw1Le46vddscwNmt3HdgGw==" />
+    <Entry FilePath="/Assets/tpp/font/font_def_jp.ffnt" Compressed="false" Version="2" DataHash="7B3qSSSgFe12nXbTRxMD7A==" />
+    <Entry FilePath="/Assets/tpp/font/font_def_ltn.ffnt" Compressed="false" Version="2" DataHash="Y2vBkN8yAe63PIAihtWdNg==" />
+    <Entry FilePath="/Assets/tpp/font/font_def_rus.ffnt" Compressed="false" Version="2" DataHash="7Jpv/DG3y+OsUmvBudOfrA==" />
+    <Entry FilePath="/Assets/tpp/font/russian.ffnt" Compressed="false" Version="2" DataHash="LN6+gL/jtTXui3poml+tqQ==" />
+    <Entry Key="1770061770" Encryption="3824742374" FilePath="/Assets/tpp/level_asset/chara/player/game_object/TppPlayer2CallbackScript.lua" Compressed="false" Version="2" DataHash="CIzvRjAIJxU6aGNx9vlXvQ==" />
+    <Entry Key="1074012225" Encryption="3824742374" FilePath="/Assets/tpp/level_asset/chara/player/game_object/TppPlayer2InitializeScript.lua" Compressed="false" Version="2" DataHash="TF0bW4IqQH+VZ/nhbCIV8A==" />
+    <Entry Key="2423523345" Encryption="3824742374" FilePath="/Assets/tpp/level_asset/chara/player/game_object/player2_camouf_param.lua" Compressed="false" Version="2" DataHash="L8cHY1uEv+6eYrlwckCISw==" />
+    <Entry Key="3220626221" Encryption="3824742374" FilePath="/Assets/tpp/level_asset/cpradio/CpRadioSeqCommon.json" Compressed="false" Version="2" DataHash="POcl9gvZSY9mrXZPK63glg==" />
+    <Entry Key="260281104" Encryption="3824742374" FilePath="/Assets/tpp/level_asset/damage/ParameterTables/DamageParameterTables.lua" Compressed="false" Version="2" DataHash="t5clojvZllGVwmaZ+TPovg==" />
+    <Entry Key="2139226080" Encryption="3824742374" FilePath="/Assets/tpp/level_asset/weapon/ParameterTables/EquipParameterTables.lua" Compressed="false" Version="2" DataHash="uff0AYan7uKs8SNlpu6DSQ==" />
+    <Entry Key="125829896" Encryption="3824742374" FilePath="/Assets/tpp/level_asset/weapon/ParameterTables/RecoilMaterial/RecoilMaterialTable.lua" Compressed="false" Version="2" DataHash="pOnIRujnp9b0aQ8zvZ48Eg==" />
+    <Entry Key="1798425036" Encryption="3824742374" FilePath="/Assets/tpp/level_asset/weapon/ParameterTables/parts/EquipMotionDataForChimera.lua" Compressed="false" Version="2" DataHash="PKaxk/tj098Zm5UxeMrm7Q==" />
+    <Entry Key="763428942" Encryption="3824742374" FilePath="/Assets/tpp/level_asset/weapon/ParameterTables/parts/EquipParameters.lua" Compressed="false" Version="2" DataHash="r0mRqb9HMEqBTP0fIrAPsw==" />
+    <Entry Key="2371092494" Encryption="3824742374" FilePath="/Assets/tpp/motherbase/gmpEarnMissions.lua" Compressed="false" Version="2" DataHash="ptnjr96lh3yxM7M4E3JpVw==" />
+    <Entry Key="1335107664" Encryption="3824742374" FilePath="/Assets/tpp/motherbase/script/EquipDevelopConstSetting.lua" Compressed="false" Version="2" DataHash="pxtesC+3L53URX/AmaW9ig==" />
+    <Entry Key="244383759" Encryption="3824742374" FilePath="/Assets/tpp/motherbase/script/EquipDevelopFlowSetting.lua" Compressed="false" Version="2" DataHash="Va2prt1snOca+vSyhpiZtg==" />
+    <Entry Key="1080696897" Encryption="3824742374" FilePath="/Assets/tpp/motherbase/script/MbmCommonSetting.lua" Compressed="false" Version="2" DataHash="Btyl+YBwQjSM/gPoki/9UQ==" />
+    <Entry Key="2806252104" Encryption="3824742374" FilePath="/Assets/tpp/motherbase/script/MbmCommonSetting20BaseResSec.lua" Compressed="false" Version="2" DataHash="gThrssfxloqivTxryHqO2A==" />
+    <Entry Key="108789511" Encryption="3824742374" FilePath="/Assets/tpp/motherbase/script/MbmCommonSetting30Deploy.lua" Compressed="false" Version="2" DataHash="3mFKCB5edtS94BPNAUOTcg==" />
+    <Entry Key="195608588" Encryption="3824742374" FilePath="/Assets/tpp/motherbase/script/MbmCommonSetting40RewardDeploy.lua" Compressed="false" Version="2" DataHash="iwdAxrrHH7QvBOE48E0vPQ==" />
+    <Entry Key="4202241" Encryption="3824742374" FilePath="/Assets/tpp/motherbase/script/MbmCommonSetting50RewardFob.lua" Compressed="false" Version="2" DataHash="RfmGej6YuYjqaJ5TeweL8g==" />
+    <Entry Key="3226606657" Encryption="3824742374" FilePath="/Assets/tpp/motherbase/script/MbmCommonSetting60DbPfLang.lua" Compressed="false" Version="2" DataHash="WV1RrCDUHdcc1Z10QfjPOw==" />
+    <Entry Key="60031748" Encryption="3824742374" FilePath="/Assets/tpp/motherbase/script/MotherBaseWeaponSpecSetting.lua" Compressed="false" Version="2" DataHash="1Qwp1Y1eEmzqqdA/wV5mwg==" />
+    <Entry Key="232001294" Encryption="3824742374" FilePath="/Assets/tpp/motherbase/script/WeaponPartsCombinationSettings.lua" Compressed="false" Version="2" DataHash="MW/jfg3YWnLfFB+zSHaLNQ==" />
+    <Entry Key="250224399" Encryption="3824742374" FilePath="/Assets/tpp/motherbase/script/WeaponPartsUiSetting.lua" Compressed="false" Version="2" DataHash="3AyjnNPvLJfXpgrHiqKVyA==" />
+    <Entry Key="67372805" Encryption="3824742374" FilePath="/Assets/tpp/radio/script/RadioParameterTable.lua" Compressed="false" Version="2" DataHash="Jo+1dTraTdpRbiI8aYZwsQ==" />
+    <Entry Key="3877172808" Encryption="3824742374" FilePath="/Assets/tpp/script/lib/Tpp.lua" Compressed="false" Version="2" DataHash="lP0Rdw2lWCcJ6fthwcm49A==" />
+    <Entry Key="3656982618" Encryption="3824742374" FilePath="/Assets/tpp/script/lib/TppAnimal.lua" Compressed="false" Version="2" DataHash="YkbtsDv0rgILaXDoisvh3Q==" />
+    <Entry Key="3310551622" Encryption="3824742374" FilePath="/Assets/tpp/script/lib/TppAnimalBlock.lua" Compressed="false" Version="2" DataHash="FLljoyJgvAT0SgDC5Q5zEA==" />
+    <Entry Key="1333006416" Encryption="3824742374" FilePath="/Assets/tpp/script/lib/TppCassette.lua" Compressed="false" Version="2" DataHash="t5MNpTk2gtC3uaszBpfMZA==" />
+    <Entry Key="249764623" Encryption="3824742374" FilePath="/Assets/tpp/script/lib/TppCheckPoint.lua" Compressed="false" Version="2" DataHash="3IbL8NnhUJm/iCnDdieHFA==" />
+    <Entry Key="4015264336" Encryption="3824742374" FilePath="/Assets/tpp/script/lib/TppClock.lua" Compressed="false" Version="2" DataHash="EbxzslK3YYXjgYlNge6JNw==" />
+    <Entry Key="264422160" Encryption="3824742374" FilePath="/Assets/tpp/script/lib/TppCollection.lua" Compressed="false" Version="2" DataHash="tPUL8s8rYVkgSG+nXPJZiA==" />
+    <Entry Key="3946907212" Encryption="3824742374" FilePath="/Assets/tpp/script/lib/TppDbgStr32.lua" Compressed="false" Version="2" DataHash="KMHEvnu73slvqdMZB7fNRQ==" />
+    <Entry Key="257164048" Encryption="3824742374" FilePath="/Assets/tpp/script/lib/TppDebug.lua" Compressed="false" Version="2" DataHash="gYLf67OgtyeFWs6dZsp3tg==" />
+    <Entry Key="2256732167" Encryption="3824742374" FilePath="/Assets/tpp/script/lib/TppDebugMbDevelop.lua" Compressed="false" Version="2" DataHash="lvDbWYzHG9TivK+ouU73lg==" />
+    <Entry Key="4236320861" Encryption="3824742374" FilePath="/Assets/tpp/script/lib/TppDefine.lua" Compressed="false" Version="2" DataHash="OW+ouL+in3z8ssBtjSoC+A==" />
+    <Entry Key="268377872" Encryption="3824742374" FilePath="/Assets/tpp/script/lib/TppDemo.lua" Compressed="false" Version="2" DataHash="GACcVPc+NxoqatrSFvAY6g==" />
+    <Entry Key="3498246225" Encryption="3824742374" FilePath="/Assets/tpp/script/lib/TppDemoBlock.lua" Compressed="false" Version="2" DataHash="viOfsZkPV3i+XuHiRHWu3w==" />
+    <Entry Key="4285596256" Encryption="3824742374" FilePath="/Assets/tpp/script/lib/TppDevelopFile.lua" Compressed="false" Version="2" DataHash="znQtX0BlslzXNjemDH/ibg==" />
+    <Entry Key="3928563787" Encryption="3824742374" FilePath="/Assets/tpp/script/lib/TppEmblem.lua" Compressed="false" Version="2" DataHash="oTqBZZffM3pG5BeLdULouw==" />
+    <Entry Key="4264829023" Encryption="3824742374" FilePath="/Assets/tpp/script/lib/TppEneFova.lua" Compressed="false" Version="2" DataHash="YA5GP6eIsu+hIMhB7c9oQA==" />
+    <Entry Key="4294689376" Encryption="3824742374" FilePath="/Assets/tpp/script/lib/TppEnemy.lua" Compressed="false" Version="2" DataHash="0Yo8ndmi4XfJKrgpx2Korw==" />
+    <Entry Key="1350697041" Encryption="3824742374" FilePath="/Assets/tpp/script/lib/TppException.lua" Compressed="false" Version="2" DataHash="YaYEgiMTYdyfN2IDv3ZGOQ==" />
+    <Entry Key="1518602075" Encryption="3824742374" FilePath="/Assets/tpp/script/lib/TppFreeHeliRadio.lua" Compressed="false" Version="2" DataHash="utdycxbnyK+hGRU758cGEw==" />
+    <Entry Key="266273552" Encryption="3824742374" FilePath="/Assets/tpp/script/lib/TppGVars.lua" Compressed="false" Version="2" DataHash="APee9zhZ812/fOoTh1nJtw==" />
+    <Entry Key="260054800" Encryption="3824742374" FilePath="/Assets/tpp/script/lib/TppGeneInter.lua" Compressed="false" Version="2" DataHash="UWI4ZSB48krWVEeEJzTLKw==" />
+    <Entry Key="1272193100" Encryption="3824742374" FilePath="/Assets/tpp/script/lib/TppGimmick.lua" Compressed="false" Version="2" DataHash="g3yOeiQlSIVkA8Wz8tb3Wg==" />
+    <Entry Key="277088017" Encryption="3824742374" FilePath="/Assets/tpp/script/lib/TppHelicopter.lua" Compressed="false" Version="2" DataHash="3/yajvwmdogRAu9P0Usuyw==" />
+    <Entry Key="4026498640" Encryption="3824742374" FilePath="/Assets/tpp/script/lib/TppHero.lua" Compressed="false" Version="2" DataHash="3e/Zmtv46/1jPoFQvD/oTw==" />
+    <Entry Key="1174477895" Encryption="3824742374" FilePath="/Assets/tpp/script/lib/TppInterrogation.lua" Compressed="false" Version="2" DataHash="6CSdVDoYQVJR84GyhX4FXw==" />
+    <Entry Key="209715981" Encryption="3824742374" FilePath="/Assets/tpp/script/lib/TppLandingZone.lua" Compressed="false" Version="2" DataHash="qBUZltUgc0VA+y8juaxWOA==" />
+    <Entry Key="243337999" Encryption="3824742374" FilePath="/Assets/tpp/script/lib/TppLocation.lua" Compressed="false" Version="2" DataHash="CCmWb0zzVOgnlDYSALhYBg==" />
+    <Entry Key="268420880" Encryption="3824742374" FilePath="/Assets/tpp/script/lib/TppMain.lua" Compressed="false" Version="2" DataHash="uAuj1q0u9glT8CnX9ndSPw==" />
+    <Entry Key="4015267920" Encryption="3824742374" FilePath="/Assets/tpp/script/lib/TppMarker.lua" Compressed="false" Version="2" DataHash="eO9CfWfnFE+qaG4fP2z0Rg==" />
+    <Entry Key="4018127952" Encryption="3824742374" FilePath="/Assets/tpp/script/lib/TppMath.lua" Compressed="false" Version="2" DataHash="RWSXp20u5Ez/zcR5ntH8Uw==" />
+    <Entry Key="1349656401" Encryption="3824742374" FilePath="/Assets/tpp/script/lib/TppMbFreeDemo.lua" Compressed="false" Version="2" DataHash="CWPpRj9RqpdarzwxdoVGGg==" />
+    <Entry Key="3967884877" Encryption="3824742374" FilePath="/Assets/tpp/script/lib/TppMission.lua" Compressed="false" Version="2" DataHash="75aOWmi8jhErKuQ3BLXf/w==" />
+    <Entry Key="4284092000" Encryption="3824742374" FilePath="/Assets/tpp/script/lib/TppMovie.lua" Compressed="false" Version="2" DataHash="pYaJxElaL31FUhYbAhLk0g==" />
+    <Entry Key="4018409552" Encryption="3824742374" FilePath="/Assets/tpp/script/lib/TppPackList.lua" Compressed="false" Version="2" DataHash="cP2BGlgKgvFDhbZVeav4gQ==" />
+    <Entry Key="3749705824" Encryption="3824742374" FilePath="/Assets/tpp/script/lib/TppPaz.lua" Compressed="false" Version="2" DataHash="6NSuqbfCksXA+ohXQoG8mA==" />
+    <Entry Key="4035124305" Encryption="3824742374" FilePath="/Assets/tpp/script/lib/TppPlayer.lua" Compressed="false" Version="2" DataHash="1p8DO6mr27A294CC7/OGyA==" />
+    <Entry Key="268436241" Encryption="3824742374" FilePath="/Assets/tpp/script/lib/TppQuest.lua" Compressed="false" Version="2" DataHash="UveboBrwE/18Y6iW+7HP0A==" />
+    <Entry Key="4286562912" Encryption="3824742374" FilePath="/Assets/tpp/script/lib/TppRadio.lua" Compressed="false" Version="2" DataHash="PVOlaK/3ZYz+/5ZKgifG4Q==" />
+    <Entry Key="4271119967" Encryption="3824742374" FilePath="/Assets/tpp/script/lib/TppRanking.lua" Compressed="false" Version="2" DataHash="PHguVwYow3GiJ3j+2DsdwQ==" />
+    <Entry Key="109321991" Encryption="3824742374" FilePath="/Assets/tpp/script/lib/TppRatBird.lua" Compressed="false" Version="2" DataHash="tYPNfiKbJN0I2mjas4sVpA==" />
+    <Entry Key="2916155982" Encryption="3824742374" FilePath="/Assets/tpp/script/lib/TppReinforceBlock.lua" Compressed="false" Version="2" DataHash="LtywpAuk0izVgBBux2PIAw==" />
+    <Entry Key="4232315485" Encryption="3824742374" FilePath="/Assets/tpp/script/lib/TppResult.lua" Compressed="false" Version="2" DataHash="Z7wfSD8/n1DYpNOj00wfZA==" />
+    <Entry Key="8650497" Encryption="3824742374" FilePath="/Assets/tpp/script/lib/TppRevenge.lua" Compressed="false" Version="2" DataHash="LwIMmmOXDk9mc3brVuhskw==" />
+    <Entry Key="4282654304" Encryption="3824742374" FilePath="/Assets/tpp/script/lib/TppReward.lua" Compressed="false" Version="2" DataHash="CFHEebhKipyAyBfzswLDKQ==" />
+    <Entry Key="4018148432" Encryption="3824742374" FilePath="/Assets/tpp/script/lib/TppSave.lua" Compressed="false" Version="2" DataHash="4z5lWpUYFcCM2V3ifURLgQ==" />
+    <Entry Key="142672649" Encryption="3824742374" FilePath="/Assets/tpp/script/lib/TppScriptBlock.lua" Compressed="false" Version="2" DataHash="X1fEqQDMUYVC/3rUo1r8cQ==" />
+    <Entry Key="259261200" Encryption="3824742374" FilePath="/Assets/tpp/script/lib/TppSequence.lua" Compressed="false" Version="2" DataHash="8n9Uj2kspnXKWbUPowKmxA==" />
+    <Entry Key="4278455904" Encryption="3824742374" FilePath="/Assets/tpp/script/lib/TppSound.lua" Compressed="false" Version="2" DataHash="6vE1o9+Ot1ywBVPwl5XFvQ==" />
+    <Entry Key="274993937" Encryption="3824742374" FilePath="/Assets/tpp/script/lib/TppStory.lua" Compressed="false" Version="2" DataHash="Ed3tvwXnim01cW83CQ2KRg==" />
+    <Entry Key="4286841440" Encryption="3824742374" FilePath="/Assets/tpp/script/lib/TppTelop.lua" Compressed="false" Version="2" DataHash="VukdFIK7E7i030N/nLN3XQ==" />
+    <Entry Key="277086993" Encryption="3824742374" FilePath="/Assets/tpp/script/lib/TppTerminal.lua" Compressed="false" Version="2" DataHash="k4WfRMyKQ7lZzxLAvQpqGQ==" />
+    <Entry Key="268435216" Encryption="3824742374" FilePath="/Assets/tpp/script/lib/TppTrap.lua" Compressed="false" Version="2" DataHash="ngLG610tBZ1jAmfLOK+cYg==" />
+    <Entry Key="3953729612" Encryption="3824742374" FilePath="/Assets/tpp/script/lib/TppTrophy.lua" Compressed="false" Version="2" DataHash="uL690pOcaiBAkY3PCc9LTQ==" />
+    <Entry Key="1350836305" Encryption="3824742374" FilePath="/Assets/tpp/script/lib/TppTutorial.lua" Compressed="false" Version="2" DataHash="NsJgGRVcXdp8md5lBE2+Bg==" />
+    <Entry Key="2942566480" Encryption="3824742374" FilePath="/Assets/tpp/script/lib/TppUI.lua" Compressed="false" Version="2" DataHash="y8DGXb02Vq0ZGQ4uHiS9RQ==" />
+    <Entry Key="8404737" Encryption="3824742374" FilePath="/Assets/tpp/script/lib/TppVarInit.lua" Compressed="false" Version="2" DataHash="SQrUvQzuXobkXbeccwZuaQ==" />
+    <Entry Key="2403409424" Encryption="3824742374" FilePath="/Assets/tpp/script/lib/TppWeather.lua" Compressed="false" Version="2" DataHash="woiUH9rOzlGV/+E+IVbUZQ==" />
+    <Entry FilePath="/Assets/tpp/sound/asset/Init.bnk" Compressed="false" Version="2" DataHash="ZwN1WVSVQePq5J0LyCCVpA==" />
+    <Entry Key="3755540576" Encryption="3824742374" FilePath="/Assets/tpp/sound/scripts/chara/SoundTppAnimal.lua" Compressed="false" Version="2" DataHash="Kt04iSfDAnKvwXfAf6lv0w==" />
+    <Entry Key="4013949008" Encryption="3824742374" FilePath="/Assets/tpp/sound/scripts/chara/SoundTppPlayer.lua" Compressed="false" Version="2" DataHash="vx18CabIdymdCgy6iq+t4Q==" />
+    <Entry Key="21036802" Encryption="3824742374" FilePath="/Assets/tpp/sound/scripts/chara/SoundTppSoldier.lua" Compressed="false" Version="2" DataHash="j+7qOD0SdN0DGkK8fM+3Yg==" />
+    <Entry Key="4060284499" Encryption="3824742374" FilePath="/Assets/tpp/sound/scripts/motion/setup.lua" Compressed="false" Version="2" DataHash="+HfnjNCBPrFM1RdzRoK/Uw==" />
+    <Entry Key="4286848608" Encryption="3824742374" FilePath="/Assets/tpp/sound/scripts/tape/PreinstallTape.lua" Compressed="false" Version="2" DataHash="U1fLarlR+Va6ijTJg2W+Cg==" />
+    <Entry Key="1880166353" Encryption="3824742374" FilePath="/Assets/tpp/ui/Script/UiRegisterInfo.lua" Compressed="false" Version="2" DataHash="TyKrUJTv8j5BoLdPZf5Zag==" />
+    <Entry Key="124846856" Encryption="3824742374" FilePath="/Assets/tpp/ui/Script/avatar_presets.lua" Compressed="false" Version="2" DataHash="eu39X56sSLQDlnpETR5b6A==" />
+    <Entry Key="3990878798" Encryption="3824742374" FilePath="/Assets/tpp/ui/Script/emblem_list.lua" Compressed="false" Version="2" DataHash="x2k9dAGs6tIdOqNNBpdVxw==" />
+    <Entry Key="2079588828" Encryption="3824742374" FilePath="/Assets/tpp/ui/Subtitles/script/priorityTable.lua" Compressed="false" Version="2" DataHash="6Wv4A9pbo2A5D3bCLme76Q==" />
+    <Entry FilePath="/Assets/tpp/ui/Subtitles/subp/EngVoice/ChtText/common.subp" Compressed="false" Version="2" DataHash="ki4cG6XjiMFHD/pGSaD27A==" />
+    <Entry FilePath="/Assets/tpp/ui/Subtitles/subp/EngVoice/ChtText/common_str.subp" Compressed="false" Version="2" DataHash="LVS4aCnXXUUw22IDf8Szuw==" />
+    <Entry FilePath="/Assets/tpp/ui/Subtitles/subp/EngVoice/EngText/common.subp" Compressed="false" Version="2" DataHash="ocD/SZ0kQUeI0C5+fg6Tlg==" />
+    <Entry FilePath="/Assets/tpp/ui/Subtitles/subp/EngVoice/EngText/common_str.subp" Compressed="false" Version="2" DataHash="HHzPUnC32Xqfu6rvfOgxfw==" />
+    <Entry FilePath="/Assets/tpp/ui/Subtitles/subp/EngVoice/EngText/dd_female_a.subp" Compressed="false" Version="2" DataHash="xEpuY6jIcqvst4P5JDcaCA==" />
+    <Entry FilePath="/Assets/tpp/ui/Subtitles/subp/EngVoice/EngText/dd_male_a.subp" Compressed="false" Version="2" DataHash="uXCTCIxuGDuzwzA3eC75YA==" />
+    <Entry FilePath="/Assets/tpp/ui/Subtitles/subp/EngVoice/EngText/snake.subp" Compressed="false" Version="2" DataHash="Xb2ibg71ENyjep1YNYZF+w==" />
+    <Entry FilePath="/Assets/tpp/ui/Subtitles/subp/EngVoice/FreText/common.subp" Compressed="false" Version="2" DataHash="S25SWp86i917LbkbPa+1eg==" />
+    <Entry FilePath="/Assets/tpp/ui/Subtitles/subp/EngVoice/FreText/common_str.subp" Compressed="false" Version="2" DataHash="v8nG8XQQRUedw3Z44wc95A==" />
+    <Entry FilePath="/Assets/tpp/ui/Subtitles/subp/EngVoice/GerText/common.subp" Compressed="false" Version="2" DataHash="DAn01TOdg5p6gAnjBHgZ6A==" />
+    <Entry FilePath="/Assets/tpp/ui/Subtitles/subp/EngVoice/GerText/common_str.subp" Compressed="false" Version="2" DataHash="TgbbF5o5Jtg/xMNo/b6voQ==" />
+    <Entry FilePath="/Assets/tpp/ui/Subtitles/subp/EngVoice/ItaText/common.subp" Compressed="false" Version="2" DataHash="MFj9PP5o3NZPe3CdDPjXOg==" />
+    <Entry FilePath="/Assets/tpp/ui/Subtitles/subp/EngVoice/ItaText/common_str.subp" Compressed="false" Version="2" DataHash="et8WE5+9w1ihylxOHbogwg==" />
+    <Entry FilePath="/Assets/tpp/ui/Subtitles/subp/EngVoice/JpnText/common.subp" Compressed="false" Version="2" DataHash="iUQNWOgiGemFRxYgoZBIqg==" />
+    <Entry FilePath="/Assets/tpp/ui/Subtitles/subp/EngVoice/JpnText/common_str.subp" Compressed="false" Version="2" DataHash="Wx2Xti4JEDwkwcSEaEZcnw==" />
+    <Entry FilePath="/Assets/tpp/ui/Subtitles/subp/EngVoice/KorText/common.subp" Compressed="false" Version="2" DataHash="TPtAwQ6XbCvekrr71/0ihg==" />
+    <Entry FilePath="/Assets/tpp/ui/Subtitles/subp/EngVoice/KorText/common_str.subp" Compressed="false" Version="2" DataHash="FH0piYtfvNir5PtiawNBUA==" />
+    <Entry FilePath="/Assets/tpp/ui/Subtitles/subp/EngVoice/PorText/common.subp" Compressed="false" Version="2" DataHash="INfweUqKKk5JaT5TDFRMvg==" />
+    <Entry FilePath="/Assets/tpp/ui/Subtitles/subp/EngVoice/PorText/common_str.subp" Compressed="false" Version="2" DataHash="wNYNT4dVyzcX5sLKTICtGA==" />
+    <Entry FilePath="/Assets/tpp/ui/Subtitles/subp/EngVoice/RusText/common.subp" Compressed="false" Version="2" DataHash="Zm8VATfIvuqGUmMH5JRsLw==" />
+    <Entry FilePath="/Assets/tpp/ui/Subtitles/subp/EngVoice/RusText/common_str.subp" Compressed="false" Version="2" DataHash="d7HKgDZulNC1W/LllZtzfQ==" />
+    <Entry FilePath="/Assets/tpp/ui/Subtitles/subp/EngVoice/SpaText/common.subp" Compressed="false" Version="2" DataHash="ZiPj92gfkeV15GQiSPAGUA==" />
+    <Entry FilePath="/Assets/tpp/ui/Subtitles/subp/EngVoice/SpaText/common_str.subp" Compressed="false" Version="2" DataHash="SfrqXyvZFGy5QNEm2oWD7Q==" />
+    <Entry FilePath="/Assets/tpp/ui/Subtitles/subp/JpnVoice/EngText/common.subp" Compressed="false" Version="2" DataHash="D3mDbNCg+kjDEjeVHEUvtw==" />
+    <Entry FilePath="/Assets/tpp/ui/Subtitles/subp/JpnVoice/EngText/common_str.subp" Compressed="false" Version="2" DataHash="Iy7CEub7bf4lPYfxRjv/gQ==" />
+    <Entry FilePath="/Assets/tpp/ui/Subtitles/subp/JpnVoice/JpnText/common.subp" Compressed="false" Version="2" DataHash="BXlojuwPqDgWUJGeaJkScw==" />
+    <Entry FilePath="/Assets/tpp/ui/Subtitles/subp/JpnVoice/JpnText/common_str.subp" Compressed="false" Version="2" DataHash="Xb5nM6l1AgLhF5qQxPtQbw==" />
+    <Entry FilePath="/Assets/tpp/ui/Subtitles/subp/JpnVoice/JpnText/dd_female_a.subp" Compressed="false" Version="2" DataHash="MKWZWxP2EeC5UcevlC279A==" />
+    <Entry FilePath="/Assets/tpp/ui/Subtitles/subp/JpnVoice/JpnText/dd_male_a.subp" Compressed="false" Version="2" DataHash="f+qy+9qf62dA8lZ6kn1ojA==" />
+    <Entry FilePath="/Assets/tpp/ui/Subtitles/subp/JpnVoice/JpnText/snake.subp" Compressed="false" Version="2" DataHash="kItSz3bNDgJTcCef2Jv0Lg==" />
+    <Entry Key="1499432794" Encryption="3824742374" FilePath="/init.lua" Compressed="false" MetaFlag="true" Version="2" DataHash="FyjGo/u5aj4DmAkgTQHKVw==" />
+    <Entry Key="2791284807" Encryption="3824742374" FilePath="/shaders/dx11/FxShadersNoLnm_dx11.lua" Compressed="false" MetaFlag="true" Version="2" DataHash="7jEjVt/czQMrElPp93h37A==" />
+    <Entry FilePath="/shaders/dx11/FxShaders_dx11.fsop" Compressed="false" MetaFlag="true" Version="2" DataHash="0e8c+H5XpwrBCg7eWqoIeQ==" />
+    <Entry Key="2388838415" Encryption="3824742374" FilePath="/shaders/dx11/FxShaders_dx11.lua" Compressed="false" MetaFlag="true" Version="2" DataHash="W6nQ7AJ00I78r7FYJUvlvQ==" />
+    <Entry Key="1831864270" Encryption="3824742374" FilePath="/shaders/dx11/GrModelShadersNoLnm_dx11.lua" Compressed="false" MetaFlag="true" Version="2" DataHash="KQcq1uiYMb9E3NrvyNGOMQ==" />
+    <Entry FilePath="/shaders/dx11/GrModelShaders_dx11.fsop" Compressed="false" MetaFlag="true" Version="2" DataHash="m5xBRMS1qD0X4J1c4Exn9Q==" />
+    <Entry Key="4119070294" Encryption="3824742374" FilePath="/shaders/dx11/GrModelShaders_dx11.lua" Compressed="false" MetaFlag="true" Version="2" DataHash="V5tAmUXbYI3baJfMf4PUKg==" />
+    <Entry Key="2805211208" Encryption="3824742374" FilePath="/shaders/dx11/GrSystemShadersNoLnm_dx11.lua" Compressed="false" MetaFlag="true" Version="2" DataHash="U5ldz939GbpNGG0CFKCa1Q==" />
+    <Entry FilePath="/shaders/dx11/GrSystemShaders_dx11.fsop" Compressed="false" MetaFlag="true" Version="2" DataHash="DIA/CMgfUiufa+SDm/btTw==" />
+    <Entry Key="259596304" Encryption="3824742374" FilePath="/shaders/dx11/GrSystemShaders_dx11.lua" Compressed="false" MetaFlag="true" Version="2" DataHash="KnKotqC9ogVHs31dIiolrA==" />
+    <Entry Key="1844453326" Encryption="3824742374" FilePath="/shaders/dx11/TppShadersNoLnm_dx11.lua" Compressed="false" MetaFlag="true" Version="2" DataHash="Od2NpLiimo0x/8dMYcGVSA==" />
+    <Entry FilePath="/shaders/dx11/TppShaders_dx11.fsop" Compressed="false" MetaFlag="true" Version="2" DataHash="dB5dW1tTlDPlQUvnjV5OrA==" />
+    <Entry Key="2791383111" Encryption="3824742374" FilePath="/shaders/dx11/TppShaders_dx11.lua" Compressed="false" MetaFlag="true" Version="2" DataHash="wcpYCIelmJW/0JzDMNXzhQ==" />
+  </Entries>
+</ArchiveFile>
