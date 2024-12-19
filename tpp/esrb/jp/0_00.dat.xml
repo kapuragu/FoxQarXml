@@ -805,10 +805,10 @@
     <Entry FilePath="/Assets/tpp/pack/ui/result_data.fpk" Compressed="true" Version="1" DataHash="nacrQji9xgIBG7BgDwwE7Q==" />
     <Entry FilePath="/Assets/tpp/pack/ui/result_data.fpkd" Compressed="true" Version="1" DataHash="S/DZqOH/jh3v9jzBcpuOrw==" />
     <Entry FilePath="/Assets/tpp/pack/ui/result_data.pftxs" Compressed="false" Version="1" DataHash="2Rl7oBBdCKrkfOZBn2OBbA==" />
-    <Entry Hash="5920867762821927467" FilePath="325dc3510122b.fpk" Compressed="true" Version="1" DataHash="uhtxc2LQDsF35IHqDOqeXw==" />
-    <Entry Hash="17101053837769183787" FilePath="325dc3510122b.fpkd" Compressed="true" Version="1" DataHash="CEWhv/5ycAU+/IyQeIlSSA==" />
-    <Entry Hash="5920844485266887415" FilePath="310b07aa9d2f7.fpk" Compressed="true" Version="1" DataHash="NG+a1YJEpUBMbXUmM20ldg==" />
-    <Entry Hash="17101030560214143735" FilePath="310b07aa9d2f7.fpkd" Compressed="true" Version="1" DataHash="UacrAI7nzWlUeGBlrRLxNw==" />
+    <Entry FilePath="/Assets/tpp/pack/ui/subtitles/JpnVoice/EngText/o50050_subtitles.fpk" Compressed="true" Version="1" DataHash="uhtxc2LQDsF35IHqDOqeXw==" />
+    <Entry FilePath="/Assets/tpp/pack/ui/subtitles/JpnVoice/EngText/o50050_subtitles.fpkd" Compressed="true" Version="1" DataHash="CEWhv/5ycAU+/IyQeIlSSA==" />
+    <Entry FilePath="/Assets/tpp/pack/ui/subtitles/JpnVoice/JpnText/o50050_subtitles.fpk" Compressed="true" Version="1" DataHash="NG+a1YJEpUBMbXUmM20ldg==" />
+    <Entry FilePath="/Assets/tpp/pack/ui/subtitles/JpnVoice/JpnText/o50050_subtitles.fpkd" Compressed="true" Version="1" DataHash="UacrAI7nzWlUeGBlrRLxNw==" />
     <Entry FilePath="/Assets/tpp/pack/ui/ui_bonus_popup.fpk" Compressed="true" Version="1" DataHash="iOWb5lTz5GQF4KTmAVFYPA==" />
     <Entry FilePath="/Assets/tpp/pack/ui/ui_bonus_popup.fpkd" Compressed="true" Version="1" DataHash="JsfkfP+/gihdW2Hr1z7FjQ==" />
     <Entry FilePath="/Assets/tpp/pack/ui/ui_default_data2.pftxs" Compressed="false" Version="1" DataHash="tSQoRUSNJfwgyXwsq0Qr5A==" />
