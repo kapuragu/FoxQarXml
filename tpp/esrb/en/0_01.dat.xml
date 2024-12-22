@@ -495,12 +495,12 @@
     <Entry FilePath="/Assets/tpp/effect/vfx_pic/dust/fx_dstcom02_tm_alp.3.ftexs" Compressed="false" Version="1" DataHash="KOSbKMKMW6t5/vWtowkPmw==" />
     <Entry FilePath="/Assets/tpp/effect/vfx_pic/dust/fx_dstgls03n_ts_alp_clp.2.ftexs" Compressed="false" Version="1" DataHash="3alyah7ZRBEULrnZElcgDA==" />
     <Entry FilePath="/Assets/tpp/effect/vfx_pic/dust/fx_dstgls03n_ts_alp_clp.3.ftexs" Compressed="false" Version="1" DataHash="YZjZamXpYmFdUquBczQLqQ==" />
-    <Entry Hash="13074728956138868025" FilePath="2c4b6752bcd39.2.ftexs" Compressed="false" Version="1" DataHash="SLJHlPspY2GU9/DSbnQbmg==" />
-    <Entry Hash="6276545318623104313" FilePath="2c4b6752bcd39.3.ftexs" Compressed="false" Version="1" DataHash="BvNlFprFa9Swq+g+rLUXkw==" />
+    <Entry FilePath="/Assets/tpp/effect/vfx_pic/item/fx_itmsld02_th_alp_clp.2.ftexs" Compressed="false" Version="1" DataHash="SLJHlPspY2GU9/DSbnQbmg==" />
+    <Entry FilePath="/Assets/tpp/effect/vfx_pic/item/fx_itmsld02_th_alp_clp.3.ftexs" Compressed="false" Version="1" DataHash="BvNlFprFa9Swq+g+rLUXkw==" />
     <Entry FilePath="/Assets/tpp/effect/vfx_pic/smoke/fx_smkcom13_hh_alp_clp.2.ftexs" Compressed="false" Version="1" DataHash="YVbBUP3pHpC4RLndEATNmA==" />
     <Entry FilePath="/Assets/tpp/effect/vfx_pic/smoke/fx_smkcom13_hh_alp_clp.3.ftexs" Compressed="false" Version="1" DataHash="cgrO3JR/QBKzMH6XCvlQLw==" />
-    <Entry Hash="13074553682284900576" FilePath="2254d555df0e0.2.ftexs" Compressed="false" Version="1" DataHash="UAWjrmT8bXscpNikGduqqg==" />
-    <Entry Hash="6276370044769136864" FilePath="2254d555df0e0.3.ftexs" Compressed="false" Version="1" DataHash="rP9tOmCZM7vutYevcQ4G/A==" />
+    <Entry FilePath="/Assets/tpp/effect/vfx_pic/smoke/fx_smkrnganm08_su_alp_clp.2.ftexs" Compressed="false" Version="1" DataHash="UAWjrmT8bXscpNikGduqqg==" />
+    <Entry FilePath="/Assets/tpp/effect/vfx_pic/smoke/fx_smkrnganm08_su_alp_clp.3.ftexs" Compressed="false" Version="1" DataHash="rP9tOmCZM7vutYevcQ4G/A==" />
     <Entry FilePath="/Assets/tpp/effect/vfx_pic/view/fx_viw_dstcir01n_km.2.ftexs" Compressed="false" Version="1" DataHash="BcKWkjoHtiJyuB9FoiV5sw==" />
     <Entry FilePath="/Assets/tpp/environ/object/mother_base/building/mtbs_buld011/sourceimages/mtbs_buld011_wd_srm.2.ftexs" Compressed="false" Version="1" DataHash="WxM7CB1E+LDFwODwl5cifg==" />
     <Entry FilePath="/Assets/tpp/item/cbx/Pictures/cbx7_main2_def_c00_bsm.2.ftexs" Compressed="false" Version="1" DataHash="ytkPFQotaph4bA3MHwhtXA==" />
@@ -533,9 +533,9 @@
     <Entry Hash="13074538298100399220" FilePath="2174f6c83bc74.2.ftexs" Compressed="false" Version="1" DataHash="BZO2ie5Da9EznG64lsOU2A==" />
     <Entry Hash="6276354660584635508" FilePath="2174f6c83bc74.3.ftexs" Compressed="false" Version="1" DataHash="fQ0T+wVqTBfuxDLmdnhrMQ==" />
     <Entry Hash="1543071452218244212" FilePath="2174f6c83bc74.ftex" Compressed="false" Version="1" DataHash="eb6f7iwgxHlxJpBAD5YUeA==" />
-    <Entry Hash="12880392512506772527" FilePath="58bf33913c2f.1.ftexs" Compressed="false" Version="1" DataHash="xdMMUYmdRZK7V7vAnzncJw==" />
-    <Entry Hash="13074047296483703855" FilePath="58bf33913c2f.2.ftexs" Compressed="false" Version="1" DataHash="CiXA2lIduyADbjUvAKEClw==" />
-    <Entry Hash="1542580450601548847" FilePath="58bf33913c2f.ftex" Compressed="false" Version="1" DataHash="5Ka0EhakK7Cv1xIHCmhokA==" />
+    <Entry FilePath="/Assets/tpp/ui/ModelAsset/tpp_common/Pictures/mark_equip_tag_2_alp.1.ftexs" Compressed="false" Version="1" DataHash="xdMMUYmdRZK7V7vAnzncJw==" />
+    <Entry FilePath="/Assets/tpp/ui/ModelAsset/tpp_common/Pictures/mark_equip_tag_2_alp.2.ftexs" Compressed="false" Version="1" DataHash="CiXA2lIduyADbjUvAKEClw==" />
+    <Entry FilePath="/Assets/tpp/ui/ModelAsset/tpp_common/Pictures/mark_equip_tag_2_alp.ftex" Compressed="false" Version="1" DataHash="5Ka0EhakK7Cv1xIHCmhokA==" />
     <Entry FilePath="/Assets/tpp/ui/ModelAsset/tpp_common/Pictures/mark_equip_tag_alp.2.ftexs" Compressed="false" Version="1" DataHash="MYDWb/XymN7oTtCAhA8h4Q==" />
     <Entry Hash="13074918935653283145" FilePath="3717f82a47549.2.ftexs" Compressed="false" Version="1" DataHash="iIglcBoMtmBuaNeI+qt3MA==" />
     <Entry Hash="13074392552073569668" FilePath="192c1485ba584.2.ftexs" Compressed="false" Version="1" DataHash="iIglcBoMtmBuaNeI+qt3MA==" />
@@ -942,10 +942,10 @@
     <Entry Hash="13074689565458694748" FilePath="2a0e319ac025c.2.ftexs" Compressed="false" Version="1" DataHash="cxG4J1HQO8HV0RV5vp+9jQ==" />
     <Entry Hash="6276505927942931036" FilePath="2a0e319ac025c.3.ftexs" Compressed="false" Version="1" DataHash="91sRFSseWl15S+klG+HllA==" />
     <Entry Hash="1543222719576539740" FilePath="2a0e319ac025c.ftex" Compressed="false" Version="1" DataHash="lp4UYiESorODJGsSnD+CqA==" />
-    <Entry Hash="12881381850616727926" FilePath="3dc8b6e2c8976.1.ftexs" Compressed="false" Version="1" DataHash="SHGPljOfmT9znBAtYQT/GA==" />
-    <Entry Hash="1543569788711504246" FilePath="3dc8b6e2c8976.ftex" Compressed="false" Version="1" DataHash="JdapFRcUx0Yrw/VPUHwBCg==" />
-    <Entry Hash="12880941259961606283" FilePath="24bd46caf208b.1.ftexs" Compressed="false" Version="1" DataHash="RHoDFHA4yRgxdLmAvuPoww==" />
-    <Entry Hash="1543129198056382603" FilePath="24bd46caf208b.ftex" Compressed="false" Version="1" DataHash="/+xZkhR4BjYv3EOt33YUuw==" />
+    <Entry FilePath="/Assets/tpp/ui/texture/Terop/terop_fiction_cht_alp_nmp.1.ftexs" Compressed="false" Version="1" DataHash="SHGPljOfmT9znBAtYQT/GA==" />
+    <Entry FilePath="/Assets/tpp/ui/texture/Terop/terop_fiction_cht_alp_nmp.ftex" Compressed="false" Version="1" DataHash="JdapFRcUx0Yrw/VPUHwBCg==" />
+    <Entry FilePath="/Assets/tpp/ui/texture/Terop/terop_fiction_kor_alp_nmp.1.ftexs" Compressed="false" Version="1" DataHash="RHoDFHA4yRgxdLmAvuPoww==" />
+    <Entry FilePath="/Assets/tpp/ui/texture/Terop/terop_fiction_kor_alp_nmp.ftex" Compressed="false" Version="1" DataHash="/+xZkhR4BjYv3EOt33YUuw==" />
     <Entry Hash="13074365111178254970" FilePath="179cc338a5a7a.2.ftexs" Compressed="false" Version="1" DataHash="p/+OanSSVSgafwH1q0AsqQ==" />
     <Entry Hash="6276181473662491258" FilePath="179cc338a5a7a.3.ftexs" Compressed="false" Version="1" DataHash="hTJxFBvfS3EcZOSTBcRQVQ==" />
     <Entry FilePath="/Assets/tpp/weapon/amo/Pictures/am07_main3_def_c00_bsm.2.ftexs" Compressed="false" Version="1" DataHash="PrP3/moLIcAhMEOELIHR7g==" />
