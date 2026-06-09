@@ -854,6 +854,6 @@
     <Entry Key="3990878798" Encryption="3824742374" FilePath="/Assets/tpp/ui/Script/emblem_list.lua" Compressed="false" Version="1" DataHash="x2k9dAGs6tIdOqNNBpdVxw==" />
     <Entry Key="1499432794" Encryption="3824742374" FilePath="/init.lua" Compressed="false" MetaFlag="true" Version="1" DataHash="waMvET1IX63qLSFTSGYbcA==" />
     <Entry FilePath="/shaders/dx11/TppShaders_dx11.fsop" Compressed="false" MetaFlag="true" Version="1" DataHash="784f9gw56y6mip5/+l1dhQ==" />
-    <Entry Key="3414360151" Encryption="3824742374" FilePath="/foxpatch.dat" Compressed="false" MetaFlag="true" Version="1" DataHash="LTK4tmPn/dIwzy5ZWhwnfQ==" />
+    <Entry Key="3414360151" Encryption="3824742374" FilePath="/foxpatch.dat" Compressed="false" MetaFlag="true" Version="1" DataHash="Qi+Nkm3XyrefRxB4dJzLiQ==" />
   </Entries>
 </ArchiveFile>
