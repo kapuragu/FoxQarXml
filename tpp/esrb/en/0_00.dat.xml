@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<ArchiveFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="QarFile" Name="00.dat.original.dat" Flags="3150304" Version="1">
+<ArchiveFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="QarFile" Name="00.dat" Flags="3150304" Version="1">
   <Entries>
     <Entry Key="2785280071" Encryption="3824742374" FilePath="/Fox/Scripts/Gr/gr_init_dx11.lua" Compressed="false" MetaFlag="true" Version="1" DataHash="bjS5cUl95cP7wldVgVcEXA==" />
     <Entry Key="2394102799" Encryption="3824742374" FilePath="/Tpp/Scripts/Equip/ChimeraPartsPackageTable.lua" Compressed="false" MetaFlag="true" Version="1" DataHash="Hw6V8P/ERylqMHmRWnAkvQ==" />
@@ -896,6 +896,6 @@
     <Entry Key="3990878798" Encryption="3824742374" FilePath="/Assets/tpp/ui/Script/emblem_list.lua" Compressed="false" Version="1" DataHash="x2k9dAGs6tIdOqNNBpdVxw==" />
     <Entry Key="1499432794" Encryption="3824742374" FilePath="/init.lua" Compressed="false" MetaFlag="true" Version="1" DataHash="waMvET1IX63qLSFTSGYbcA==" />
     <Entry FilePath="/shaders/dx11/TppShaders_dx11.fsop" Compressed="false" MetaFlag="true" Version="1" DataHash="784f9gw56y6mip5/+l1dhQ==" />
-    <Entry Key="3414360151" Encryption="3824742374" FilePath="/foxpatch.dat" Compressed="false" MetaFlag="true" Version="1" DataHash="1/IfqR5VrMZJDsam3HXvOA==" />
+    <Entry Key="3414360151" Encryption="3824742374" FilePath="/foxpatch.dat" Compressed="false" MetaFlag="true" Version="1" DataHash="I/FhA+qTBkSAmPvK+Rbf2g==" />
   </Entries>
 </ArchiveFile>

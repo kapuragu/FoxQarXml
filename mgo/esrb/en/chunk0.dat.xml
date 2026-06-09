@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 <ArchiveFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="QarFile" Name="chunk0.dat" Flags="3146208" Version="1">
   <Entries>
+    <Entry Key="3564885864" Encryption="3824742374" FilePath="/foxfs.dat" Compressed="false" MetaFlag="true" Version="1" DataHash="ypr1QP+kpIUnmCZ0EvSZzQ==" />
     <Entry Key="1239161930" Encryption="3824742374" FilePath="/Fox/Scripts/Classes/Entity.lua" Compressed="false" MetaFlag="true" Version="1" DataHash="vIIf84Mwji1OsowQUI6p1w==" />
     <Entry Key="1873812432" Encryption="3824742374" FilePath="/Fox/Scripts/Classes/LightUtility.lua" Compressed="false" MetaFlag="true" Version="1" DataHash="PpRGc+jzu3Z4In36bQGP2Q==" />
     <Entry Key="3361273929" Encryption="3824742374" FilePath="/Fox/Scripts/Classes/Pad.lua" Compressed="false" MetaFlag="true" Version="1" DataHash="rg+i5G+/JrdkWKQBnMoMjg==" />
@@ -3801,19 +3802,18 @@
     <Entry Key="1880166353" Encryption="3824742374" FilePath="/Assets/tpp/ui/Script/UiRegisterInfo.lua" Compressed="false" Version="1" DataHash="ETROCRAIE2UuFeDFqQ53TA==" />
     <Entry Key="3990878798" Encryption="3824742374" FilePath="/Assets/tpp/ui/Script/emblem_list.lua" Compressed="false" Version="1" DataHash="R/IXnEzrjl6jQBCb3GKtgA==" />
     <Entry Key="2079588828" Encryption="3824742374" FilePath="/Assets/tpp/ui/Subtitles/script/priorityTable.lua" Compressed="false" Version="1" DataHash="6Wv4A9pbo2A5D3bCLme76Q==" />
-    <Entry Key="3564885864" Encryption="3824742374" FilePath="/foxfs.dat" Compressed="false" MetaFlag="true" Version="1" DataHash="wx1oLMpIAz2B4uasp3m8iQ==" />
     <Entry Key="1499432794" Encryption="3824742374" FilePath="/init.lua" Compressed="false" MetaFlag="true" Version="1" DataHash="waMvET1IX63qLSFTSGYbcA==" />
     <Entry Key="2791284807" Encryption="3824742374" FilePath="/shaders/dx11/FxShadersNoLnm_dx11.lua" Compressed="false" MetaFlag="true" Version="1" DataHash="7jEjVt/czQMrElPp93h37A==" />
-    <Entry FilePath="/shaders/dx11/FxShaders_dx11.fsop" Compressed="false" MetaFlag="true" Version="1" DataHash="wzEi5IcpBr49cUOnVQXJUw==" />
+    <Entry FilePath="/shaders/dx11/FxShaders_dx11.fsop" Compressed="false" MetaFlag="true" Version="1" DataHash="7YNwxBz4jP/oJfsOY6kGyA==" />
     <Entry Key="2388838415" Encryption="3824742374" FilePath="/shaders/dx11/FxShaders_dx11.lua" Compressed="false" MetaFlag="true" Version="1" DataHash="W6nQ7AJ00I78r7FYJUvlvQ==" />
     <Entry Key="1831864270" Encryption="3824742374" FilePath="/shaders/dx11/GrModelShadersNoLnm_dx11.lua" Compressed="false" MetaFlag="true" Version="1" DataHash="CT92P6VcTeewNBntEES6cg==" />
-    <Entry FilePath="/shaders/dx11/GrModelShaders_dx11.fsop" Compressed="false" MetaFlag="true" Version="1" DataHash="ZKIcSydsMBru+P1f+qKkog==" />
+    <Entry FilePath="/shaders/dx11/GrModelShaders_dx11.fsop" Compressed="false" MetaFlag="true" Version="1" DataHash="151c952o9svSr1Nfe4BYig==" />
     <Entry Key="4119070294" Encryption="3824742374" FilePath="/shaders/dx11/GrModelShaders_dx11.lua" Compressed="false" MetaFlag="true" Version="1" DataHash="Qw9iDlfqrpkV5kFOaNEeOw==" />
     <Entry Key="2805211208" Encryption="3824742374" FilePath="/shaders/dx11/GrSystemShadersNoLnm_dx11.lua" Compressed="false" MetaFlag="true" Version="1" DataHash="U5ldz939GbpNGG0CFKCa1Q==" />
-    <Entry FilePath="/shaders/dx11/GrSystemShaders_dx11.fsop" Compressed="false" MetaFlag="true" Version="1" DataHash="8bsdPCCt1v7i/W2ZQDVobg==" />
+    <Entry FilePath="/shaders/dx11/GrSystemShaders_dx11.fsop" Compressed="false" MetaFlag="true" Version="1" DataHash="KOTtdbR3h4oqoY8GlK5L8g==" />
     <Entry Key="259596304" Encryption="3824742374" FilePath="/shaders/dx11/GrSystemShaders_dx11.lua" Compressed="false" MetaFlag="true" Version="1" DataHash="KnKotqC9ogVHs31dIiolrA==" />
     <Entry Key="1844453326" Encryption="3824742374" FilePath="/shaders/dx11/TppShadersNoLnm_dx11.lua" Compressed="false" MetaFlag="true" Version="1" DataHash="MIRipYcXqyzDCK8OtF6yWg==" />
-    <Entry FilePath="/shaders/dx11/TppShaders_dx11.fsop" Compressed="false" MetaFlag="true" Version="1" DataHash="YipEizs7aB7gnrwzBVbB8Q==" />
+    <Entry FilePath="/shaders/dx11/TppShaders_dx11.fsop" Compressed="false" MetaFlag="true" Version="1" DataHash="4F9Sz/5FXcgcMEeaGrhnag==" />
     <Entry Key="2791383111" Encryption="3824742374" FilePath="/shaders/dx11/TppShaders_dx11.lua" Compressed="false" MetaFlag="true" Version="1" DataHash="8GTFzXG0raEaCq7TqRwZcw==" />
   </Entries>
 </ArchiveFile>
